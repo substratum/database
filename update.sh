@@ -1,1 +1,1 @@
-./java -jar showcase-updater.jar
+java -jar showcase-updater.jar
