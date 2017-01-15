@@ -117,5 +117,12 @@
 		<author>Nguyen Ngoc Giap</author>
         <link>https://play.google.com/store/apps/details?id=substratum.ngocgiap.coolui</link>
 		<pricing>Paid</pricing>
-		<support>overlays</support><image>http://lh3.googleusercontent.com/_H-FduZztxjgEW59WjNgIeA8VCvEUs_6IsiI1KqWRwtPb-CHGffp-VpS2H7kWWXliqs=w300-rw</image></theme>
+		<support>overlays</support>
+    <image>http://lh3.googleusercontent.com/_H-FduZztxjgEW59WjNgIeA8VCvEUs_6IsiI1KqWRwtPb-CHGffp-VpS2H7kWWXliqs=w300-rw</image></theme>
+    <theme id="CompactUI">
+      <author>YAdesign</author>
+        <link>https://play.google.com/store/apps/details?id=ya.compactui.subs</link>
+      <pricing>Paid</pricing>
+      <support>overlays|fonts|bootanimation|sounds</support>
+    <image>http://lh3.googleusercontent.com/QjpXPgZDMsjYKRcTkByWvcc-OZpdpVrblLb7tpmbvpEFFJ-0CeRncFeuC-OYwXjNyR8=w300-rw</image></theme>
 </substratum>

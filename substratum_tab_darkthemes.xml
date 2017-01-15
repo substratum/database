@@ -143,4 +143,10 @@
 		<pricing>Paid</pricing>
 		<support>overlays</support>
     <image>http://lh3.googleusercontent.com/M98HpMEydRIslIvLn6kglaYa0Pgg4OuG3tjpYVWHd8RdHwLWMEvU0jqRwARkOyVN728=w300-rw</image></theme>
+    <theme id="LoNe 4SuBs">
+      <author>Kikkos</author>
+        <link>https://play.google.com/store/apps/details?id=com.kikkos.lone4subs</link>
+      <pricing>Paid</pricing>
+      <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
+    <image>http://lh3.googleusercontent.com/ECJe7nzBjGvknIcvdSq-YOXlxwFnkMyfoYITe7MFpS-DQ3jsjXN-4YH4-4WgG2lQI-WJ=w300-rw</image></theme>
 </substratum>
