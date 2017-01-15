@@ -149,4 +149,16 @@
       <pricing>Paid</pricing>
       <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
     <image>http://lh3.googleusercontent.com/ECJe7nzBjGvknIcvdSq-YOXlxwFnkMyfoYITe7MFpS-DQ3jsjXN-4YH4-4WgG2lQI-WJ=w300-rw</image></theme>
+    <theme id="Compound">
+      <author>Daniel Schott</author>
+        <link>https://play.google.com/store/apps/details?id=com.subs.compound</link>
+      <pricing>Paid</pricing>
+      <support>overlays|fonts|bootanimations</support>
+    <image>http://lh3.googleusercontent.com/lZB41r9-ehULK4ahjCUrDKOtJi2pfRmAAdOJwIGI7qtd1S82a_toBXIOH389s4FNt2g=w300-rw</image></theme>
+    <theme id="Theme Metallium Deep-Orange">
+      <author>Spike Laboratory</author>
+        <link>https://play.google.com/store/apps/details?id=org.spikelab.metallium</link>
+      <pricing>Free</pricing>
+      <support>overlays|bootanimations</support>
+    <image>http://lh3.googleusercontent.com/spFgYj0r2-ZGGnBX-4S_qRwRmN5Ythr0ofgLPNcRzZtMQiB3cdyOHC6MxCd3DkrAEkA=w300-rw</image></theme>
 </substratum>
