@@ -126,6 +126,11 @@
 		<pricing>Paid</pricing>
 		<support>overlays|wallpapers</support>
     <image>http://lh3.googleusercontent.com/-A1cYdG_ItEH7hNW1vAKc-SF6siE3scxK8D4DKDs3kF_J_Uq9NfYoSkDt5ktNdTbdw=w300-rw</image></theme>
+    <theme id="Swift Black">
+      <author>Per Lycke</author>
+        <link>https://play.google.com/store/apps/details?id=com.brit.swiftblack.layers</link>
+      <pricing>Paid</pricing>
+      <support>overlays|wallpapers</support></theme>
     <theme id="Natur">
 		<author>Soham Jambhekar</author>
         <link>https://play.google.com/store/apps/details?id=com.oriondroids.Natur</link>
