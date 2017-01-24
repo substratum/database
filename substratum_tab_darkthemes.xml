@@ -161,4 +161,16 @@
       <pricing>Free</pricing>
       <support>overlays|bootanimations</support>
     <image>http://lh3.googleusercontent.com/spFgYj0r2-ZGGnBX-4S_qRwRmN5Ythr0ofgLPNcRzZtMQiB3cdyOHC6MxCd3DkrAEkA=w300-rw</image></theme>
+    <theme id="Wavvy">
+      <author>Not Just Another Designer</author>
+        <link>https://play.google.com/store/apps/details?id=njad.wavvysubs.theme</link>
+      <pricing>Free</pricing>
+      <support>overlays|fonts|sounds|wallpapers</support>
+      <image>http://lh3.googleusercontent.com/zFOqybPcGnaP2ltZfbsgAjV2oa-MsUdQQYpBQMLKp3PlYIqFflUSwmL48sMJDdrCrJY=w300-rw</image></theme>
+    <theme id="DNA Dark Project">
+      <author>Mike xdnax</author>
+        <link>https://play.google.com/store/apps/details?id=com.xdnax.apps.dnadarkproject</link>
+      <pricing>Free</pricing>
+      <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
+      <image>http://lh3.googleusercontent.com/sR5CEXHXbLRP3bHtsIlgvfSy5Q1Sq705HciQlwcHJUNf_0WaM-e7gAz9wxKc2D2kRA8k=w300-rw</image></theme>
 </substratum>
