@@ -125,4 +125,16 @@
       <pricing>Paid</pricing>
       <support>overlays|fonts|bootanimation|sounds</support>
     <image>http://lh3.googleusercontent.com/QjpXPgZDMsjYKRcTkByWvcc-OZpdpVrblLb7tpmbvpEFFJ-0CeRncFeuC-OYwXjNyR8=w300-rw</image></theme>
+    <theme id="Uranium UI">
+      <author>CyTech</author>
+        <link>https://play.google.com/store/apps/details?id=com.cytech.uraniumsubstratum</link>
+      <pricing>Paid</pricing>
+      <support>overlays|bootanimations</support>
+    <image>http://lh3.googleusercontent.com/mXDiV_n4a0rJJ45vzbsso9i8kg6WuMyOT4HhSxle4sZvrBBntlPGr5Si6gTFbxsx77IX=w300-rw</image></theme>
+    <theme id="Spectra">
+      <author>CyTech</author>
+        <link>https://play.google.com/store/apps/details?id=com.cytech.substratumspectra</link>
+      <pricing>Paid</pricing>
+      <support>overlays|bootanimations</support>
+    <image>http://lh3.googleusercontent.com/iqzHOD0HruvDMKjaZxot_sAEl6nAXH8WxRi48EzLfFpPwKsRPTp5vVC5cBq_BUuoBCc=w300-rw</image></theme>
 </substratum>
