@@ -137,4 +137,10 @@
       <pricing>Paid</pricing>
       <support>overlays|bootanimations</support>
     <image>http://lh3.googleusercontent.com/iqzHOD0HruvDMKjaZxot_sAEl6nAXH8WxRi48EzLfFpPwKsRPTp5vVC5cBq_BUuoBCc=w300-rw</image></theme>
+    <theme id="RubiQ">
+      <author>Rahul K Dinesh</author>
+      <link>https://play.google.com/store/apps/details?id=com.b16h22.rubiq</link>
+      <pricing>Paid</pricing>
+      <support>overlays|fonts|bootanimations|sounds|wallpaperss</support>
+    </theme>
 </substratum>
