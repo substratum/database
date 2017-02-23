@@ -192,4 +192,10 @@
       <support>overlays|fonts|wallpapers</support>
       <image>http://i.imgur.com/AhFM7Sw.png</image>
     </theme>
+    <theme id="Ubuntu Dark">
+      <author>WSTeams</author>
+      <link>https://play.google.com/store/apps/details?id=substratum.wsdeveloper.ubuntudark</link>
+      <pricing>Paid</pricing>
+      <support>overlays</support>
+    <image>http://lh3.googleusercontent.com/JfcxmFauiTjHcZ8SRLWB-XyfnRYg8JESXt30QPRfmfRG9KbT2RIEYKRHJslQCsrOU-k=w300-rw</image></theme>
 </substratum>
