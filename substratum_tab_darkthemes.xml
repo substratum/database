@@ -198,4 +198,22 @@
       <pricing>Paid</pricing>
       <support>overlays</support>
     <image>http://lh3.googleusercontent.com/JfcxmFauiTjHcZ8SRLWB-XyfnRYg8JESXt30QPRfmfRG9KbT2RIEYKRHJslQCsrOU-k=w300-rw</image></theme>
+    <theme id="Neon Colors">
+      <author>Nitin Vaid</author>
+      <link>https://play.google.com/store/apps/details?id=com.nitinvaid.NeonColors</link>
+      <pricing>Paid</pricing>
+      <support>overlays</support>
+    <image>http://lh3.googleusercontent.com/_8tWzS01Z2SVTNSTbXZv-PAIgRqqi79x-yElD0rFG3Q8-9xLxGf5SYirKJcdR4ODJxo=w300-rw</image></theme>
+    <theme id="Streamlined Night">
+      <author>Gurpreet Singh</author>
+      <link>https://play.google.com/store/apps/details?id=snn.streamlined.night</link>
+      <pricing>Paid</pricing>
+      <support>overlays|wallpapers</support>
+    <image>http://lh3.googleusercontent.com/5k-euW12qjDF-C57SgxvsU0v1h5eBporzPw5u4aW7K8aIrEuUdYXluQR2FigU5XHAw=w300-rw</image></theme>
+    <theme id="Oxygen">
+      <author>GPApps</author>
+      <link>https://play.google.com/store/apps/details?id=com.pippo96.oxygenui</link>
+      <pricing>Paid</pricing>
+      <support>overlays|sounds|bootanimations|wallpapers</support>
+    <image>http://lh3.googleusercontent.com/_2P4pQpj0ncZEcUU8LXpFF5iPESn5zC4YSJa5Jvw1SRAqIXJd9RmBSzvAzu45XTGWw=w300-rw</image></theme>
 </substratum>
