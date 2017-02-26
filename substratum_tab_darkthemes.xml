@@ -216,4 +216,10 @@
       <pricing>Paid</pricing>
       <support>overlays|sounds|bootanimations|wallpapers</support>
     <image>http://lh3.googleusercontent.com/_2P4pQpj0ncZEcUU8LXpFF5iPESn5zC4YSJa5Jvw1SRAqIXJd9RmBSzvAzu45XTGWw=w300-rw</image></theme>
+    <theme id="Neon Blue Theme">
+      <author>Nitin Vaid</author>
+      <link>https://play.google.com/store/apps/details?id=com.nitinvaid.layers.neonblue</link>
+      <pricing>Paid</pricing>
+      <support>overlays</support>
+    <image>http://lh3.googleusercontent.com/tJVi0wyvVmbdeQ9IGJeMSLDh5qztt_dj6mbNeHlNmY1PmknMmMoDhBZBV9J2KXeRqjs=w300-rw</image></theme>
 </substratum>
