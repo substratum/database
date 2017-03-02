@@ -147,7 +147,7 @@
       <author>Gurpreet Singh</author>
       <link>https://play.google.com/store/apps/details?id=snn.streamlined.lite</link>
       <pricing>Free</pricing>
-      <support>overlays</support>
+      <support>overlays|fonts|wallpapers</support>
     <image>http://lh3.googleusercontent.com/b7R8LBhqdW-bgBSOV2dPsfnSM7CAtq5-brQCi3i15nw6Y4dSE5DKXE56SOAou5X3Rm8=w300-rw</image></theme>
     <theme id="Oxygen">
       <author>GPApps</author>
