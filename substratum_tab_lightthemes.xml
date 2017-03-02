@@ -141,7 +141,7 @@
       <author>Rahul K Dinesh</author>
       <link>https://play.google.com/store/apps/details?id=com.b16h22.rubiq</link>
       <pricing>Paid</pricing>
-      <support>overlays|fonts|bootanimations|sounds|wallpaperss</support>
+      <support>overlays|fonts|bootanimations|sounds|wallpapers</support>
     <image>http://lh3.googleusercontent.com/bxMgTd3XbBHGetiTdZvj70CFvfBOakksLiaMD4BtA3w1gwTvE7vocuxGFdyfL3-8yA=w300-rw</image></theme>
     <theme id="Streamlined Light">
       <author>Gurpreet Singh</author>
@@ -155,4 +155,10 @@
       <pricing>Paid</pricing>
       <support>overlays|sounds|bootanimations|wallpapers</support>
     <image>http://lh3.googleusercontent.com/_2P4pQpj0ncZEcUU8LXpFF5iPESn5zC4YSJa5Jvw1SRAqIXJd9RmBSzvAzu45XTGWw=w300-rw</image></theme>
+    <theme id="Coalfield">
+      <author>Andre Zimmermann</author>
+      <link>https://play.google.com/store/apps/details?id=com.kohlewrrk.coalfield.subs</link>
+      <pricing>Paid</pricing>
+      <support>overlays|fonts|bootanimations|sounds|wallpapers</support>
+    </theme>
 </substratum>
