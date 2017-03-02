@@ -112,7 +112,7 @@
         <link>https://play.google.com/store/apps/details?id=dejan.llevo3.belo</link>
 		<pricing>Paid</pricing>
 		<support>overlays|fonts|sounds|wallpapers</support>
-    <image>http://lh3.googleusercontent.com/4UMAVSv8sFFXl6v-xB_kEufx4qIvGfcTJoCWohtNhN_UYqP_9VlJ5mQqNkTUAo6AGuQ=w300-rw</image></theme>
+    <image>http://lh3.googleusercontent.com/VdJ1mXEKWrpP67w-KolvIDuc9ZhH3V1EbxjTn0vdJ2Y59gHA45Go7VleuvJg8ZErFor-=w300-rw</image></theme>
     <theme id="MultiUI Prime">
 		<author>Nguyen Ngoc Giap</author>
         <link>https://play.google.com/store/apps/details?id=substratum.ngocgiap.coolui</link>
@@ -160,5 +160,5 @@
       <link>https://play.google.com/store/apps/details?id=com.kohlewrrk.coalfield.subs</link>
       <pricing>Paid</pricing>
       <support>overlays|fonts|bootanimations|sounds|wallpapers</support>
-    </theme>
+    <image>http://lh3.googleusercontent.com/7Xk4Patv_I-Z1vFLd_DAk5dstcgcV61OnbfVNVv-h-uWKxxl0Uwky7_7KDbu84JHZg=w300-rw</image></theme>
 </substratum>
