@@ -16,7 +16,7 @@
         <pricing>Paid</pricing>
         <support>overlays|fonts|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/blacklight.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/KJyKye-74akCdm81En0cuc6e4LnImJAKqms7BMz_R6C7ALQPXTMex4P3gkZtgHlZfxI=w300-rw</image>
+        <image>http://lh3.googleusercontent.com/k9z2I_x5tMzZm9UvrtbktoYgIeS2L-TFY6kl1iIX-w4ws-c4OXI3X7a2BfjcTAFj_A=w300-rw</image>
     </theme>
     <theme id="Luminous">
         <author>Jeremy Beck</author>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<substratum>
+    <theme id="Theme Ready Google Apps">
+		<author>Team Black Out</author>
+        <link>http://forum.xda-developers.com/android/apps-games/apps-themeable-hangouts-layers-cmte-t3113192</link>
+        <package/>
+		<pricing>Free</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/themereadygapps.jpg</backgroundimage>
+		<image>https://github.com/Train88/TeamBlackOut/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true</image>
+		<support/>
+    </theme>
+</substratum>
