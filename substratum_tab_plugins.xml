@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
+    <theme id="Lock Clean">
+        <author>Andre Zimmermann (Kohlewrrk)</author>
+        <link>https://play.google.com/store/apps/details?id=com.kohlewrrk.lockclean</link>
+        <package>com.kohlewrrk.lockclean</package>
+        <pricing>Free</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/lockclean.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/sdH75qL7AqCR7TAdPn1vImUnr30VRy7u2zW_6SZ04CJCK4KtFZrHuHCZXEqPjFetEw=w300-rw</image>
+    </theme>
     <theme id="NavBars Theme">
         <author>Faiyaz Sheth</author>
         <link>https://play.google.com/store/apps/details?id=n.n.Navbars</link>
