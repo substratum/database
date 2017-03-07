@@ -184,7 +184,8 @@
         <link>https://play.google.com/store/apps/details?id=flux.substratum.theme</link>
       <pricing>Paid</pricing>
       <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
-    <image>http://lh3.googleusercontent.com/UgPdtXGofeoPMsaoAEL9ZGHXPBgDmoXlQwn84EkYOXsWJ2Yr62IrxvGKTMcf0FNdTQ0A=w300-rw</image></theme>
+      <backgroundimage>http://i.imgur.com/3URGhnu.png</backgroundimage>
+      <image>http://lh3.googleusercontent.com/UgPdtXGofeoPMsaoAEL9ZGHXPBgDmoXlQwn84EkYOXsWJ2Yr62IrxvGKTMcf0FNdTQ0A=w300-rw</image></theme>
     <theme id="AnotherBlueTheme">
       <author>Massimo B.</author>
         <link>https://goo.gl/jnb0xW</link>
