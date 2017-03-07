@@ -28,6 +28,7 @@
         <link>https://play.google.com/store/apps/details?id=com.annihilation.dominationdonate</link>
 		<pricing>Paid</pricing>
 		<support>overlays</support>
+    <backgroundimage>http://i.imgur.com/LBw7JIH.png</backgroundimage>
     <image>http://lh3.googleusercontent.com/-k6QLSnpLJtUuzdkMmAgqWLmYdXlf5AN03fL21UF4NBRWdh7D0Qph1Cv39byxPSb5w=w300-rw</image></theme>
     <theme id="Mono/Art">
 		<author>De Jan</author>
