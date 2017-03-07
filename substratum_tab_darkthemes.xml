@@ -36,6 +36,24 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/magpie.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/bf2frTe_FSzynjAZaWUdoLFZucqSqjtT6VdMvz_HFd_blCOJ8xhNAarKJLTXJIshgA=w300-rw</image>
     </theme>
+    <theme id="ModernUI Free">
+        <author>Laszlo Szecsenyi</author>
+        <link>https://play.google.com/store/apps/details?id=sub.kickoff.modernui</link>
+        <package>sub.kickoff.modernui</package>
+        <pricing>Free</pricing>
+        <support>overlays|fonts|sounds|bootanimations</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/modernuifree.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/7cDDfNeqKlmUlMrX16buDo5AcXETP19Ilc-hVK_6FTO0JxgCOa7SbA2l9yZeZu9Xyxk=w300-rw</image>
+    </theme>
+    <theme id="ModernUI Pro">
+        <author>Laszlo Szecsenyi</author>
+        <link>https://play.google.com/store/apps/details?id=sub.kickoff.modernuipro</link>
+        <package>sub.kickoff.modernuipro</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|bootanimations</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/modernuipro.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/gGgfDi9sbAPWplgQ9xnzFSIGgfs4OZLdNoTWUzWoyedN3PseNTj5Jke9CyjHhs-H6u6R=w300-rw</image>
+    </theme>
     <theme id="Mono/Art">
         <author>De Jan</author>
         <link>https://play.google.com/store/apps/details?id=connoisseurship.project.mono</link>
