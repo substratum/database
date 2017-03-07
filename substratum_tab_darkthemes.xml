@@ -45,6 +45,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/mono.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/1f6vvtBBkMSAKJsmvYFeFleLqf5DJioEHzTzZc3oghygJRKK6vwweqP0Z1glFY-FEmQy=w300-rw</image>
     </theme>
+    <theme id="OrangeKitten PRO">
+		<author>Ivan Iskandar</author>
+        <link>https://play.google.com/store/apps/details?id=com.iskandarivan.orangekittenpro</link>
+        <package>com.iskandarivan.orangekittenpro</package>
+		<pricing>Paid</pricing>
+		<support>overlays|fonts|sounds|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/orangekittenpro.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/WxBQUAhgX7CE6dgg8FJ809DsYBPRYBWuCVi2bXhi-3IKaWb_PW_T9fAG3CABjDO1rPDQ=w300-rw</image>
+    </theme>
     <theme id="Shade UI">
         <author>Gianluca Spadazzi</author>
         <link>https://play.google.com/store/apps/details?id=com.spada.tealholerro</link>
