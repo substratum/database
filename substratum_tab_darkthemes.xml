@@ -6,7 +6,7 @@
         <package>com.annihilation.dominationdonate</package>
         <pricing>Paid</pricing>
         <support>overlays|bootanimations</support>
-        <backgroundimage>http://i.imgur.com/YDr6Ji1.jpg</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/domination.jpg</backgroundimage>
         <image>http://lh3.googleusercontent.com/-k6QLSnpLJtUuzdkMmAgqWLmYdXlf5AN03fL21UF4NBRWdh7D0Qph1Cv39byxPSb5w=w300-rw</image>
     </theme>
     <theme id="Flux">
@@ -15,7 +15,7 @@
         <package>flux.substratum.theme</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
-        <backgroundimage>http://i.imgur.com/3URGhnu.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/flux.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/UgPdtXGofeoPMsaoAEL9ZGHXPBgDmoXlQwn84EkYOXsWJ2Yr62IrxvGKTMcf0FNdTQ0A=w300-rw</image>
     </theme>
 </substratum>
