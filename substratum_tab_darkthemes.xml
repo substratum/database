@@ -6,7 +6,7 @@
         <package>com.annihilation.dominationdonate</package>
         <pricing>Paid</pricing>
         <support>overlays|bootanimations</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/domination.jpg</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/domination.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/-k6QLSnpLJtUuzdkMmAgqWLmYdXlf5AN03fL21UF4NBRWdh7D0Qph1Cv39byxPSb5w=w300-rw</image>
     </theme>
     <theme id="Flux">
@@ -16,6 +16,69 @@
         <pricing>Paid</pricing>
         <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/flux.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/UgPdtXGofeoPMsaoAEL9ZGHXPBgDmoXlQwn84EkYOXsWJ2Yr62IrxvGKTMcf0FNdTQ0A=w300-rw</image>
+        <image>http://lh3.googleusercontent.com/eOjbUhX42MCRehW5_L9iDRliBFKTH5bXgdHaStA6Qu9yLRCrTGi5RM0FgplstPy6VMY=w300-rw</image>
+    </theme>
+    <theme id="Magpie">
+        <author>Jimmy Setiawan</author>
+        <link>https://play.google.com/store/apps/details?id=com.setiawanjimmy.TheMagpie</link>
+        <package>com.setiawanjimmy.TheMagpie</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/magpie.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/bf2frTe_FSzynjAZaWUdoLFZucqSqjtT6VdMvz_HFd_blCOJ8xhNAarKJLTXJIshgA=w300-rw</image>
+    </theme>
+    <theme id="Mono/Art">
+        <author>De Jan</author>
+        <link>https://play.google.com/store/apps/details?id=connoisseurship.project.mono</link>
+        <package>connoisseurship.project.mono</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/mono.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/1f6vvtBBkMSAKJsmvYFeFleLqf5DJioEHzTzZc3oghygJRKK6vwweqP0Z1glFY-FEmQy=w300-rw</image>
+    </theme>
+    <theme id="Shade UI">
+        <author>Gianluca Spadazzi</author>
+        <link>https://play.google.com/store/apps/details?id=com.spada.tealholerro</link>
+        <package>com.spada.tealholerro</package>
+		<pricing>Paid</pricing>
+		<support>overlays|fonts|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/shadeui.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/MZ-i4vpB9eegLc35mjp6PsaWRpOCM8vazwzVErlWx4DbNJ4o4Y81DoQ8-Qu1Et5biDU=w300-rw</image>
+    </theme>
+    <theme id="Spectrum">
+        <author>Jeremy Beck</author>
+        <link>https://play.google.com/store/apps/details?id=com.jerbeck24.Spectrum</link>
+        <package>com.jerbeck24.Spectrum</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/spectrum.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/MvPhHFem-Vqndr24gePuWRnKSNQcxMAGVHvwE1nsg5fFiLyHfRPuH7m2B6MLebF2Dnax=w300-rw</image>
+    </theme>
+    <theme id="Swift Dark">
+        <author>Per Lycke</author>
+        <link>https://play.google.com/store/apps/details?id=com.brit.swiftdark.substratum</link>
+        <package>com.brit.swiftdark.substratum</package>
+        <pricing>Paid</pricing>
+        <support>overlays|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftdark.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/-A1cYdG_ItEH7hNW1vAKc-SF6siE3scxK8D4DKDs3kF_J_Uq9NfYoSkDt5ktNdTbdw=w300-rw</image>
+    </theme>
+    <theme id="View">
+        <author>Gianluca Spadazzi</author>
+        <link>https://play.google.com/store/apps/details?id=com.spada.view</link>
+        <package>com.spada.view</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/view.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/rj0jd1Xza54EPpmS00GHRIzqPc591wgFeCs3-nJ4_XOZ36zO8TljYqQRpo-l_QwE5cE=w300-rw</image>
+    </theme>
+    <theme id="Wavvy">
+        <author>Not Just Another Designer</author>
+        <link>https://play.google.com/store/apps/details?id=njad.wavvysubs.theme</link>
+        <package>njad.wavvysubs.theme</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/wavvy.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/zFOqybPcGnaP2ltZfbsgAjV2oa-MsUdQQYpBQMLKp3PlYIqFflUSwmL48sMJDdrCrJY=w300-rw</image>
     </theme>
 </substratum>

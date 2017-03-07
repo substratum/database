@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<substratum>
+    <theme id="Belo">
+        <author>De Jan</author>
+        <link>https://play.google.com/store/apps/details?id=dejan.llevo3.belo</link>
+        <package>dejan.llevo3.belo</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/belo.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/VdJ1mXEKWrpP67w-KolvIDuc9ZhH3V1EbxjTn0vdJ2Y59gHA45Go7VleuvJg8ZErFor-=w300-rw</image>
+    </theme>
+    <theme id="Black Light">
+        <author>Gianluca Spadazzi</author>
+        <link>https://play.google.com/store/apps/details?id=com.spada.blacklightrro</link>
+        <package>com.spada.blacklightrro</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/blacklight.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/KJyKye-74akCdm81En0cuc6e4LnImJAKqms7BMz_R6C7ALQPXTMex4P3gkZtgHlZfxI=w300-rw</image>
+    </theme>
+    <theme id="Luminous">
+        <author>Jeremy Beck</author>
+        <link>https://play.google.com/store/apps/details?id=com.jerbeck24.Luminous</link>
+        <package>com.jerbeck24.Luminous</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/luminous.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/tnwcSgwGiBudA1UTeOhHPeLQkfCKF1EPqoiJacRVkx3AIP8DgREGbOzhqL27i84F-F8Q=w300-rw</image>
+    </theme>
+    <theme id="Magpie">
+        <author>Jimmy Setiawan</author>
+        <link>https://play.google.com/store/apps/details?id=com.setiawanjimmy.TheMagpie</link>
+        <package>com.setiawanjimmy.TheMagpie</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/magpie.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/bf2frTe_FSzynjAZaWUdoLFZucqSqjtT6VdMvz_HFd_blCOJ8xhNAarKJLTXJIshgA=w300-rw</image>
+    </theme>
+    <theme id="Rounded UI">
+        <author>Gianluca Spadazzi</author>
+        <link>https://play.google.com/store/apps/details?id=com.spada.roundedui</link>
+        <package>com.spada.roundedui</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/roundedui.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/y8YM0mzgVdHaWXUxFDQk3IdJqOx7ievhtS_s8z1twd9VdDaJ2bLZZ4indSssebcQt94=w300-rw</image>
+    </theme>
+</substratum>

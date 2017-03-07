@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<substratum>
+    <theme id="Trip Nav Bar">
+        <author>Gianluca Spadazzi</author>
+        <link>https://play.google.com/store/apps/details?id=com.spada.tripnavbar</link>
+        <package>com.spada.tripnavbar</package>
+        <pricing>Free</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/tripnavbar.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/hVi3lsMSl29sysQbIRsVQjjsCFAxy_JEEphml197mlrFZPVL-KA78qgQsQSEaBMLIPU=w300-rw</image>
+    </theme>
+</substratum>

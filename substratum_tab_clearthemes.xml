@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<substratum>
+    <theme id="Transparent">
+		<author>Gianluca Spadazzi</author>
+        <link>https://play.google.com/store/apps/details?id=com.spada.transparent</link>
+        <package>com.spada.transparent</package>
+		<pricing>Paid</pricing>
+		<support>overlays|fonts|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/transparent.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/LtyyfDmnk2-_sruU0KNu0UOFeegFd1uXnGEA9BHqLo2pq5M_yMFftJMRgwl2po6XcsM=w300-rw</image>
+    </theme>
+</substratum>
