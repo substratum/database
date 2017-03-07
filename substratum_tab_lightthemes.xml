@@ -45,4 +45,13 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/roundedui.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/y8YM0mzgVdHaWXUxFDQk3IdJqOx7ievhtS_s8z1twd9VdDaJ2bLZZ4indSssebcQt94=w300-rw</image>
     </theme>
+    <theme id="Streamlined Light">
+        <author>Gurpreet Singh</author>
+        <link>https://play.google.com/store/apps/details?id=snn.streamlined.lite</link>
+        <package>snn.streamlined.lite</package>
+        <pricing>Free</pricing>
+        <support>overlays|fonts|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/streamlinedlight.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/b7R8LBhqdW-bgBSOV2dPsfnSM7CAtq5-brQCi3i15nw6Y4dSE5DKXE56SOAou5X3Rm8=w300-rw</image>
+    </theme>
 </substratum>

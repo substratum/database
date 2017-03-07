@@ -18,6 +18,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/flux.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/eOjbUhX42MCRehW5_L9iDRliBFKTH5bXgdHaStA6Qu9yLRCrTGi5RM0FgplstPy6VMY=w300-rw</image>
     </theme>
+    <theme id="Lunar">
+        <author>Gurpreet Singh</author>
+        <link>https://play.google.com/store/apps/details?id=snn.lunar</link>
+        <package>snn.lunar</package>
+        <pricing>Paid</pricing>
+        <support>overlays|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/lunar.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/kcNNfuheaFrp1F8nVJ8IgnkqR6aLU8H_rCNAI-lrToBkD6ky81sA_By6Z7P5rghCC7_J=w300-rw</image>
+    </theme>
     <theme id="Magpie">
         <author>Jimmy Setiawan</author>
         <link>https://play.google.com/store/apps/details?id=com.setiawanjimmy.TheMagpie</link>
@@ -53,6 +62,15 @@
         <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/spectrum.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/MvPhHFem-Vqndr24gePuWRnKSNQcxMAGVHvwE1nsg5fFiLyHfRPuH7m2B6MLebF2Dnax=w300-rw</image>
+    </theme>
+    <theme id="Streamlined Night">
+        <author>Gurpreet Singh</author>
+        <link>https://play.google.com/store/apps/details?id=snn.streamlined.night</link>
+        <package>snn.streamlined.night</package>
+        <pricing>Paid</pricing>
+        <support>overlays|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/streamlinednight.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/5k-euW12qjDF-C57SgxvsU0v1h5eBporzPw5u4aW7K8aIrEuUdYXluQR2FigU5XHAw=w300-rw</image>
     </theme>
     <theme id="Swift Dark">
         <author>Per Lycke</author>
