@@ -54,6 +54,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/flux.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/eOjbUhX42MCRehW5_L9iDRliBFKTH5bXgdHaStA6Qu9yLRCrTGi5RM0FgplstPy6VMY=w300-rw</image>
     </theme>
+    <theme id="Game Over!">
+        <author>Samuel Garcia</author>
+        <link>https://www.androidfilehost.com/?w=files&amp;flid=123917</link>
+        <package>com.samsonincorporated.gameover</package>
+        <pricing>Free</pricing>
+        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/gameover.jpg</backgroundimage>
+        <image>http://i.imgur.com/51wUfmn.png</image>
+    </theme>
     <theme id="LoNe 4SuBs">
         <author>Kikkos</author>
         <link>https://play.google.com/store/apps/details?id=com.kikkos.lone4subs</link>
