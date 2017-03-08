@@ -9,6 +9,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/blackstocktheme.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/iWytFmDHGe-Lm-Zp2EfmWEUhEm_k63aTM50m-9plDBr5V0fEl79b_Y1fJr7_v6aL9mc=w300-rw</image>
     </theme>
+    <theme id="Compound">
+        <author>Daniel Schott</author>
+        <link>https://play.google.com/store/apps/details?id=com.subs.compound</link>
+        <package>com.subs.compound</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|bootanimations</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/compound.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/lZB41r9-ehULK4ahjCUrDKOtJi2pfRmAAdOJwIGI7qtd1S82a_toBXIOH389s4FNt2g=w300-rw</image>
+    </theme>
     <theme id="Dark Infusion">
         <author>Jake Engdahl (TheRealBigJake)</author>
         <link>https://play.google.com/store/apps/details?id=com.therealbigjake.darkorange</link>
