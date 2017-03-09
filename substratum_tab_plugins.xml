@@ -27,4 +27,22 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/tripnavbar.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/hVi3lsMSl29sysQbIRsVQjjsCFAxy_JEEphml197mlrFZPVL-KA78qgQsQSEaBMLIPU=w300-rw</image>
     </theme>
+    <theme id="Vivid Icon Set">
+        <author>Michele Amendolagine</author>
+        <link>https://play.google.com/store/apps/details?id=com.ami.vividiconset</link>
+        <package>com.ami.vividiconset</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vividiconset.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/2MjSl00EcuWYVL9NHvoO-WBd7SCaZADNj3k2cQC-rdLZF-ZytEwbBp5-Erbf8QE1dZvX=w300-rw</image>
+    </theme>
+    <theme id="Vivid QuickSettings">
+        <author>Michele Amendolagine</author>
+        <link>https://play.google.com/store/apps/details?id=com.ami.vivid</link>
+        <package>com.ami.vivid</package>
+        <pricing>Free</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vividquicksettings.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/OianiahQAwe0gx7IKc3OoLl3387EtNQtpUCTJ5MFZI0ZlGoIudFjgoaCIxfFuGONI3Q=w300-rw</image>
+    </theme>
 </substratum>
