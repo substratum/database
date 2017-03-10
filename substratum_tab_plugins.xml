@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
+    <theme id="Ewhats Color">
+        <author>Eduardo Saiz Perez</author>
+        <link>https://play.google.com/store/apps/details?id=com.dudu.EWhatsthemelite</link>
+        <package>com.dudu.EWhatsthemelite</package>
+        <pricing>Free</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ewhatscolor.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/Q4JovgW3WTT1IIjdzPypp8Cdvxsl27TuGdHv_mZUOCGxj7eagZ4mIsQu7wck9mC8gDc=w300-rw</image>
+    </theme>
+    <theme id="Ewhats Theme">
+        <author>Eduardo Saiz Perez</author>
+        <link>https://play.google.com/store/apps/details?id=com.dudu.EWhatstheme</link>
+        <package>com.dudu.EWhatstheme</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ewhatstheme.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/xANOl7M3u3vfYzQxLRupY1eyD7Qxp4gjqoyP9hBz113UYY29y6oqX15gFAn4DcvgD1I=w300-rw</image>
+    </theme>
     <theme id="Lock Clean">
         <author>Andre Zimmermann (Kohlewrrk)</author>
         <link>https://play.google.com/store/apps/details?id=com.kohlewrrk.lockclean</link>

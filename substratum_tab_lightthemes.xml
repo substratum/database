@@ -81,6 +81,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/roundedui.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/y8YM0mzgVdHaWXUxFDQk3IdJqOx7ievhtS_s8z1twd9VdDaJ2bLZZ4indSssebcQt94=w300-rw</image>
     </theme>
+    <theme id="RubiQ">
+        <author>Rahul K Dinesh</author>
+        <link>https://play.google.com/store/apps/details?id=com.b16h22.rubiq</link>
+        <package>com.b16h22.rubiq</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|bootanimations|sounds|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/rubiq.jpg</backgroundimage>
+        <image>http://lh3.googleusercontent.com/bxMgTd3XbBHGetiTdZvj70CFvfBOakksLiaMD4BtA3w1gwTvE7vocuxGFdyfL3-8yA=w300-rw</image>
+    </theme>
     <theme id="Streamlined Light">
         <author>Gurpreet Singh</author>
         <link>https://play.google.com/store/apps/details?id=snn.streamlined.lite</link>
