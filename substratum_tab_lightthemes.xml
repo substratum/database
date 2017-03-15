@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
+    <theme id="AnotherBlueTheme">
+        <author>Massimo B.</author>
+        <link>https://goo.gl/jnb0xW</link>
+        <package>substratum.theme.AnotherBlueTheme</package>
+        <pricing>Free</pricing>
+        <support>overlays|fonts|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/anotherbluetheme_banner.png</backgroundimage>
+        <image>https://raw.githubusercontent.com/substratum/database/master/images/anotherbluetheme_icon.png</image>
+    </theme>
     <theme id="Antares">
         <author>Recenz Tastic</author>
         <link>https://play.google.com/store/apps/details?id=com.minar.subantares</link>
@@ -7,7 +16,7 @@
         <pricing>Paid</pricing>
         <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/antares.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/HgK58bpeJRwCyfHWyFi8qqEug63uHsQROW9m0ELxkpUG4P4jMA-pWdkcDsbq9XmmG4M=w300-rw</image>
+        <image>http://lh3.googleusercontent.com/YMKWi23RbUzgV6af5tIcEtCYpNrKx85mcDfmFWeAWu68Rnl2NjRQTQ31JfqA2QYtnPk=w300-rw</image>
     </theme>
     <theme id="Belo">
         <author>De Jan (llevo3)</author>
@@ -36,6 +45,33 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/coalfield.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/7Xk4Patv_I-Z1vFLd_DAk5dstcgcV61OnbfVNVv-h-uWKxxl0Uwky7_7KDbu84JHZg=w300-rw</image>
     </theme>
+    <theme id="Compound">
+        <author>Daniel Schott</author>
+        <link>https://play.google.com/store/apps/details?id=compound.light.subs</link>
+        <package>compound.light.subs</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/compound.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/7ziDJfUuA5QwurL8ZRjNaQ4EaCR_ZFuoIajfEX92_Z_0ndjHtk_lQw2bq_jhHgaL9YDa=w300-rw</image>
+    </theme>
+    <theme id="Fusion UI">
+        <author>CyTech</author>
+        <link>https://play.google.com/store/apps/details?id=com.cytech.fusionsubstratum</link>
+        <package>com.cytech.fusionsubstratum</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|bootanimations|sounds</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fusionui.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/08HWZvASEyqLyS1AyzokJDOJuBNJvjd3VsYtVKszlbQ_awtjxaxTfFFQPNm95J5U1I4=w300-rw</image>
+    </theme>
+    <theme id="Hybrid UI">
+        <author>CyTech</author>
+        <link>https://play.google.com/store/apps/details?id=com.cytech.hybridsubtratum</link>
+        <package>com.cytech.hybridsubtratum</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|bootanimations|sounds</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/hybridui.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/XF79VJDkewa1e5OQ9DUd9MiCXBBuYbeSxVkg88-CPwJc-yfKxnjTGFwyZtwEPmPZKePu=w300-rw</image>
+    </theme>
     <theme id="LoNe 4SuBs">
         <author>Kikkos</author>
         <link>https://play.google.com/store/apps/details?id=com.kikkos.lone4subs</link>
@@ -62,6 +98,15 @@
         <support>overlays|fonts|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/magpie.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/bf2frTe_FSzynjAZaWUdoLFZucqSqjtT6VdMvz_HFd_blCOJ8xhNAarKJLTXJIshgA=w300-rw</image>
+    </theme>
+    <theme id="Risalto">
+        <author>Leonardo Fraccaroli</author>
+        <link>https://play.google.com/store/apps/details?id=com.leofracca.risaltosubs</link>
+        <package>com.leofracca.risaltosubs</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/risalto.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/TV-wiQys6m6aYIBUr0NgJEk0jxRuY9uMbnw_cFLTS76wfpZo-XXvwi_x34IgtpDCHFc=w300-rw</image>
     </theme>
     <theme id="Reverie">
         <author>Andre Zimmermann (Kohlewrrk)</author>
@@ -90,6 +135,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/rubiq.jpg</backgroundimage>
         <image>http://lh3.googleusercontent.com/bxMgTd3XbBHGetiTdZvj70CFvfBOakksLiaMD4BtA3w1gwTvE7vocuxGFdyfL3-8yA=w300-rw</image>
     </theme>
+    <theme id="Spectra">
+        <author>CyTech</author>
+        <link>https://play.google.com/store/apps/details?id=com.cytech.substratumspectra</link>
+        <package>com.cytech.substratumspectra</package>
+        <pricing>Paid</pricing>
+        <support>overlays|bootanimations</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/spectra.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/iqzHOD0HruvDMKjaZxot_sAEl6nAXH8WxRi48EzLfFpPwKsRPTp5vVC5cBq_BUuoBCc=w300-rw</image>
+    </theme>
     <theme id="Streamlined Light">
         <author>Gurpreet Singh</author>
         <link>https://play.google.com/store/apps/details?id=snn.streamlined.lite</link>
@@ -98,5 +152,14 @@
         <support>overlays|fonts|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/streamlinedlight.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/b7R8LBhqdW-bgBSOV2dPsfnSM7CAtq5-brQCi3i15nw6Y4dSE5DKXE56SOAou5X3Rm8=w300-rw</image>
+    </theme>
+    <theme id="Uranium UI">
+        <author>CyTech</author>
+        <link>https://play.google.com/store/apps/details?id=com.cytech.uraniumsubstratum</link>
+        <package>com.cytech.uraniumsubstratum</package>
+        <pricing>Paid</pricing>
+        <support>overlays|bootanimations</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/uraniumui.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/mXDiV_n4a0rJJ45vzbsso9i8kg6WuMyOT4HhSxle4sZvrBBntlPGr5Si6gTFbxsx77IX=w300-rw</image>
     </theme>
 </substratum>
