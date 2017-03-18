@@ -36,6 +36,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/darkstocktheme.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/VicBrCMPh1FNksnRJoH9NYNOv9Ui9Iyt0dO5jEGOPkJKYlVEhadkPi91_9Saox3uMg=w300-rw</image>
     </theme>
+    <theme id="Default Dark Theme">
+        <author>SpiritCroc</author>
+        <link>https://play.google.com/store/apps/details?id=de.spiritcroc.defaultdarktheme_oms</link>
+        <package>de.spiritcroc.defaultdarktheme_oms</package>
+        <pricing>Free</pricing>
+        <support>overlays|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/defaultdarktheme.jpg</backgroundimage>
+        <image>http://lh3.googleusercontent.com/eIx4k1enwJC7U3Ktc1qFETjDos6XSUd4vU2uW_xe3oyXfuD5vk8vLcXM-SqhVaxkuvU=w300-rw</image>
+    </theme>
     <theme id="DNA Dark Project">
         <author>Mike xdnax</author>
         <link>https://play.google.com/store/apps/details?id=com.xdnax.apps.dnadarkproject</link>
