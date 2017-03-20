@@ -45,13 +45,13 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/coalfield.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/7Xk4Patv_I-Z1vFLd_DAk5dstcgcV61OnbfVNVv-h-uWKxxl0Uwky7_7KDbu84JHZg=w300-rw</image>
     </theme>
-    <theme id="Compound">
+    <theme id="Compound [light]">
         <author>Daniel Schott</author>
         <link>https://play.google.com/store/apps/details?id=compound.light.subs</link>
         <package>compound.light.subs</package>
         <pricing>Paid</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/compound.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/compoundlight.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/7ziDJfUuA5QwurL8ZRjNaQ4EaCR_ZFuoIajfEX92_Z_0ndjHtk_lQw2bq_jhHgaL9YDa=w300-rw</image>
     </theme>
     <theme id="Fusion UI">
