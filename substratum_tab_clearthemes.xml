@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
+    <theme id="LoNe 4SuBs">
+        <author>Kikkos</author>
+        <link>https://play.google.com/store/apps/details?id=com.kikkos.lone4subs</link>
+        <package>com.kikkos.lone4subs</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/lone4subs.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/ECJe7nzBjGvknIcvdSq-YOXlxwFnkMyfoYITe7MFpS-DQ3jsjXN-4YH4-4WgG2lQI-WJ=w300-rw</image>
+    </theme>
     <theme id="Transparent">
 		<author>Gianluca Spadazzi</author>
         <link>https://play.google.com/store/apps/details?id=com.spada.transparent</link>
