@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
     <rom id="abc" />
-    <rom id="aex" />
+    <rom id="ro.aex.device" />
     <rom id="aim" />
     <rom id="aicp" />
     <rom id="aosip" />
@@ -33,9 +33,9 @@
     <rom id="nuclearom" />
     <rom id="octos" />
     <rom id="omni" />
-    <rom id="pa_" />
+    <rom id="ro.pa.version" />
     <rom id="pure" />
-    <rom id="rr" />
+    <rom id="ro.rr.device" />
     <rom id="saosp" />
     <rom id="screwd" />
     <rom id="tesla" />
