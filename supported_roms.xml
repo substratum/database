@@ -2,6 +2,7 @@
 <substratum>
     <rom id="abc" />
     <rom id="aex" />
+    <rom id="aim" />
     <rom id="aicp" />
     <rom id="aosip" />
     <rom id="beltz" />
