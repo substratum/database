@@ -20,7 +20,7 @@
     <rom id="discovery" />
     <rom id="exodus" />
     <rom id="firehound" />
-    <rom id="flash" />
+    <rom id="flash_" />
     <rom id="XOS" />
     <rom id="idprophecy" />
     <rom id="jdc" />
