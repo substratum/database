@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
+    <theme id="Beltz Theme">
+        <author>Jimmy Setiawan</author>
+        <link>https://play.google.com/store/apps/details?id=bitsykolayers.Midnight</link>
+        <package>bitsykolayers.Midnight</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/beltz.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/jMWFY93hzT-Wrwo06Y0uCOXwGCy8D0cd2uDBR4MkGswOj0BGatEDBRmJIOnN3TjfTjg=w300-rw</image>
+    </theme>
     <theme id="Black Stock Theme">
         <author>Piereligio Di Sante</author>
         <link>https://play.google.com/store/apps/details?id=bitsykolayers.piereligio.bst</link>

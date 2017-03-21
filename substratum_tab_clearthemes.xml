@@ -9,6 +9,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/lone4subs.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/ECJe7nzBjGvknIcvdSq-YOXlxwFnkMyfoYITe7MFpS-DQ3jsjXN-4YH4-4WgG2lQI-WJ=w300-rw</image>
     </theme>
+    <theme id="Magpie Clear">
+        <author>Jimmy Setiawan</author>
+        <link>https://play.google.com/store/apps/details?id=com.setiawanjimmy.MagpieClear</link>
+        <package>com.setiawanjimmy.MagpieClear</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/magpie.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/VQQ23_ajRvIgHVb040vxekg7NPGJMx_DlXpFGux9aTDtvc09a6bTDWAqyv09Hl7xJUs=w300-rw</image>
+    </theme>
     <theme id="Transparent">
 		<author>Gianluca Spadazzi</author>
         <link>https://play.google.com/store/apps/details?id=com.spada.transparent</link>
