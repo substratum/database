@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
+    <theme id="Boot for Subs">
+        <author>Sreerag Ag</author>
+        <link>https://play.google.com/store/apps/details?id=com.sreerag.boot</link>
+        <package>com.sreerag.boot</package>
+        <pricing>Free</pricing>
+        <support>bootanimations</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/bootforsubs.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/U1lBPeTNoxENSUpIuyFGJ6BLXa2bBcoWO7nIwaLiG9jGLyXYgSH3JHvPzBuAzwB1-zKi=w300-rw</image>
+    </theme>
     <theme id="Ewhats Color">
         <author>Eduardo Saiz Perez</author>
         <link>https://play.google.com/store/apps/details?id=com.dudu.EWhatsthemelite</link>

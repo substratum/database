@@ -99,6 +99,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/magpie.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/bf2frTe_FSzynjAZaWUdoLFZucqSqjtT6VdMvz_HFd_blCOJ8xhNAarKJLTXJIshgA=w300-rw</image>
     </theme>
+    <theme id="minimaterial">
+        <author>Dimitris Psallidas (eurochild)</author>
+        <link>https://play.google.com/store/apps/details?id=com.dps.minimaterialsub</link>
+        <package>com.dps.minimaterialsub</package>
+        <pricing>paid</pricing>
+        <support>overlays|fonts|sounds|bootanimations</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/minimaterial.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/Fuiac5yVuCL3UfOOwrMNecRp_LmnLK48JKzZs6v0ZCYzSrjdGbhWv8HGvM7zGUXnRhE=w300-rw</image>
+    </theme>
     <theme id="Risalto">
         <author>Leonardo Fraccaroli</author>
         <link>https://play.google.com/store/apps/details?id=com.leofracca.risaltosubs</link>
