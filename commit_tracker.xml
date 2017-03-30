@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<substratum>
+    <repo name="android">
+        <bools>https://raw.githubusercontent.com/SubstratumResources/platform_frameworks_base/n-mr1-rootless/core/res/res/values/projekt_config.xml</bools>
+        <colors>https://raw.githubusercontent.com/SubstratumResources/platform_frameworks_base/n-mr1-rootless/core/res/res/values/projekt_colors.xml</colors>
+    </repo>
+
+    <repo name="com.android.calculator2">
+        <colors>https://raw.githubusercontent.com/SubstratumResources/platform_packages_apps_ExactCalculator/n-mr1-rootless/res/values/projekt_colors.xml</colors>
+        <dimens>https://github.com/SubstratumResources/platform_packages_apps_ExactCalculator/raw/n-mr1-rootless/res/values/projekt_dimens.xml</dimens>
+    </repo>
+
+    <repo name="com.android.contacts">
+        <colors>https://raw.githubusercontent.com/SubstratumResources/platform_packages_apps_contacts/n-mr1-rootless/res/values/projekt_colors.xml</colors>
+    </repo>
+
+    <repo name="com.android.contacts.common">
+        <colors>https://raw.githubusercontent.com/SubstratumResources/platform_packages_apps_ContactsCommon/n-mr1-rootless/res/values/projekt_colors.xml</colors>
+    </repo>
+
+    <repo name="com.android.dialer">
+        <bools>https://raw.githubusercontent.com/SubstratumResources/platform_packages_apps_Dialer/n-mr1-rootless/res/values/projekt_config.xml</bools>
+        <colors>https://raw.githubusercontent.com/SubstratumResources/platform_packages_apps_Dialer/n-mr1-rootless/res/values/projekt_colors.xml</colors>
+    </repo>
+
+    <repo name="com.android.phone.common">
+        <colors>https://raw.githubusercontent.com/SubstratumResources/platform_packages_apps_PhoneCommon/n-mr1-rootless/res/values/projekt_colors.xml</colors>
+    </repo>
+
+    <repo name="com.android.settings">
+        <colors>https://raw.githubusercontent.com/SubstratumResources/platform_packages_apps_settings/n-mr1-rootless/res/values/projekt_colors.xml</colors>
+        <styles>https://raw.githubusercontent.com/SubstratumResources/platform_packages_apps_settings/n-mr1-rootless/res/values/projekt_styles.xml</styles>
+        <dimens>https://raw.githubusercontent.com/SubstratumResources/platform_packages_apps_settings/n-mr1-rootless/res/values/projekt_dimens.xml</dimens>
+    </repo>
+
+    <repo name="com.android.systemui">
+        <colors>https://raw.githubusercontent.com/SubstratumResources/platform_frameworks_base/n-mr1-rootless/packages/SystemUI/res/values/projekt_colors.xml</colors>
+        <styles>https://raw.githubusercontent.com/SubstratumResources/platform_frameworks_base/n-mr1-rootless/packages/SystemUI/res/values/projekt_styles.xml</styles>
+    </repo>
+</substratum>
