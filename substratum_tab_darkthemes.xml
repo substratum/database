@@ -9,6 +9,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/beltz.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/jMWFY93hzT-Wrwo06Y0uCOXwGCy8D0cd2uDBR4MkGswOj0BGatEDBRmJIOnN3TjfTjg=w300-rw</image>
     </theme>
+    <theme id="Black Mech">
+        <author>BreakCore_Rush</author>
+        <link>https://play.google.com/store/apps/details?id=ssblackmech.breakcore_rush.theme</link>
+        <package>ssblackmech.breakcore_rush.theme</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/blackmech.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/B6UZgfAVYpqb5FcIoDX3hfCgedTNJ9ZBOh_2bYq5OzzBsXEVKpyzG__1W58d2REzBHY=w300-rw</image>
+    </theme>
     <theme id="Black Stock Theme">
         <author>Piereligio Di Sante</author>
         <link>https://play.google.com/store/apps/details?id=bitsykolayers.piereligio.bst</link>
