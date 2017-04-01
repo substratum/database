@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<substratum>
+    <repo name="com.android.settings">
+        <filter1 name="licensingStyle">Theme.SettingsLicenseActivity</filter1>
+    </repo>
+</substratum>
