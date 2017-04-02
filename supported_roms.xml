@@ -19,7 +19,7 @@
     <rom id="ro.du.version" />
     <rom id="discovery" />
     <rom id="exodus" />
-    <rom id="firehound" />
+    <rom id="ro.fh.version" />
     <rom id="ro.flash.version" />
     <rom id="XOS" />
     <rom id="idprophecy" />
