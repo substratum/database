@@ -36,6 +36,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/blackstocktheme.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/iWytFmDHGe-Lm-Zp2EfmWEUhEm_k63aTM50m-9plDBr5V0fEl79b_Y1fJr7_v6aL9mc=w300-rw</image>
     </theme>
+    <theme id="BlueDragoon">
+        <author>Ananda Basak</author>
+        <link>https://play.google.com/store/apps/details?id=com.anandabasak.extendedUI</link>
+        <package>com.anandabasak.extendedUI</package>
+        <pricing>Free</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/bluedragoon.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/2DJb_Au9vS1pGCAvONTFVOmzqu4B3NcxY1SAIz7irHN5iusHhe3RAnSFq7tXZsXrtQ=w300-rw</image>
+    </theme>
     <theme id="Compound">
         <author>Daniel Schott</author>
         <link>https://play.google.com/store/apps/details?id=com.subs.compound</link>
@@ -90,6 +99,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/domination.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/-k6QLSnpLJtUuzdkMmAgqWLmYdXlf5AN03fL21UF4NBRWdh7D0Qph1Cv39byxPSb5w=w300-rw</image>
     </theme>
+    <theme id="Fantasy">
+        <author>DeadmanxXD</author>
+        <link>https://play.google.com/store/apps/details?id=com.samsoft.fantasy</link>
+        <package>com.samsoft.fantasy</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fantasy.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/ca1xNnuPugGPVhKZufIx1YY_KNJ41NdkW7PzHfo2LYT5F7HcnYhWFUtoa5Fbs2Qs1ZY=w300-rw</image>
+    </theme>
     <theme id="Flux">
         <author>John Xionidis (giannisgx89)</author>
         <link>https://play.google.com/store/apps/details?id=flux.substratum.theme</link>
@@ -107,6 +125,15 @@
         <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/gameover.jpg</backgroundimage>
         <image>http://i.imgur.com/51wUfmn.png</image>
+    </theme>
+    <theme id="Glow">
+        <author>Wasim Khan</author>
+        <link>https://play.google.com/store/apps/details?id=substratum.blinq.glow</link>
+        <package>substratum.blinq.glow</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|bootanimations</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/glow.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/ffZsyRJRKzko-NWsuzWpO-s2zuWeAhYqNqb6g4Hu75xxJsNo80IAXW9AjL5mz-Bn6hUj=w300-rw</image>
     </theme>
     <theme id="LoNe 4SuBs">
         <author>Kikkos</author>
@@ -215,6 +242,15 @@
         <support>overlays|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftdark.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/-A1cYdG_ItEH7hNW1vAKc-SF6siE3scxK8D4DKDs3kF_J_Uq9NfYoSkDt5ktNdTbdw=w300-rw</image>
+    </theme>
+    <theme id="Vibrance">
+        <author>Wasim Khan</author>
+        <link>https://play.google.com/store/apps/details?id=substratum.blinq.vibrance</link>
+        <package>substratum.blinq.vibrance</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|bootanimations</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vibrance.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/UTks00ySwIdZUr3XyuP7QOcDA0-Hhp7BtNMs_LEkZUwV0jBJt_E-WAOgOKCZK3PhDk4=w300-rw</image>
     </theme>
     <theme id="View">
         <author>Gianluca Spadazzi</author>
