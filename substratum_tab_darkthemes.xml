@@ -18,6 +18,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/bigblu.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/Fbru3lX4fTqeU47wVoY78oeOaICoE04_dsNwfTA3K2240kywiXdrCVMir2mBWz2Atw=w300-rw</image>
     </theme>
+    <theme id="Biohazard">
+        <author>pierx</author>
+        <link>https://play.google.com/store/apps/details?id=com.pierx.biohazard.theme</link>
+        <package>com.pierx.biohazard.theme</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/biohazard.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/4x95oPP6BQWbIM4PIwBXN6auvqTCBKMLr_-83l22KfPJZiMYvQRYmj16geJbDihbBJho=w300-rw</image>
+    </theme>
     <theme id="Black Mech">
         <author>BreakCore_Rush</author>
         <link>https://play.google.com/store/apps/details?id=ssblackmech.breakcore_rush.theme</link>
@@ -134,6 +143,15 @@
         <support>overlays|fonts|sounds|bootanimations</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/glow.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/ffZsyRJRKzko-NWsuzWpO-s2zuWeAhYqNqb6g4Hu75xxJsNo80IAXW9AjL5mz-Bn6hUj=w300-rw</image>
+    </theme>
+    <theme id="Gravija">
+        <author>pierx</author>
+        <link>https://play.google.com/store/apps/details?id=com.pierx.gravija</link>
+        <package>com.pierx.gravija</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/gravija_dark.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/idmqcyf2IddT5XCvs2oq45BeLK4OB90_gDcb6XWA57B5MzzV4ixP44b-zWC2GG9oSw=w300-rw</image>
     </theme>
     <theme id="LoNe 4SuBs">
         <author>Kikkos</author>

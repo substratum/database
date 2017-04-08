@@ -63,6 +63,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fusionui.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/08HWZvASEyqLyS1AyzokJDOJuBNJvjd3VsYtVKszlbQ_awtjxaxTfFFQPNm95J5U1I4=w300-rw</image>
     </theme>
+    <theme id="Gravija">
+        <author>pierx</author>
+        <link>https://play.google.com/store/apps/details?id=com.pierx.gravija</link>
+        <package>com.pierx.gravija</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/gravija_light.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/idmqcyf2IddT5XCvs2oq45BeLK4OB90_gDcb6XWA57B5MzzV4ixP44b-zWC2GG9oSw=w300-rw</image>
+    </theme>
     <theme id="Hybrid UI">
         <author>CyTech</author>
         <link>https://play.google.com/store/apps/details?id=com.cytech.hybridsubtratum</link>
