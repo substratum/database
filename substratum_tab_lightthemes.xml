@@ -160,7 +160,7 @@
         <pricing>Paid</pricing>
         <support>overlays|fonts|bootanimations|sounds|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/rubiq.jpg</backgroundimage>
-        <image>http://lh3.googleusercontent.com/bxMgTd3XbBHGetiTdZvj70CFvfBOakksLiaMD4BtA3w1gwTvE7vocuxGFdyfL3-8yA=w300-rw</image>
+        <image>http://lh3.googleusercontent.com/RR8TQguLSbIaja2zGhBzLHdEg0m0A3WVRluMBqV9jArepJz1rrfxJnTtup1HWi0Ghsc=w300-rw</image>
     </theme>
     <theme id="Spectra">
         <author>CyTech</author>
