@@ -18,6 +18,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/magpie.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/VQQ23_ajRvIgHVb040vxekg7NPGJMx_DlXpFGux9aTDtvc09a6bTDWAqyv09Hl7xJUs=w300-rw</image>
     </theme>
+    <theme id="Sprite">
+        <author>DJDarkknight96</author>
+        <link>https://play.google.com/store/apps/details?id=com.djdarkknight.subs.sprite</link>
+        <package>com.djdarkknight.subs.sprite</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/sprite.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/tjik_89X8gm1XSOU-oT8M0usmZi_piseOKH1zeh11j-SC3y3u1x_IO1fV_jfNUg5lNg=w300-rw</image>
+    </theme>
     <theme id="Transparent">
 		<author>Gianluca Spadazzi</author>
         <link>https://play.google.com/store/apps/details?id=com.spada.transparent</link>
