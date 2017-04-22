@@ -21,7 +21,7 @@
     <rom id="exodus" />
     <rom id="ro.fh.version" />
     <rom id="ro.flash.version" />
-    <rom id="XOS" />
+    <rom id="ro.xos.version" />
     <rom id="idprophecy" />
     <rom id="jdc" />
     <rom id="krexus" />
