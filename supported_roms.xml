@@ -21,7 +21,7 @@
     <rom name="Exodus" id="exodus" />
     <rom name="Firehound" id="ro.fh.version" />
     <rom name="Flash" id="ro.flash.version" />
-    <rom name="Halogen OS" id="ro.xos.version" />
+    <rom name="halogenOS" id="ro.xos.version" />
     <rom name="idprophecy's Unofficial Lineage" id="idprophecy" />
     <rom name="JflteDevConnection" id="jdc" />
     <rom name="Krexus" id="krexus" />
