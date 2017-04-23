@@ -15,7 +15,7 @@
     <rom name="Cosmic" id="cosmic" />
     <rom name="CypherOS" id="cypher" />
     <rom name="Darkness Redefined" id="darkness" />
-    <rom name="Desolation" id="desolation" />
+    <rom name="Desolation" id="ro.deso.version" />
     <rom name="Dirty Unicorns" id="ro.du.version" />
     <rom name="Discovery ROM" id="discovery" />
     <rom name="Exodus" id="exodus" />
