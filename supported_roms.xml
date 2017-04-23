@@ -38,12 +38,12 @@
     <rom id="ro.rr.device" />
     <rom id="saosp" />
     <rom id="screwd" />
-    <rom id="tesla" />
-    <rom id="tipsy" />
+    <rom id="ro.tesla.version" />
+    <rom id="ro.tipsy.version" />
     <rom id="tugapower" />
     <rom id="twisted" />
     <rom id="uber" />
-    <rom id="validus" />
+    <rom id="ro.validus.version" />
     <rom id="vanilla" />
     <rom id="vanir" />
     <rom id="velvet" />
