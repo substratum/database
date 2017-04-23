@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
-    <rom id="abc" />
-    <rom id="ro.aex.device" />
-    <rom id="aim" />
-    <rom id="aicp" />
-    <rom id="aosip" />
-    <rom id="beltz" />
-    <rom id="benzo" />
-    <rom id="broken" />
-    <rom id="bliss" />
-    <rom id="ro.carbon.version" />
-    <rom id="crdroid" />
-    <rom id="citrus" />
-    <rom id="cosmic" />
-    <rom id="cypher" />
-    <rom id="darkness" />
-    <rom id="desolation" />
-    <rom id="ro.du.version" />
-    <rom id="discovery" />
-    <rom id="exodus" />
-    <rom id="ro.fh.version" />
-    <rom id="ro.flash.version" />
-    <rom id="ro.xos.version" />
-    <rom id="idprophecy" />
-    <rom id="jdc" />
-    <rom id="krexus" />
-    <rom id="ro.legendrom.version" />
-    <rom id="liquid" />
-    <rom id="maple" />
-    <rom id="nitrogen" />
-    <rom id="ro.noob.version" />
-    <rom id="nuclearom" />
-    <rom id="octos" />
-    <rom id="ro.omni.version" />
-    <rom id="ro.pa.version" />
-    <rom id="pure" />
-    <rom id="ro.rr.device" />
-    <rom id="saosp" />
-    <rom id="screwd" />
-    <rom id="ro.tesla.version" />
-    <rom id="ro.tipsy.version" />
-    <rom id="tugapower" />
-    <rom id="twisted" />
-    <rom id="uber" />
-    <rom id="ro.validus.version" />
-    <rom id="vanilla" />
-    <rom id="vanir" />
-    <rom id="velvet" />
-    <rom id="vertex" />
-    <rom id="ro.xenonhd.device" />
-    <rom id="xperience" />
-    <rom id="yaosp" />
-    <rom id="zephyr" />
+    <rom name="ABC ROM" id="abc" />
+    <rom name="AospExtended" id="ro.aex.device" />
+    <rom name="AIM" id="aim" />
+    <rom name="Android Ice Cold Project" id="aicp" />
+    <rom name="Android Open Source Illusion Project" id="aosip" />
+    <rom name="Beltz" id="beltz" />
+    <rom name="Benzo" id="benzo" />
+    <rom name="Broken" id="broken" />
+    <rom name="Bliss" id="bliss" />
+    <rom name="Carbon" id="ro.carbon.version" />
+    <rom name="CrDroid" id="crdroid" />
+    <rom name="Citrus" id="citrus" />
+    <rom name="Cosmic" id="cosmic" />
+    <rom name="CypherOS" id="cypher" />
+    <rom name="Darkness Redefined" id="darkness" />
+    <rom name="Desolation" id="desolation" />
+    <rom name="Dirty Unicorns" id="ro.du.version" />
+    <rom name="Discovery ROM" id="discovery" />
+    <rom name="Exodus" id="exodus" />
+    <rom name="Firehound" id="ro.fh.version" />
+    <rom name="Flash" id="ro.flash.version" />
+    <rom name="Halogen OS" id="ro.xos.version" />
+    <rom name="idprophecy's Unofficial Lineage" id="idprophecy" />
+    <rom name="JflteDevConnection" id="jdc" />
+    <rom name="Krexus" id="krexus" />
+    <rom name="LegendROM" id="ro.legendrom.version" />
+    <rom name="Liquid" id="liquid" />
+    <rom name="MapleAOSP" id="maple" />
+    <rom name="Nitrogen" id="nitrogen" />
+    <rom name="noobbuilds" id="ro.noob.version" />
+    <rom name="NucleaROM" id="nuclearom" />
+    <rom name="OctOS" id="octos" />
+    <rom name="OmniROM" id="ro.omni.version" />
+    <rom name="Paranoid Android" id="ro.pa.version" />
+    <rom name="PureNexus" id="pure" />
+    <rom name="Resurrection Remix" id="ro.rr.device" />
+    <rom name="SimpleAOSP" id="saosp" />
+    <rom name="Screw'd" id="screwd" />
+    <rom name="Tesla" id="ro.tesla.version" />
+    <rom name="Tipsy" id="ro.tipsy.version" />
+    <rom name="TugaPower" id="tugapower" />
+    <rom name="Twisted" id="twisted" />
+    <rom name="UBERROMS" id="uber" />
+    <rom name="Validus" id="ro.validus.version" />
+    <rom name="Vanilla" id="vanilla" />
+    <rom name="Vanir" id="vanir" />
+    <rom name="Belbet" id="velvet" />
+    <rom name="Vertex" id="vertex" />
+    <rom name="XenonHD" id="ro.xenonhd.device" />
+    <rom name="Xperience" id="xperience" />
+    <rom name="YAOSP" id="yaosp" />
+    <rom name="ZephyrOS" id="zephyr" />
 </substratum>
