@@ -1,55 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
-    <rom name="ABC ROM" id="abc" />
+    <rom name="ABC ROM" id="ro.abc.version" />
     <rom name="AospExtended" id="ro.aex.device" />
-    <rom name="AIM" id="aim" />
-    <rom name="Android Ice Cold Project" id="aicp" />
-    <rom name="Android Open Source Illusion Project" id="aosip" />
+    <rom name="AIM" id="ro.aim.version" />
+    <rom name="AICP" id="ro.aicp.version" />
+    <rom name="AOKP" id="ro.aokp.version" />
+    <rom name="AOSiP" id="ro.aosip.version" />
     <rom name="Beltz" id="beltz" />
-    <rom name="Benzo" id="benzo" />
-    <rom name="Broken" id="broken" />
-    <rom name="Bliss" id="bliss" />
+    <rom name="Benzo" id="ro.benzo.version" />
+    <rom name="Broken" id="ro.broken.version" />
+    <rom name="Bliss" id="ro.bliss.version" />
     <rom name="Carbon" id="ro.carbon.version" />
-    <rom name="CrDroid" id="crdroid" />
-    <rom name="Citrus" id="citrus" />
-    <rom name="Cosmic" id="cosmic" />
-    <rom name="CypherOS" id="cypher" />
-    <rom name="Darkness Redefined" id="darkness" />
+    <rom name="CrDroid" id="ro.crdroid.version" />
+    <rom name="Citrus" id="ro.citrus.version" />
+    <rom name="Cosmic" id="ro.cos.version" />
+    <rom name="CypherOS" id="ro.aoscp.version" />
+    <rom name="Darkness Redefined" id="ro.reDefined.version" />
     <rom name="Desolation" id="ro.deso.version" />
     <rom name="Dirty Unicorns" id="ro.du.version" />
-    <rom name="Discovery ROM" id="discovery" />
-    <rom name="Exodus" id="exodus" />
+    <rom name="Discovery ROM" id="ro.discovery.version" />
+    <rom name="EuclideanOS" id="ro.eucos.version" />
+    <rom name="Evervolv" id="ro.evervolv.version" />
+    <rom name="Exodus" id="ro.exodus.version" />
     <rom name="Firehound" id="ro.fh.version" />
     <rom name="Flash" id="ro.flash.version" />
     <rom name="halogenOS" id="ro.xos.version" />
     <rom name="idprophecy's Unofficial Lineage" id="idprophecy" />
     <rom name="JflteDevConnection" id="jdc" />
-    <rom name="Krexus" id="krexus" />
+    <rom name="Krexus" id="ro.krexus.version" />
     <rom name="LegendROM" id="ro.legendrom.version" />
-    <rom name="Liquid" id="liquid" />
-    <rom name="MapleAOSP" id="maple" />
-    <rom name="Nitrogen" id="nitrogen" />
+    <rom name="LiquidNougat" id="ro.nougat.version" />
+    <rom name="LiquidDeathOS" id="ro.ld.version" />
+    <rom name="Mokee" id="ro.mk.version" />
+    <rom name="Nitrogen" id="Nitrogen-OS" />
     <rom name="noobbuilds" id="ro.noob.version" />
     <rom name="NucleaROM" id="nuclearom" />
-    <rom name="OctOS" id="octos" />
+    <rom name="OctOS" id="ro.to.version" />
     <rom name="OmniROM" id="ro.omni.version" />
     <rom name="Paranoid Android" id="ro.pa.version" />
-    <rom name="PureNexus" id="pure" />
+    <rom name="Pure Nexus" id="ro.pure.version" />
     <rom name="Resurrection Remix" id="ro.rr.device" />
-    <rom name="SimpleAOSP" id="saosp" />
-    <rom name="Screw'd" id="screwd" />
+    <rom name="SimpleAOSP" id="saosp_" />
+    <rom name="Screw'd" id="ro.screwd.version" />
     <rom name="Tesla" id="ro.tesla.version" />
     <rom name="Tipsy" id="ro.tipsy.version" />
     <rom name="TugaPower" id="tugapower" />
-    <rom name="Twisted" id="twisted" />
-    <rom name="UBERROMS" id="uber" />
+    <rom name="Twisted" id="twisted_" />
+    <rom name="Uber ROM" id="uber_" />
     <rom name="Validus" id="ro.validus.version" />
-    <rom name="Vanilla" id="vanilla" />
-    <rom name="Vanir" id="vanir" />
-    <rom name="Belbet" id="velvet" />
-    <rom name="Vertex" id="vertex" />
+    <rom name="Vanilla" id="vanilla_" />
+    <rom name="Vanir" id="vanir_" />
+    <rom name="Belbet" id="ro.velvet.version" />
+    <rom name="Vertex" id="ro.vertex.version" />
     <rom name="XenonHD" id="ro.xenonhd.device" />
-    <rom name="Xperience" id="xperience" />
-    <rom name="YAOSP" id="yaosp" />
-    <rom name="ZephyrOS" id="zephyr" />
+    <rom name="Xperience" id="ro.xpe.version" />
+    <rom name="YAOSP" id="ro.yaosp.version" />
+    <rom name="ZephyrOS" id="ro.zephyr.version" />
 </substratum>
