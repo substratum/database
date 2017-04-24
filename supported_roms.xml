@@ -48,7 +48,7 @@
     <rom name="Twisted" id="twisted_" />
     <rom name="Uber ROM" id="uber_" />
     <rom name="Validus" id="ro.validus.version" />
-    <rom name="Vanilla" id="vanilla_" />
+    <rom name="Vanilla" id="ro.vanilla.version" />
     <rom name="Vanir" id="vanir_" />
     <rom name="Belbet" id="ro.velvet.version" />
     <rom name="Vertex" id="ro.vertex.version" />
