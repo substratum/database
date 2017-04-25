@@ -54,7 +54,7 @@
     <rom name="Belbet" id="ro.velvet.version" />
     <rom name="Vertex" id="ro.vertex.version" />
     <rom name="XenonHD" id="ro.xenonhd.device" />
-    <rom name="Xperience" id="ro.xpe.version" />
+    <rom name="XPerience" id="ro.xpe.version" />
     <rom name="YAOSP" id="ro.yaosp.version" />
     <rom name="ZephyrOS" id="ro.zephyr.version" />
 </substratum>
