@@ -261,6 +261,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftdark.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/-A1cYdG_ItEH7hNW1vAKc-SF6siE3scxK8D4DKDs3kF_J_Uq9NfYoSkDt5ktNdTbdw=w300-rw</image>
     </theme>
+    <theme id="ThaJoker SupernovaRemix">
+        <author>Train88</author>
+        <link>https://play.google.com/store/apps/details?id=com.train88.thajoker</link>
+        <package>com.train88.thajoker</package>
+        <pricing>Paid</pricing>
+        <support>overlays|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/thajoker.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/yXdGHek26zJZ2Td34tojmkSApCnkMJVdo7Az82k8GqCWULGh9smBidnsXg02MolKqQ=w300-rw</image>
+    </theme>
     <theme id="Vibrance">
         <author>Wasim Khan</author>
         <link>https://play.google.com/store/apps/details?id=substratum.blinq.vibrance</link>

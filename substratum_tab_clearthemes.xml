@@ -27,12 +27,21 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/sprite.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/tjik_89X8gm1XSOU-oT8M0usmZi_piseOKH1zeh11j-SC3y3u1x_IO1fV_jfNUg5lNg=w300-rw</image>
     </theme>
+    <theme id="ThaJoker SupernovaRemix">
+        <author>Train88</author>
+        <link>https://play.google.com/store/apps/details?id=com.train88.thajoker</link>
+        <package>com.train88.thajoker</package>
+        <pricing>Paid</pricing>
+        <support>overlays|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/thajoker.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/yXdGHek26zJZ2Td34tojmkSApCnkMJVdo7Az82k8GqCWULGh9smBidnsXg02MolKqQ=w300-rw</image>
+    </theme>
     <theme id="Transparent">
-		<author>Gianluca Spadazzi</author>
+        <author>Gianluca Spadazzi</author>
         <link>https://play.google.com/store/apps/details?id=com.spada.transparent</link>
         <package>com.spada.transparent</package>
-		<pricing>Paid</pricing>
-		<support>overlays|fonts|wallpapers</support>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/transparent.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/LtyyfDmnk2-_sruU0KNu0UOFeegFd1uXnGEA9BHqLo2pq5M_yMFftJMRgwl2po6XcsM=w300-rw</image>
     </theme>
