@@ -90,6 +90,24 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/defaultdarktheme.jpg</backgroundimage>
         <image>http://lh3.googleusercontent.com/eIx4k1enwJC7U3Ktc1qFETjDos6XSUd4vU2uW_xe3oyXfuD5vk8vLcXM-SqhVaxkuvU=w300-rw</image>
     </theme>
+    <theme id="DestinyBlack">
+        <author>Paolo Giubilato</author>
+        <link>https://play.google.com/store/apps/details?id=substratum.dude.destinyblack</link>
+        <package>substratum.dude.destinyblack</package>
+        <pricing>Paid</pricing>
+        <support>overlays|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/destinyblack.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/iPQq-ljHATdBYyoG6Pk06m5K0jPfftkb0nblOajvh6EZj6Xfq0d-NOWhey2HIoeLfQ=w300-rw</image>
+    </theme>
+    <theme id="DestinyDark">
+        <author>Paolo Giubilato</author>
+        <link>https://play.google.com/store/apps/details?id=bitsykolayers.ddarktheme</link>
+        <package>bitsykolayers.ddarktheme</package>
+        <pricing>Paid</pricing>
+        <support>overlays|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/destinydark.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/zD4OSa-yogogrKJbncnWZ8OlOkdWvgIq0KYBWRaDcoxn81e522Oegd7asIllk2mXjPs=w300-rw</image>
+    </theme>
     <theme id="DNA Dark Project">
         <author>Mike xdnax</author>
         <link>https://play.google.com/store/apps/details?id=com.xdnax.apps.dnadarkproject</link>
