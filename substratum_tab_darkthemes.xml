@@ -171,6 +171,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/gravija_dark.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/idmqcyf2IddT5XCvs2oq45BeLK4OB90_gDcb6XWA57B5MzzV4ixP44b-zWC2GG9oSw=w300-rw</image>
     </theme>
+    <theme id="Kuro">
+        <author>pierx</author>
+        <link>https://play.google.com/store/apps/details?id=com.pierx.kuro</link>
+        <package>com.pierx.kuro</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/kuro.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/7vW6UMnv7F7n-2gtXgYTY5LVExasfW43PXveoYySwsBq5Cv1GSH2eRZa98uNzpigECM=w300-rw</image>
+    </theme>
     <theme id="LoNe 4SuBs">
         <author>Kikkos</author>
         <link>https://play.google.com/store/apps/details?id=com.kikkos.lone4subs</link>
