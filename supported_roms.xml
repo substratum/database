@@ -30,6 +30,7 @@
     <rom name="JflteDevConnection" id="jdc" />
     <rom name="Krexus" id="ro.krexus.version" />
     <rom name="LegendROM" id="ro.legendrom.version" />
+    <rom name="LineageOMS" id="ro.lineageoms.version" />
     <rom name="LiquidNougat" id="ro.nougat.version" />
     <rom name="LiquidDeathOS" id="ro.ld.version" />
     <rom name="Mokee" id="ro.mk.version" />
