@@ -33,6 +33,7 @@
     <rom name="LineageOMS" id="ro.lineageoms.version" />
     <rom name="LiquidNougat" id="ro.nougat.version" />
     <rom name="LiquidDeathOS" id="ro.ld.version" />
+    <rom name="madOS" id="ro.mados.version" />
     <rom name="Mokee" id="ro.mk.version" />
     <rom name="Nitrogen" id="Nitrogen-OS" />
     <rom name="noobbuilds" id="ro.noob.version" />
