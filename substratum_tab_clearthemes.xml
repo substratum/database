@@ -33,7 +33,7 @@
         <package>com.train88.thajoker</package>
         <pricing>Paid</pricing>
         <support>overlays|bootanimations|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/thajoker.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/thajoker.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/yXdGHek26zJZ2Td34tojmkSApCnkMJVdo7Az82k8GqCWULGh9smBidnsXg02MolKqQ=w300-rw</image>
     </theme>
     <theme id="Transparent">
