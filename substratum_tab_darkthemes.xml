@@ -293,7 +293,7 @@
         <link>https://play.google.com/store/apps/details?id=com.train88.thajoker</link>
         <package>com.train88.thajoker</package>
         <pricing>Paid</pricing>
-        <support>overlays|bootanimations|wallpapers</support>
+        <support>overlays|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/thajoker.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/yXdGHek26zJZ2Td34tojmkSApCnkMJVdo7Az82k8GqCWULGh9smBidnsXg02MolKqQ=w300-rw</image>
     </theme>
