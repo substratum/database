@@ -37,7 +37,7 @@
     <rom name="Mokee" id="ro.mk.version" />
     <rom name="Nitrogen" id="Nitrogen-OS" />
     <rom name="noobbuilds" id="ro.noob.version" />
-    <rom name="NucleaROM" id="nuclearom" />
+    <rom name="NucleaROM" id="ro.nuclear.version" />
     <rom name="OctOS" id="ro.to.version" />
     <rom name="OmniROM" id="ro.omni.version" />
     <rom name="Paranoid Android" id="ro.pa.version" />
