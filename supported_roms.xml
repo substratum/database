@@ -36,7 +36,7 @@
     <rom name="LiquidDeathOS" id="ro.ld.version" />
     <rom name="madOS" id="ro.mados.version" />
     <rom name="Mokee" id="ro.mk.version" />
-    <rom name="Nitrogen" id="Nitrogen-OS" />
+    <rom name="Nitrogen-OS" id="ro.nitrogen.version" />
     <rom name="noobbuilds" id="ro.noob.version" />
     <rom name="NucleaROM" id="ro.nuclear.version" />
     <rom name="OctOS" id="ro.to.version" />
