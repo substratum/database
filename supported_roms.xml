@@ -41,6 +41,7 @@
     <rom name="NucleaROM" id="ro.nuclear.version" />
     <rom name="OctOS" id="ro.to.version" />
     <rom name="OmniROM" id="ro.omni.version" />
+    <rom name="OwnROM" id="ro.ownrom.version" />
     <rom name="Paranoid Android" id="ro.pa.version" />
     <rom name="Pure Nexus" id="ro.pure.version" />
     <rom name="Resurrection Remix" id="ro.rr.device" />
