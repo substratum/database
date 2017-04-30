@@ -26,6 +26,7 @@
     <rom name="Firehound" id="ro.fh.version" />
     <rom name="Flash" id="ro.flash.version" />
     <rom name="halogenOS" id="ro.xos.version" />
+    <rom name="ibrokemylineage" id="ro.ibrokemy.version" />
     <rom name="idprophecy's Unofficial Lineage" id="idprophecy" />
     <rom name="JDCTeam AOSP" id="ro.jdc.version" />
     <rom name="Krexus" id="ro.krexus.version" />
