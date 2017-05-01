@@ -49,7 +49,7 @@
     <rom name="Screw'd" id="ro.screwd.version" />
     <rom name="Tesla" id="ro.tesla.version" />
     <rom name="Tipsy" id="ro.tipsy.version" />
-    <rom name="TugaPower" id="tugapower" />
+    <rom name="TugaPower ROM" id="ro.tugapower.version" />
     <rom name="Twisted" id="twisted_" />
     <rom name="Uber ROM" id="uber_" />
     <rom name="Validus" id="ro.validus.version" />
