@@ -45,6 +45,24 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/navbars.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/yKZr3hj1Zx8d62ANPmPgiO-OQgMacWz23ghESeYa5a_TCXc4RroLLlV7SV7H39cFtjiB=w300-rw</image>
     </theme>
+    <theme id="NavSwag">
+        <author>Rahul K Dinesh</author>
+        <link>https://play.google.com/store/apps/details?id=com.b16h22.navswag</link>
+        <package>com.b16h22.navswag</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/navswag.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/R2aaFGSISP24Xb5RRoXXInFliUfz3rjweaDSXn1m48sFRNOJ6w86K20ZmyhmxcUVug=w300-rw</image>
+    </theme>
+    <theme id="S8 Navbar">
+        <author>Orpheusdroid</author>
+        <link>https://play.google.com/store/apps/details?id=com.orpheusdroid.s8navbarsubs</link>
+        <package>com.orpheusdroid.s8navbarsubs</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/s8navbar.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/tgCfhD0aKo2fWJ6KgEOPobg6U_VCLQW3xnWzMSY3cim5ivv5lKF1tteu87N0oVilbFw=w300-rw</image>
+    </theme>
     <theme id="Trip Nav Bar">
         <author>Gianluca Spadazzi</author>
         <link>https://play.google.com/store/apps/details?id=com.spada.tripnavbar</link>
