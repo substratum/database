@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
+    <theme id="Battery Icon Mod Substratum">
+        <author>Piere R</author>
+        <link>https://play.google.com/store/apps/details?id=com.pierx.baterai</link>
+        <package>com.pierx.baterai</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/batteryiconmodsubstratum.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/MtqkqqG6_e89Mks9pof11xkNcaL4Otb_AAlTHZOix4mk9PjxgFLSWDRq5zGUsqppEpo=w300-rw</image>
+    </theme>
     <theme id="Boot for Subs">
         <author>Sreerag Ag</author>
         <link>https://play.google.com/store/apps/details?id=com.sreerag.boot</link>
