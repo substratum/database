@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
+    <theme id="AIO // THEME EXPANDER">
+        <author>moelle</author>
+        <link>https://play.google.com/store/apps/details?id=com.moelle.ddboot</link>
+        <package>com.moelle.ddboot</package>
+        <pricing>Free</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/aio.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/Yf5z54Rwd6kG9Mz0FBrgkLgneLjHPFHfg4DUqu78Y6-Yn8ef2mKUPD2Qzwriy16lMw=w300-rw</image>
+    </theme>
     <theme id="Battery Icon Mod Substratum">
         <author>Piere R</author>
         <link>https://play.google.com/store/apps/details?id=com.pierx.baterai</link>
