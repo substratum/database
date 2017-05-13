@@ -72,6 +72,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fusionui.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/08HWZvASEyqLyS1AyzokJDOJuBNJvjd3VsYtVKszlbQ_awtjxaxTfFFQPNm95J5U1I4=w300-rw</image>
     </theme>
+    <theme id="Greyce">
+        <author>Prithvi Chavhan</author>
+        <link>https://play.google.com/store/apps/details?id=substratum.greyce.pc</link>
+        <package>substratum.greyce.pc</package>
+        <pricing>Free</pricing>
+        <support>overlays|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/greyce.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/ptyvT2OiIKq58Z-BlaIaraGuhcvH-5rMaJLkIcyXPcc4fxRp4qhhAz6nA7TIHeqFJDM=w300-rw</image>
+    </theme>
     <theme id="Gravija">
         <author>pierx</author>
         <link>https://play.google.com/store/apps/details?id=com.pierx.gravija</link>
@@ -134,6 +143,15 @@
         <support>overlays</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/mnml.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/T7JfKDPW5oVCrZaSYsTpIYcyUl_OJ2LHhtMU_-MqgBwIizQL6GKE_B-Si-2MQbNPSWc=w300-rw</image>
+    </theme>
+    <theme id="Mnml PRO">
+        <author>boswelja</author>
+        <link>https://play.google.com/store/apps/details?id=com.boswelja.mnml.pro</link>
+        <package>com.boswelja.mnml.pro</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/mnmlpro.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/BwwJkmxQ0EHvFs_n7Z3CNb72S4EdCrWcwdtVEinnxPLUKAKqBMUPI82NMkfE3QzJ7g=w300-rw</image>
     </theme>
     <theme id="Risalto">
         <author>Leonardo Fraccaroli</author>
