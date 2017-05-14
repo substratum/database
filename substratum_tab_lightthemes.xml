@@ -153,6 +153,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/mnmlpro.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/BwwJkmxQ0EHvFs_n7Z3CNb72S4EdCrWcwdtVEinnxPLUKAKqBMUPI82NMkfE3QzJ7g=w300-rw</image>
     </theme>
+    <theme id="Outline">
+        <author>Niklas Schnettler - (Sh4dowSoul)</author>
+        <link>https://play.google.com/store/apps/details?id=com.schnettler.outline</link>
+        <package>com.schnettler.outline</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/outline_banner.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/ubdVSj39HmGFLaxucXiXxpdaVutev0SLObUvXhnO22yWPGlgYIZd_BAFu6ZLS2Tu1q2e=w512-rw</image>
+    </theme>
     <theme id="Risalto">
         <author>Leonardo Fraccaroli</author>
         <link>https://play.google.com/store/apps/details?id=com.leofracca.risaltosubs</link>
