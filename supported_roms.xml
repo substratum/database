@@ -45,7 +45,7 @@
     <rom name="Paranoid Android" id="ro.pa.version" />
     <rom name="Pure Nexus" id="ro.pure.version" />
     <rom name="Resurrection Remix" id="ro.rr.device" />
-    <rom name="SimpleAOSP" id="saosp_" />
+    <rom name="SimpleAOSP" id="ro.saosp.version" />
     <rom name="Screw'd" id="ro.screwd.version" />
     <rom name="Tesla" id="ro.tesla.version" />
     <rom name="Tipsy" id="ro.tipsy.version" />
