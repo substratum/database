@@ -7,6 +7,7 @@
     <rom name="AOKP" id="ro.aokp.version" />
     <rom name="AOSiP" id="ro.aosip.version" />
     <rom name="AOSP-CAF" id="ro.aosp-caf.version" />
+    <rom name="AquariOS" id="ro.aquarios.version" />
     <rom name="Beltz" id="beltz" />
     <rom name="Benzo" id="ro.benzo.version" />
     <rom name="Broken" id="ro.broken.version" />
