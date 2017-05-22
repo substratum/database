@@ -58,6 +58,7 @@
     <rom name="Vanir" id="vanir_" />
     <rom name="Belbet" id="ro.velvet.version" />
     <rom name="Vertex" id="ro.vertex.version" />
+    <rom name="ViperOS" id="ro.viper.version" />
     <rom name="XenonHD" id="ro.xenonhd.device" />
     <rom name="XPerience" id="ro.xpe.version" />
     <rom name="YAOSP" id="ro.yaosp.version" />
