@@ -45,4 +45,13 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/transparent.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/LtyyfDmnk2-_sruU0KNu0UOFeegFd1uXnGEA9BHqLo2pq5M_yMFftJMRgwl2po6XcsM=w300-rw</image>
     </theme>
+    <theme id="Valerie">
+        <author>DeadmanxXD</author>
+        <link>https://play.google.com/store/apps/details?id=com.samsoft.valerie</link>
+        <package>com.samsoft.valerie</package>
+        <pricing>Paid</pricing>
+        <support>overlays|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/valerie.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/p55w6mETRRzD7zT_tzYOMzoDb0rGSzPOAaYkh9DTCyHjm1Jqhy4SiaXfuGuExQ3nq6s=w300-rw</image>
+    </theme>
 </substratum>

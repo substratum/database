@@ -297,6 +297,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/thajoker.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/yXdGHek26zJZ2Td34tojmkSApCnkMJVdo7Az82k8GqCWULGh9smBidnsXg02MolKqQ=w300-rw</image>
     </theme>
+    <theme id="Valerie">
+        <author>DeadmanxXD</author>
+        <link>https://play.google.com/store/apps/details?id=com.samsoft.valerie</link>
+        <package>com.samsoft.valerie</package>
+        <pricing>Paid</pricing>
+        <support>overlays|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/valerie.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/p55w6mETRRzD7zT_tzYOMzoDb0rGSzPOAaYkh9DTCyHjm1Jqhy4SiaXfuGuExQ3nq6s=w300-rw</image>
+    </theme>
     <theme id="Vibrance">
         <author>Wasim Khan</author>
         <link>https://play.google.com/store/apps/details?id=substratum.blinq.vibrance</link>
