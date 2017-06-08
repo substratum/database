@@ -72,6 +72,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fusionui.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/08HWZvASEyqLyS1AyzokJDOJuBNJvjd3VsYtVKszlbQ_awtjxaxTfFFQPNm95J5U1I4=w300-rw</image>
     </theme>
+    <theme id="Galaxy Evolution">
+        <author>trzpro</author>
+        <link>https://play.google.com/store/apps/details?id=com.emirbardakci.substratum.touchwiznougat</link>
+        <package>com.emirbardakci.substratum.touchwiznougat</package>
+        <pricing>Free</pricing>
+        <support>overlays|fonts|bootanimations|sounds</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/galaxyevolution.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/QU3LhhenP1qn9X49HqjpldWCWdycmXYnWJ3cIBBNu0bGpFXbO0omK-yuZarRBVJFdXEV=w300-rw</image>
+    </theme>
     <theme id="Greyce">
         <author>Prithvi Chavhan</author>
         <link>https://play.google.com/store/apps/details?id=substratum.greyce.pc</link>
