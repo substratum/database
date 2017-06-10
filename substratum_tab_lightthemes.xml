@@ -212,7 +212,7 @@
         <link>https://play.google.com/store/apps/details?id=com.cytech.substratumspectra</link>
         <package>com.cytech.substratumspectra</package>
         <pricing>Paid</pricing>
-        <support>overlays|bootanimations</support>
+        <support>overlays|fonts|bootanimations|sounds</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/spectra.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/iqzHOD0HruvDMKjaZxot_sAEl6nAXH8WxRi48EzLfFpPwKsRPTp5vVC5cBq_BUuoBCc=w300-rw</image>
     </theme>
@@ -230,7 +230,7 @@
         <link>https://play.google.com/store/apps/details?id=com.cytech.uraniumsubstratum</link>
         <package>com.cytech.uraniumsubstratum</package>
         <pricing>Paid</pricing>
-        <support>overlays|bootanimations</support>
+        <support>overlays|fonts|bootanimations|sounds</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/uraniumui.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/mXDiV_n4a0rJJ45vzbsso9i8kg6WuMyOT4HhSxle4sZvrBBntlPGr5Si6gTFbxsx77IX=w300-rw</image>
     </theme>
