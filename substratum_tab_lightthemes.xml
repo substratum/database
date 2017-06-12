@@ -162,6 +162,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/mnmlpro.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/BwwJkmxQ0EHvFs_n7Z3CNb72S4EdCrWcwdtVEinnxPLUKAKqBMUPI82NMkfE3QzJ7g=w300-rw</image>
     </theme>
+    <theme id="nineteen">
+        <author>De Jan (llevo3)</author>
+        <link>https://play.google.com/store/apps/details?id=dejan.llevo3.nineteen</link>
+        <package>dejan.llevo3.nineteen</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/nineteen.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/OtMEkPQWvSd9r-ircElH92nawhLAlXjAIbABkEodj5Du6KX536zc05qo-Ii-hcKkSA=w300-rw</image>
+    </theme>
     <theme id="Outline">
         <author>Niklas Schnettler - (Sh4dowSoul)</author>
         <link>https://play.google.com/store/apps/details?id=com.schnettler.outline</link>

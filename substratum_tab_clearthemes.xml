@@ -18,6 +18,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/magpie.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/VQQ23_ajRvIgHVb040vxekg7NPGJMx_DlXpFGux9aTDtvc09a6bTDWAqyv09Hl7xJUs=w300-rw</image>
     </theme>
+    <theme id="nineteen">
+        <author>De Jan (llevo3)</author>
+        <link>https://play.google.com/store/apps/details?id=dejan.llevo3.nineteen</link>
+        <package>dejan.llevo3.nineteen</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/nineteen.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/OtMEkPQWvSd9r-ircElH92nawhLAlXjAIbABkEodj5Du6KX536zc05qo-Ii-hcKkSA=w300-rw</image>
+    </theme>
     <theme id="Sprite">
         <author>DJDarkknight96</author>
         <link>https://play.google.com/store/apps/details?id=com.djdarkknight.subs.sprite</link>
