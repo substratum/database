@@ -17,7 +17,7 @@
     <rom name="Citrus" id="ro.citrus.version" />
     <rom name="Cosmic" id="ro.cos.version" />
     <rom name="CypherOS" id="ro.aoscp.version" />
-    <rom name="Darkness Redefined" id="ro.reDefined.version" />
+    <rom name="DarkNess reDefined" id="ro.dnd.version" />
     <rom name="Desolation" id="ro.deso.version" />
     <rom name="Dirty Unicorns" id="ro.du.version" />
     <rom name="Discovery ROM" id="ro.discovery.version" />
