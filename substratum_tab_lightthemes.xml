@@ -108,6 +108,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/hybridui.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/XF79VJDkewa1e5OQ9DUd9MiCXBBuYbeSxVkg88-CPwJc-yfKxnjTGFwyZtwEPmPZKePu=w300-rw</image>
     </theme>
+    <theme id="Ice">
+        <author>Chetan Lodha</author>
+        <link>https://labs.xda-developers.com/store/app/substratum.theme.ice</link>
+        <package>substratum.theme.ice</package>
+        <pricing>Free</pricing>
+        <support>overlays|fonts|bootanimations|sounds|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ice_banner.png</backgroundimage>
+        <image>https://raw.githubusercontent.com/substratum/database/master/images/ice_icon.png</image>
+    </theme>
     <theme id="LoNe 4SuBs">
         <author>Kikkos</author>
         <link>https://play.google.com/store/apps/details?id=com.kikkos.lone4subs</link>
