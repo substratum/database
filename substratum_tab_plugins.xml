@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
+    <theme id="Amazed Navbars">
+        <author>Steven Sawyer (Archangel)</author>
+        <link>https://play.google.com/store/apps/details?id=com.amazed.navbars</link>
+        <package>com.amazed.navbars</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/amazednavbars.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/ZUgd2pWm8rfnArzc5R4BpHQ3a07NfX4NJGrDd-6Xz2OzdL4g2Rkr_qMiR6r5nFGaREw=w300-rw</image>
+    </theme>
     <theme id="AIO // THEME EXPANDER">
         <author>moelle</author>
         <link>https://play.google.com/store/apps/details?id=com.moelle.ddboot</link>

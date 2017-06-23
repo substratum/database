@@ -45,6 +45,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/thajoker.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/yXdGHek26zJZ2Td34tojmkSApCnkMJVdo7Az82k8GqCWULGh9smBidnsXg02MolKqQ=w300-rw</image>
     </theme>
+    <theme id="Translucent">
+        <author>Steven Sawyer (Archangel)</author>
+        <link>https://play.google.com/store/apps/details?id=com.archangel.translucent.clear.substratum</link>
+        <package>com.archangel.translucent.clear.substratum</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/translucent.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/uaytClUHo7UvGSg0pcjL9fmwxJfgB_-1nwO7POn-X8QSF7nFw3FOK91admiKSZMXfJaE=w300-rw</image>
+    </theme>
     <theme id="Transparent">
         <author>Gianluca Spadazzi</author>
         <link>https://play.google.com/store/apps/details?id=com.spada.transparent</link>

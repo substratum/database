@@ -252,6 +252,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/npixeldarktheme.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/GPgy97aAzl3YaC60ojrtSjtgq-KYZOwJV0PyFdcgr6i5XA_hfF_HZQWi_-zsLC-IVj4=w300-rw</image>
     </theme>
+    <theme id="Onyx">
+        <author>Steven Sawyer (Archangel)</author>
+        <link>https://play.google.com/store/apps/details?id=com.archangel.onyx.dark.substratum</link>
+        <package>com.archangel.onyx.dark.substratum</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/onyx.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/QVHwiJpXI2KCPEokiiJLJWoGwKOZ1ylJJcOsIvBdWyN6dggKZZrQDiZ2opG4ZQxbRg=w300-rw</image>
+    </theme>
     <theme id="OrangeKitten PRO">
 		<author>Ivan Iskandar</author>
         <link>https://play.google.com/store/apps/details?id=com.iskandarivan.orangekittenpro</link>
