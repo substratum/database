@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
-    <theme id="AnotherBlueTheme">
-        <author>Massimo B.</author>
-        <link>https://goo.gl/jnb0xW</link>
-        <package>substratum.theme.AnotherBlueTheme</package>
-        <pricing>Free</pricing>
-        <support>overlays|fonts|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/anotherbluetheme_banner.png</backgroundimage>
-        <image>https://raw.githubusercontent.com/substratum/database/master/images/anotherbluetheme_icon.png</image>
-    </theme>
     <theme id="Antares">
         <author>Recenz Tastic</author>
         <link>https://play.google.com/store/apps/details?id=com.minar.subantares</link>
