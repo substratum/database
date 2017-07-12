@@ -162,6 +162,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/mnmlpro.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/BwwJkmxQ0EHvFs_n7Z3CNb72S4EdCrWcwdtVEinnxPLUKAKqBMUPI82NMkfE3QzJ7g=w300-rw</image>
     </theme>
+    <theme id="NovaUI">
+        <author>CyTech</author>
+        <link>https://play.google.com/store/apps/details?id=com.cytech.nova</link>
+        <package>com.cytech.nova</package>
+        <pricing>Free</pricing>
+        <support>overlays|fonts|bootanimations|sounds</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/novaui.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/AAYNmUcngoeJ3vtmGrXkYdb-bjBtfElSkHA9rp1FQZU0sh9JBV8wJkrp7N29ZHr_IFE=w300-rw</image>
+    </theme>
     <theme id="Outline">
         <author>Niklas Schnettler - (Sh4dowSoul)</author>
         <link>https://play.google.com/store/apps/details?id=com.schnettler.outline</link>
