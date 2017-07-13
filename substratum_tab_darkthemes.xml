@@ -270,6 +270,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/orangekittenpro.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/WxBQUAhgX7CE6dgg8FJ809DsYBPRYBWuCVi2bXhi-3IKaWb_PW_T9fAG3CABjDO1rPDQ=w300-rw</image>
     </theme>
+    <theme id="PitchBlack">
+        <author>Altan KRK (westcrip)</author>
+        <link>https://play.google.com/store/apps/details?id=pitchblack.origins.westcrip</link>
+        <package>pitchblack.origins.westcrip</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/pitchblack.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/oIrZnIfUzA3NWmugrAmcSm4MHcF2rIDsv6sC1X1c9tSROzyO_2oygannCNiTBmyik_w=w300-rw</image>
+    </theme>
     <theme id="Shade UI">
         <author>Gianluca Spadazzi</author>
         <link>https://play.google.com/store/apps/details?id=com.spada.tealholerro</link>
