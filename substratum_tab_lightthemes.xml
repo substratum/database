@@ -54,6 +54,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/destiny.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/tKeLdOEQ-M1N15mSDaPC9LiAQ1QZCuXFA7YaUv1a-kJRBxG9pULA-anB4B_i_dmhaFI=w300-rw</image>
     </theme>
+    <theme id="Flux White">
+        <author>John Xionidis (giannisgx89)</author>
+        <link>https://play.google.com/store/apps/details?id=flux.white.substratum</link>
+        <package>flux.white.substratum</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fluxwhite.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/oA-0xvX3NP_rhILmENlGKef1DVK7K3hZQ62Kk4chJ0EP-AQsqOV0enAvhzYSQsPPCQ=w300-rw</image>
+    </theme>
     <theme id="Fusion UI">
         <author>CyTech</author>
         <link>https://play.google.com/store/apps/details?id=com.cytech.fusionsubstratum</link>
