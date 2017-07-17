@@ -54,6 +54,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/destiny.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/tKeLdOEQ-M1N15mSDaPC9LiAQ1QZCuXFA7YaUv1a-kJRBxG9pULA-anB4B_i_dmhaFI=w300-rw</image>
     </theme>
+    <theme id="Flatty Light">
+        <author>AliceTeam</author>
+        <link>https://play.google.com/store/apps/details?id=aliceteam.theme.flatty</link>
+        <package>aliceteam.theme.flatty</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/flattylight.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/QxNY8V-ILSz6MBE86nM76qEhvL4qK0W8J_1B4tKHWbQwBng8RoxBh8H1eP_ZHpFg2fU=w300-rw</image>
+    </theme>
     <theme id="Flux White">
         <author>John Xionidis (giannisgx89)</author>
         <link>https://play.google.com/store/apps/details?id=flux.white.substratum</link>
