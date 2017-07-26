@@ -30,6 +30,7 @@
     <rom name="halogenOS" id="ro.xos.version" />
     <rom name="ibrokemylineage" id="ro.ibrokemy.version" />
     <rom name="idprophecy's Unofficial Lineage" id="idprophecy" />
+    <rom name="jancokOS" id="ro.jos.version" />
     <rom name="JDCTeam AOSP" id="ro.jdc.version" />
     <rom name="Krexus" id="ro.krexus.version" />
     <rom name="LegendROM" id="ro.legendrom.version" />
