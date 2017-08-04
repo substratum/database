@@ -46,6 +46,7 @@
     <rom name="OmniROM" id="ro.omni.version" />
     <rom name="OwnROM" id="ro.ownrom.version" />
     <rom name="Paranoid Android" id="ro.pa.version" />
+    <rom name="Pure Fusion" id="ro.fusion.version" />
     <rom name="Pure Nexus" id="ro.pure.version" />
     <rom name="Resurrection Remix" id="ro.rr.device" />
     <rom name="SimpleAOSP" id="ro.saosp.version" />
