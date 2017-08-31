@@ -90,6 +90,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/s8navbar.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/tgCfhD0aKo2fWJ6KgEOPobg6U_VCLQW3xnWzMSY3cim5ivv5lKF1tteu87N0oVilbFw=w300-rw</image>
     </theme>
+    <theme id="SubNa">
+        <author>LF.PRODEV</author>
+        <link>https://play.google.com/store/apps/details?id=lfprodev.substratum.subna</link>
+        <package>lfprodev.substratum.subna</package>
+        <pricing>Free</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/subna.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/tgCfhD0aKo2fWJ6KgEOPobg6U_VCLQW3xnWzMSY3cim5ivv5lKF1tteu87N0oVilbFw=w300-rw</image>
+    </theme>
     <theme id="Trip Nav Bar">
         <author>Gianluca Spadazzi</author>
         <link>https://play.google.com/store/apps/details?id=com.spada.tripnavbar</link>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<substratum>
+    <theme id="The Collection">
+        <author>T.M. Wrath</author>
+        <link>https://play.google.com/store/apps/details?id=com.tmwrath.TheCollection.Substratum</link>
+        <package>com.tmwrath.TheCollection.Substratum</package>
+        <pricing>Free</pricing>
+        <support>wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/thecollection.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/j18dd_3eeIQI2p1kDQd-lN5QQfN-aJ3mxk2F5a3hcBphvwGHnKKgXBRtfvc7fE19ZPSS=w300-rw</image>
+    </theme>
+</substratum>

@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
+    <theme id="Alined">
+        <author>Rahul K Dinesh</author>
+        <link>https://play.google.com/store/apps/details?id=com.b16h22.alined</link>
+        <package>com.b16h22.alined</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/alined.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/BlO6J2XADslA7aDzAm46NSyJx2j3c0noAyyHP82ShYUDXA0R6dMPOdyObM25WhYR4Fcc=w300-rw</image>
+    </theme>
     <theme id="Antares">
         <author>Recenz Tastic</author>
         <link>https://play.google.com/store/apps/details?id=com.minar.subantares</link>

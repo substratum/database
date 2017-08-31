@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
+	<theme id="Aurora">
+        <author>CyTech</author>
+        <link>https://play.google.com/store/apps/details?id=com.cytech.aurora</link>
+        <package>com.cytech.aurora</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|bootanimations</support>
+		<backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/aurora.png</backgroundimage>
+		<image>https://lh3.googleusercontent.com/9o095LReoRRAVqWS_-2ivx4JncRCd21G_VuhywY06-eZCQ3xrGnGzZIZsnP0xToMDA=w300-rw</image>
+	</theme>
     <theme id="Beltz Theme">
         <author>Jimmy Setiawan</author>
         <link>https://play.google.com/store/apps/details?id=bitsykolayers.Midnight</link>
@@ -279,6 +288,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/pitchblack.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/oIrZnIfUzA3NWmugrAmcSm4MHcF2rIDsv6sC1X1c9tSROzyO_2oygannCNiTBmyik_w=w300-rw</image>
     </theme>
+	<theme id="ResoluteUI">
+        <author>AutoSkive</author>
+        <link>https://play.google.com/store/apps/details?id=com.autoskive.resoluteui</link>
+        <package>com.autoskive.resoluteui</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
+		<backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/resoluteui.png</backgroundimage>
+		<image>https://lh3.googleusercontent.com/0puWzEu1o0fGJzgoJp1Asrdaz39ByGPN2jfwVpEXmNBuZDl2FIXtlxl27lWlbG5OrjM=w300-rw</image>
+	</theme>
     <theme id="Shade UI">
         <author>Gianluca Spadazzi</author>
         <link>https://play.google.com/store/apps/details?id=com.spada.tealholerro</link>
