@@ -324,7 +324,7 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/streamlinednight.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/5k-euW12qjDF-C57SgxvsU0v1h5eBporzPw5u4aW7K8aIrEuUdYXluQR2FigU5XHAw=w300-rw</image>
     </theme>
-    <theme id="A Swift Dark">
+    <theme id="Swift Dark">
         <author>Per Lycke</author>
         <link>https://play.google.com/store/apps/details?id=com.brit.swiftdark.substratum</link>
         <package>com.brit.swiftdark.substratum</package>
