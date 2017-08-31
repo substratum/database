@@ -27,7 +27,16 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/orangekittenpro.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/WxBQUAhgX7CE6dgg8FJ809DsYBPRYBWuCVi2bXhi-3IKaWb_PW_T9fAG3CABjDO1rPDQ=w300-rw</image>
     </theme>
-	<theme id="StatusBar Icons (+extras) for Samsung">
+    <theme id="Sai's Fresh Theme">
+        <author>Sai</author>
+        <link>https://play.google.com/store/apps/details?id=baka.sai.theme</link>
+        <package>baka.sai.theme</package>
+        <pricing>Free</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/saifresh.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/LcMi51U0EImcG0rrLq5OBh49PE1KYecm5j1Q3rBMMiqycld_Qd4ze7mFcolBvrEqKmY=w300-rw</image>
+    </theme>
+    <theme id="StatusBar Icons (+extras) for Samsung">
         <author>ohayoubaka</author>
         <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.statusbarsamsung</link>
         <package>com.ohayoubaka.statusbarsamsung</package>
