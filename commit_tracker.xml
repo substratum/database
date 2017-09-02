@@ -7,7 +7,7 @@
 
     <repo name="com.android.calculator2">
         <colors>https://raw.githubusercontent.com/SubstratumResources/platform_packages_apps_ExactCalculator/n-mr1-rootless/res/values/projekt_colors.xml</colors>
-        <dimens>https://github.com/SubstratumResources/platform_packages_apps_ExactCalculator/raw/n-mr1-rootless/res/values/projekt_dimens.xml</dimens>
+        <dimens>https://raw.githubusercontent.com/SubstratumResources/platform_packages_apps_ExactCalculator/n-mr1-rootless/res/values/projekt_dimens.xml</dimens>
     </repo>
 
     <repo name="com.android.contacts">
