@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
-	<theme id="Aurora">
-        <author>CyTech</author>
-        <link>https://play.google.com/store/apps/details?id=com.cytech.aurora</link>
-        <package>com.cytech.aurora</package>
-        <pricing>Paid</pricing>
-        <support>overlays|fonts|sounds|bootanimations</support>
-		<backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/aurora.png</backgroundimage>
-		<image>https://lh3.googleusercontent.com/9o095LReoRRAVqWS_-2ivx4JncRCd21G_VuhywY06-eZCQ3xrGnGzZIZsnP0xToMDA=w300-rw</image>
-	</theme>
     <theme id="Beltz Theme">
         <author>Jimmy Setiawan</author>
         <link>https://play.google.com/store/apps/details?id=bitsykolayers.Midnight</link>
