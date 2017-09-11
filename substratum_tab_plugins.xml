@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
+    <theme id="//substweaks//">
+        <author>Harsh Shandilya (MSF-Jarvis)</author>
+        <link>https://play.google.com/store/apps/details?id=me.msfjarvis.substweaks</link>
+        <package>me.msfjarvis.substweaks</link>
+        <pricing>Free</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/substweaks.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/MKqm5lHSOwNfxf_KhBc8dqmLNs04gLGtsTnAa</image>
+    </theme>
     <theme id="Amazed Navbars">
         <author>Steven Sawyer (Archangel)</author>
         <link>https://play.google.com/store/apps/details?id=com.amazed.navbars</link>
