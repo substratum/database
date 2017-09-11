@@ -72,6 +72,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/destiny.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/tKeLdOEQ-M1N15mSDaPC9LiAQ1QZCuXFA7YaUv1a-kJRBxG9pULA-anB4B_i_dmhaFI=w300-rw</image>
     </theme>
+    <theme id="Desire">
+        <author>DeadmanxXD</author>
+        <link>https://play.google.com/store/apps/details?id=com.samsoft.desire</link>
+        <package>com.samsoft.desire</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|bootanimations|sounds|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/desire.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/J9Y4O_MzfTyHu0kTU53Tt7CiQJb69TutHuLFeSd8X6ZoNdkiFWuMLDa7G5Y_Hx8ixyeW=w300-rw</image>
+    </theme>
     <theme id="Flatty Light">
         <author>AliceTeam</author>
         <link>https://play.google.com/store/apps/details?id=aliceteam.theme.flatty</link>

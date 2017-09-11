@@ -90,6 +90,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/defaultdarktheme.jpg</backgroundimage>
         <image>http://lh3.googleusercontent.com/eIx4k1enwJC7U3Ktc1qFETjDos6XSUd4vU2uW_xe3oyXfuD5vk8vLcXM-SqhVaxkuvU=w300-rw</image>
     </theme>
+    <theme id="Desire">
+        <author>DeadmanxXD</author>
+        <link>https://play.google.com/store/apps/details?id=com.samsoft.desire</link>
+        <package>com.samsoft.desire</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|bootanimations|sounds|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/desire.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/J9Y4O_MzfTyHu0kTU53Tt7CiQJb69TutHuLFeSd8X6ZoNdkiFWuMLDa7G5Y_Hx8ixyeW=w300-rw</image>
+    </theme>
     <theme id="DestinyBlack">
         <author>Paolo Giubilato</author>
         <link>https://play.google.com/store/apps/details?id=substratum.dude.destinyblack</link>
