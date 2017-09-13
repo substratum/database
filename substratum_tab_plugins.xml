@@ -3,7 +3,7 @@
     <theme id="//substweaks//">
         <author>Harsh Shandilya (MSF-Jarvis)</author>
         <link>https://play.google.com/store/apps/details?id=me.msfjarvis.substweaks</link>
-        <package>me.msfjarvis.substweaks</link>
+        <package>me.msfjarvis.substweaks</package>
         <pricing>Free</pricing>
         <support>overlays</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/substweaks.png</backgroundimage>
