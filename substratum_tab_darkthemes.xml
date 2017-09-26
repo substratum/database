@@ -63,6 +63,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/compound.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/lZB41r9-ehULK4ahjCUrDKOtJi2pfRmAAdOJwIGI7qtd1S82a_toBXIOH389s4FNt2g=w300-rw</image>
     </theme>
+    <theme id="Cosmos">
+        <author>CisGenderCats</author>
+        <link>https://play.google.com/store/apps/details?id=com.CisGenderCats.themes.cosmos</link>
+        <package>com.CisGenderCats.themes.cosmos</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/cosmos.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/KNSRP7hZMRgzuqTuy2zx3d77Ai-i-r8PFWEGu4Yw1jTJePbiXyUH8rpEdgn2pZ1Ti0k=w300-rw</image>
+    </theme>
     <theme id="Dark Infusion">
         <author>Jake Engdahl (TheRealBigJake)</author>
         <link>https://play.google.com/store/apps/details?id=com.therealbigjake.darkorange</link>
