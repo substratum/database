@@ -297,6 +297,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/pitchblack.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/oIrZnIfUzA3NWmugrAmcSm4MHcF2rIDsv6sC1X1c9tSROzyO_2oygannCNiTBmyik_w=w300-rw</image>
     </theme>
+    <theme id="Quetzal | Dark">
+        <author>Alejandro Ponce</author>
+        <link>https://play.google.com/store/apps/details?id=com.itssaalex.quetzal</link>
+        <package>com.itssaalex.quetzal</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/quetzal.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/vZ3H_TVxyuZLKnPHEuGX3HTOwFHtZkbEaCFRW1q5vcvzG-WyE8UTjpFwjkADfE7Hja4=w300-rw</image>
+    </theme>
 	<theme id="ResoluteUI">
         <author>AutoSkive</author>
         <link>https://play.google.com/store/apps/details?id=com.autoskive.resoluteui</link>
