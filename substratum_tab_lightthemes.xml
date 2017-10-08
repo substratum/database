@@ -189,8 +189,8 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/minimaterial.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/Fuiac5yVuCL3UfOOwrMNecRp_LmnLK48JKzZs6v0ZCYzSrjdGbhWv8HGvM7zGUXnRhE=w300-rw</image>
     </theme>
-    <theme id="Mnml">
-        <author>boswelja</author>
+    <theme id="Harmony">
+        <author>Jack Boswell (boswelja)</author>
         <link>https://play.google.com/store/apps/details?id=com.boswelja.mnml</link>
         <package>com.boswelja.mnml</package>
         <pricing>Free</pricing>
@@ -198,8 +198,8 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/mnml.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/T7JfKDPW5oVCrZaSYsTpIYcyUl_OJ2LHhtMU_-MqgBwIizQL6GKE_B-Si-2MQbNPSWc=w300-rw</image>
     </theme>
-    <theme id="Mnml PRO">
-        <author>boswelja</author>
+    <theme id="Harmony PRO">
+        <author>Jack Boswell (boswelja)</author>
         <link>https://play.google.com/store/apps/details?id=com.boswelja.mnml.pro</link>
         <package>com.boswelja.mnml.pro</package>
         <pricing>Paid</pricing>
