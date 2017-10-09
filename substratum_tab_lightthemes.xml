@@ -196,7 +196,7 @@
         <pricing>Free</pricing>
         <support>overlays</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/mnml.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/T7JfKDPW5oVCrZaSYsTpIYcyUl_OJ2LHhtMU_-MqgBwIizQL6GKE_B-Si-2MQbNPSWc=w300-rw</image>
+        <image>https://lh3.googleusercontent.com/gXkzkkD-lJIG-zh-qVG11xs_8NQZ0W5UJhyulhjx_6Kto0Qq20ZbpT8PUnM4TboKRsM=w300-rw</image>
     </theme>
     <theme id="Harmony PRO">
         <author>Jack Boswell (boswelja)</author>
@@ -205,7 +205,7 @@
         <pricing>Paid</pricing>
         <support>overlays</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/mnmlpro.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/BwwJkmxQ0EHvFs_n7Z3CNb72S4EdCrWcwdtVEinnxPLUKAKqBMUPI82NMkfE3QzJ7g=w300-rw</image>
+        <image>https://lh3.googleusercontent.com/gXkzkkD-lJIG-zh-qVG11xs_8NQZ0W5UJhyulhjx_6Kto0Qq20ZbpT8PUnM4TboKRsM=w300-rw</image>
     </theme>
     <theme id="NovaUI">
         <author>CyTech</author>
