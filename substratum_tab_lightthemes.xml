@@ -195,7 +195,7 @@
         <package>com.boswelja.mnml</package>
         <pricing>Free</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/mnml.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/harmony.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/gXkzkkD-lJIG-zh-qVG11xs_8NQZ0W5UJhyulhjx_6Kto0Qq20ZbpT8PUnM4TboKRsM=w300-rw</image>
     </theme>
     <theme id="Harmony PRO">
@@ -204,7 +204,7 @@
         <package>com.boswelja.mnml.pro</package>
         <pricing>Paid</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/mnmlpro.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/harmony.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/gXkzkkD-lJIG-zh-qVG11xs_8NQZ0W5UJhyulhjx_6Kto0Qq20ZbpT8PUnM4TboKRsM=w300-rw</image>
     </theme>
     <theme id="NovaUI">
