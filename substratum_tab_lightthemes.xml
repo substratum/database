@@ -80,7 +80,16 @@
         <support>overlays|fonts|bootanimations|sounds|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/desire.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/J9Y4O_MzfTyHu0kTU53Tt7CiQJb69TutHuLFeSd8X6ZoNdkiFWuMLDa7G5Y_Hx8ixyeW=w300-rw</image>
-    </theme>
+    </theme>    
+    <theme id="Fetish: Oreo">
+         <author>VH Design</author>
+         <link>https://play.google.com/store/apps/details?id=fetish.pureoreo.vhdesign</link>
+         <package>fetish.pureoreo.vhdesign</package>
+         <pricing>free</pricing>
+         <support>overlays</support>
+         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fetishoreo.png</backgroundimage>
+         <image>https://lh3.googleusercontent.com/xJjQ_lKz0YB_9FNaneF2QuUToT_FctvuX5nl7Vcy8uBKdbwf0L8OSdZl7l7prnPMlWw=w300-rw</image>
+    </theme>    
     <theme id="Flatty Light">
         <author>AliceTeam</author>
         <link>https://play.google.com/store/apps/details?id=aliceteam.theme.flatty</link>
