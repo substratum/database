@@ -72,4 +72,13 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/valerie.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/p55w6mETRRzD7zT_tzYOMzoDb0rGSzPOAaYkh9DTCyHjm1Jqhy4SiaXfuGuExQ3nq6s=w300-rw</image>
     </theme>
+    <theme id="Pixel Theme">
+        <author>Giorgio Cantoni (folgore95)</author>
+        <link>https://play.google.com/store/apps/details?id=it.folgore95.pixel</link>
+        <package>it.folgore95.pixel</package>
+        <pricing>Free</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/pixel.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/9REoZONctRhixbJn0B2x2vtT-nr0hYjF2Yih7p8J_q86FAZcLo_ZvytVyHcut-NUHC9E=w300-rw</image>
+    </theme>
 </substratum>
