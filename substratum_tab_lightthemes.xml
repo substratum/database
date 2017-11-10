@@ -45,6 +45,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/blacklight.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/k9z2I_x5tMzZm9UvrtbktoYgIeS2L-TFY6kl1iIX-w4ws-c4OXI3X7a2BfjcTAFj_A=w300-rw</image>
     </theme>
+    <theme id="Breeze UI">
+        <author>CyTech</author>
+        <link>https://play.google.com/store/apps/details?id=com.cytech.breeze</link>
+        <package>com.cytech.breeze</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|bootanimations</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/breeze.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/06Z3lju9HPXRnGsK7EhhNAxFdfdkbsOAQIhgGOh_O-Mlw6VOlAQzG9L19hr8u9DbTSc=w300</image>
+    </theme>
     <theme id="Coalfield">
         <author>Andre Zimmermann (Kohlewrrk)</author>
         <link>https://play.google.com/store/apps/details?id=com.kohlewrrk.coalfield.subs</link>
