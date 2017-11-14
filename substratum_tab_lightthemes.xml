@@ -99,6 +99,15 @@
          <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fetishoreo.png</backgroundimage>
          <image>https://lh3.googleusercontent.com/xJjQ_lKz0YB_9FNaneF2QuUToT_FctvuX5nl7Vcy8uBKdbwf0L8OSdZl7l7prnPMlWw=w300-rw</image>
     </theme>    
+    <theme id="Flare UI">
+        <author>CyTech</author>
+        <link>https://play.google.com/store/apps/details?id=com.cytech.flare</link>
+        <package>com.cytech.flare</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|bootanimations</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/flare.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/taxJfrQnvEfEUF-hl483UcVLgiL1Tb8sNXmq-_RvKC9OSt3a8sVpi1K9UUpIIla0zDU=w300</image>
+    </theme>
     <theme id="Flatty Light">
         <author>AliceTeam</author>
         <link>https://play.google.com/store/apps/details?id=aliceteam.theme.flatty</link>
