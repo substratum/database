@@ -351,6 +351,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftdark.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/-A1cYdG_ItEH7hNW1vAKc-SF6siE3scxK8D4DKDs3kF_J_Uq9NfYoSkDt5ktNdTbdw=w300-rw</image>
     </theme>
+	<theme id="Dirty Dark">
+        <author>DeadManxXD</author>
+        <link>https://play.google.com/store/apps/details?id=com.samsoft.dirtysubs</link>
+        <package>com.samsoft.dirtysubs</package>
+        <pricing>Free</pricing>
+        <support>overlays|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/derty_dark.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/tWDEwHkAmRENAIHSGMJDC5glI4xFC5yyOr6t2gKMYrZbPUaY4-bExE9cl9ug-oP4qDg=w300-rw</image>
+    </theme>
     <theme id="ThaJoker SupernovaRemix">
         <author>Train88</author>
         <link>https://play.google.com/store/apps/details?id=com.train88.thajoker</link>
