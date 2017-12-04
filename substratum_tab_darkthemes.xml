@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
+    <theme id="aospUI Black">
+        <author>Piereligio Di Sante</author>
+        <link>https://play.google.com/store/apps/details?id=substratum.piereligio.bst</link>
+        <package>substratum.piereligio.bst</package>
+        <pricing>Paid</pricing>
+        <support>overlays|sounds|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/aospuiblack.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/TfqAYcKeFfyK1AQ1ptbfulHd5PSVC8LLb1Uz2whYi2A7soEe4lTKpFXVfgbxqYo26ok=w300-rw</image>
+    </theme>
+    <theme id="aospUI Dark [BlueGray]">
+        <author>Piereligio Di Sante</author>
+        <link>https://play.google.com/store/apps/details?id=bitsykolayers.piereligio.dst</link>
+        <package>bitsykolayers.piereligio.dst</package>
+        <pricing>Paid</pricing>
+        <support>overlays|sounds|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/aospuidarkbluegray.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/Rvj4E5oarmc0fF0AfrsEU20R3gDgOY-Qo9-D3jINJgRr3Kbp1I8KERxfesYAM7SEJA=w300-rw</image>
+    </theme>
+    <theme id="aospUI Dark [Gray]">
+        <author>Piereligio Di Sante</author>
+        <link>https://play.google.com/store/apps/details?id=bitsykolayers.piereligio.mdm</link>
+        <package>bitsykolayers.piereligio.mdm</package>
+        <pricing>Paid</pricing>
+        <support>overlays|sounds|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/aospuidarkgray.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/2uxMlCAjXNWQUYMauY9ZXCzSJH2XuaYOcCH1ioy9aLm44uLvHqbZ3x3gEieIEEH8XeA=w300-rw</image>
+    </theme>
     <theme id="Beltz Theme">
         <author>Jimmy Setiawan</author>
         <link>https://play.google.com/store/apps/details?id=bitsykolayers.Midnight</link>
@@ -36,15 +63,6 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/blackmech.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/B6UZgfAVYpqb5FcIoDX3hfCgedTNJ9ZBOh_2bYq5OzzBsXEVKpyzG__1W58d2REzBHY=w300-rw</image>
     </theme>
-    <theme id="Black Stock Theme">
-        <author>Piereligio Di Sante</author>
-        <link>https://play.google.com/store/apps/details?id=bitsykolayers.piereligio.bst</link>
-        <package>bitsykolayers.piereligio.bst</package>
-        <pricing>Paid</pricing>
-        <support>overlays|sounds|bootanimations|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/blackstocktheme.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/iWytFmDHGe-Lm-Zp2EfmWEUhEm_k63aTM50m-9plDBr5V0fEl79b_Y1fJr7_v6aL9mc=w300-rw</image>
-    </theme>
     <theme id="BlueDragoon">
         <author>Ananda Basak</author>
         <link>https://play.google.com/store/apps/details?id=com.anandabasak.extendedUI</link>
@@ -80,15 +98,6 @@
         <support>overlays|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/darkinfusion.jpg</backgroundimage>
         <image>http://lh3.googleusercontent.com/px-__Q78KLadOs7gRVsxkbawoTLLrro1tSBe6mGvVN5H9j_SkSgeYvk0cpsSQW2Xkz4=w300-rw</image>
-    </theme>
-    <theme id="Dark Stock Theme">
-        <author>Piereligio Di Sante</author>
-        <link>https://play.google.com/store/apps/details?id=bitsykolayers.piereligio.dst</link>
-        <package>bitsykolayers.piereligio.dst</package>
-        <pricing>Paid</pricing>
-        <support>overlays|sounds|bootanimations|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/darkstocktheme.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/VicBrCMPh1FNksnRJoH9NYNOv9Ui9Iyt0dO5jEGOPkJKYlVEhadkPi91_9Saox3uMg=w300-rw</image>
     </theme>
     <theme id="Default Dark Theme">
         <author>SpiritCroc</author>
@@ -260,15 +269,6 @@
         <support>overlays|fonts|sounds|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/nineteen.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/OtMEkPQWvSd9r-ircElH92nawhLAlXjAIbABkEodj5Du6KX536zc05qo-Ii-hcKkSA=w300-rw</image>
-    </theme>
-    <theme id="N/Pixel Dark Theme">
-        <author>Piereligio Di Sante</author>
-        <link>https://play.google.com/store/apps/details?id=bitsykolayers.piereligio.mdm</link>
-        <package>bitsykolayers.piereligio.mdm</package>
-        <pricing>Paid</pricing>
-        <support>overlays|sounds|bootanimations|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/npixeldarktheme.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/GPgy97aAzl3YaC60ojrtSjtgq-KYZOwJV0PyFdcgr6i5XA_hfF_HZQWi_-zsLC-IVj4=w300-rw</image>
     </theme>
     <theme id="Onyx">
         <author>Steven Sawyer (Archangel)</author>
