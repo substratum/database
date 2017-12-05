@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
-    <theme id="Swift Dark">
-        <author>Per Lycke</author>
-        <link>https://play.google.com/store/apps/details?id=com.brit.swiftdark.substratum</link>
-        <package>com.brit.swiftdark.substratum</package>
-        <pricing>Paid</pricing>
-        <support>overlays|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftdark.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/-A1cYdG_ItEH7hNW1vAKc-SF6siE3scxK8D4DKDs3kF_J_Uq9NfYoSkDt5ktNdTbdw=w300-rw</image>
-    </theme>
-	<theme id="Black Stock Theme">
+    <theme id="aospUI Black">
         <author>Piereligio Di Sante</author>
-        <link>https://play.google.com/store/apps/details?id=bitsykolayers.piereligio.bst</link>
-        <package>bitsykolayers.piereligio.bst</package>
+        <link>https://play.google.com/store/apps/details?id=substratum.piereligio.bst</link>
+        <package>substratum.piereligio.bst</package>
         <pricing>Paid</pricing>
         <support>overlays|sounds|bootanimations|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/blackstocktheme.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/iWytFmDHGe-Lm-Zp2EfmWEUhEm_k63aTM50m-9plDBr5V0fEl79b_Y1fJr7_v6aL9mc=w300-rw</image>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/aospuiblack.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/TfqAYcKeFfyK1AQ1ptbfulHd5PSVC8LLb1Uz2whYi2A7soEe4lTKpFXVfgbxqYo26ok=w300-rw</image>
     </theme>
     <theme id="Fresh Theme">
         <author>Sai</author>
@@ -35,5 +26,14 @@
         <support>overlays</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ohayoubakastatusbar.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/itT6mL-vhf2t2OjoUXb3bNR9U0X55YsGJqPd1SRWMvaV89wT_Mr5mBBPNrviQgYJECc=w300-rw</image>
+    </theme>
+    <theme id="Swift Dark">
+        <author>Per Lycke</author>
+        <link>https://play.google.com/store/apps/details?id=com.brit.swiftdark.substratum</link>
+        <package>com.brit.swiftdark.substratum</package>
+        <pricing>Paid</pricing>
+        <support>overlays|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftdark.png</backgroundimage>
+        <image>http://lh3.googleusercontent.com/-A1cYdG_ItEH7hNW1vAKc-SF6siE3scxK8D4DKDs3kF_J_Uq9NfYoSkDt5ktNdTbdw=w300-rw</image>
     </theme>
 </substratum>
