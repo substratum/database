@@ -24,7 +24,7 @@
         <package>dejan.llevo3.nineteen</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|sounds|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/nineteen.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/nineteen.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/OtMEkPQWvSd9r-ircElH92nawhLAlXjAIbABkEodj5Du6KX536zc05qo-Ii-hcKkSA=w300-rw</image>
     </theme>
     <theme id="Prime">
@@ -69,7 +69,7 @@
         <package>com.spada.transparent</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/transparent.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/transparent.jpg</backgroundimage>
         <image>http://lh3.googleusercontent.com/LtyyfDmnk2-_sruU0KNu0UOFeegFd1uXnGEA9BHqLo2pq5M_yMFftJMRgwl2po6XcsM=w300-rw</image>
     </theme>
     <theme id="Valerie">
@@ -78,7 +78,7 @@
         <package>com.samsoft.valerie</package>
         <pricing>Paid</pricing>
         <support>overlays|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/valerie.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/valerie.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/p55w6mETRRzD7zT_tzYOMzoDb0rGSzPOAaYkh9DTCyHjm1Jqhy4SiaXfuGuExQ3nq6s=w300-rw</image>
     </theme>
 	<theme id="Prime">

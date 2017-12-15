@@ -6,7 +6,7 @@
         <package>com.cytech.aurora</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|sounds|bootanimations</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/aurora.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/aurora.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/9o095LReoRRAVqWS_-2ivx4JncRCd21G_VuhywY06-eZCQ3xrGnGzZIZsnP0xToMDA=w300-rw</image>
     </theme>
     <theme id="Alined">
@@ -15,7 +15,7 @@
         <package>com.b16h22.alined</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/alined.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/alined.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/BlO6J2XADslA7aDzAm46NSyJx2j3c0noAyyHP82ShYUDXA0R6dMPOdyObM25WhYR4Fcc=w300-rw</image>
     </theme>
     <theme id="Antares">
@@ -24,7 +24,7 @@
         <package>com.minar.subantares</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/antares.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/antares.jpg</backgroundimage>
         <image>http://lh3.googleusercontent.com/YMKWi23RbUzgV6af5tIcEtCYpNrKx85mcDfmFWeAWu68Rnl2NjRQTQ31JfqA2QYtnPk=w300-rw</image>
     </theme>
     <theme id="Belo">
@@ -51,7 +51,7 @@
         <package>com.cytech.breeze</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|bootanimations</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/breeze.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/breeze.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/06Z3lju9HPXRnGsK7EhhNAxFdfdkbsOAQIhgGOh_O-Mlw6VOlAQzG9L19hr8u9DbTSc=w300</image>
     </theme>
     <theme id="Coalfield">
@@ -60,7 +60,7 @@
         <package>com.kohlewrrk.coalfield.subs</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|bootanimations|sounds|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/coalfield.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/coalfield.jpg</backgroundimage>
         <image>http://lh3.googleusercontent.com/7Xk4Patv_I-Z1vFLd_DAk5dstcgcV61OnbfVNVv-h-uWKxxl0Uwky7_7KDbu84JHZg=w300-rw</image>
     </theme>
     <theme id="Compound [light]">
@@ -69,7 +69,7 @@
         <package>compound.light.subs</package>
         <pricing>Paid</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/compoundlight.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/compoundlight.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/7ziDJfUuA5QwurL8ZRjNaQ4EaCR_ZFuoIajfEX92_Z_0ndjHtk_lQw2bq_jhHgaL9YDa=w300-rw</image>
     </theme>
     <theme id="Destiny">
@@ -87,7 +87,7 @@
         <package>com.samsoft.desire</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|bootanimations|sounds|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/desire.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/desire.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/J9Y4O_MzfTyHu0kTU53Tt7CiQJb69TutHuLFeSd8X6ZoNdkiFWuMLDa7G5Y_Hx8ixyeW=w300-rw</image>
     </theme>    
     <theme id="Fetish: Oreo">
@@ -96,7 +96,7 @@
          <package>fetish.pureoreo.vhdesign</package>
          <pricing>free</pricing>
          <support>overlays</support>
-         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fetishoreo.png</backgroundimage>
+         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fetishoreo.jpg</backgroundimage>
          <image>https://lh3.googleusercontent.com/xJjQ_lKz0YB_9FNaneF2QuUToT_FctvuX5nl7Vcy8uBKdbwf0L8OSdZl7l7prnPMlWw=w300-rw</image>
     </theme>    
     <theme id="Flare UI">
@@ -105,7 +105,7 @@
         <package>com.cytech.flare</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|sounds|bootanimations</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/flare.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/flare.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/taxJfrQnvEfEUF-hl483UcVLgiL1Tb8sNXmq-_RvKC9OSt3a8sVpi1K9UUpIIla0zDU=w300</image>
     </theme>
     <theme id="Flatty Light">
@@ -123,7 +123,7 @@
         <package>flux.white.substratum</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fluxwhite.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fluxwhite.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/oA-0xvX3NP_rhILmENlGKef1DVK7K3hZQ62Kk4chJ0EP-AQsqOV0enAvhzYSQsPPCQ=w300-rw</image>
     </theme>
     <theme id="Fusion UI">
@@ -132,7 +132,7 @@
         <package>com.cytech.fusionsubstratum</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|bootanimations|sounds</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fusionui.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fusionui.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/08HWZvASEyqLyS1AyzokJDOJuBNJvjd3VsYtVKszlbQ_awtjxaxTfFFQPNm95J5U1I4=w300-rw</image>
     </theme>
     <theme id="Galaxy Evolution">
@@ -141,7 +141,7 @@
         <package>com.emirbardakci.substratum.touchwiznougat</package>
         <pricing>Free</pricing>
         <support>overlays|fonts|bootanimations|sounds</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/galaxyevolution.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/galaxyevolution.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/QU3LhhenP1qn9X49HqjpldWCWdycmXYnWJ3cIBBNu0bGpFXbO0omK-yuZarRBVJFdXEV=w300-rw</image>
     </theme>
     <theme id="Greyce">
@@ -168,7 +168,7 @@
         <package>com.cytech.hybridsubtratum</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|bootanimations|sounds</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/hybridui.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/hybridui.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/XF79VJDkewa1e5OQ9DUd9MiCXBBuYbeSxVkg88-CPwJc-yfKxnjTGFwyZtwEPmPZKePu=w300-rw</image>
     </theme>
     <theme id="Ice">
@@ -177,8 +177,8 @@
         <package>substratum.theme.ice</package>
         <pricing>Free</pricing>
         <support>overlays|fonts|bootanimations|sounds|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ice_banner.png</backgroundimage>
-        <image>https://raw.githubusercontent.com/substratum/database/master/images/ice_icon.png</image>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ice_banner.jpg</backgroundimage>
+        <image>https://raw.githubusercontent.com/substratum/database/master/images/ice_icon.jpg</image>
     </theme>
     <theme id="ion">
         <author>Piere R</author>
@@ -204,7 +204,7 @@
         <package>com.jerbeck24.Luminous</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/luminous.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/luminous.jpg</backgroundimage>
         <image>http://lh3.googleusercontent.com/tnwcSgwGiBudA1UTeOhHPeLQkfCKF1EPqoiJacRVkx3AIP8DgREGbOzhqL27i84F-F8Q=w300-rw</image>
     </theme>
     <theme id="Magpie">
@@ -231,7 +231,7 @@
         <package>com.boswelja.mnml</package>
         <pricing>Free</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/harmony.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/harmony.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/gXkzkkD-lJIG-zh-qVG11xs_8NQZ0W5UJhyulhjx_6Kto0Qq20ZbpT8PUnM4TboKRsM=w300-rw</image>
     </theme>
     <theme id="Harmony PRO">
@@ -240,7 +240,7 @@
         <package>com.boswelja.mnml.pro</package>
         <pricing>Paid</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/harmony.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/harmony.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/gXkzkkD-lJIG-zh-qVG11xs_8NQZ0W5UJhyulhjx_6Kto0Qq20ZbpT8PUnM4TboKRsM=w300-rw</image>
     </theme>
     <theme id="NovaUI">
@@ -249,7 +249,7 @@
         <package>com.cytech.nova</package>
         <pricing>Free</pricing>
         <support>overlays|fonts|bootanimations|sounds</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/novaui.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/novaui.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/AAYNmUcngoeJ3vtmGrXkYdb-bjBtfElSkHA9rp1FQZU0sh9JBV8wJkrp7N29ZHr_IFE=w300-rw</image>
     </theme>
     <theme id="Outline">
@@ -267,7 +267,7 @@
         <package>it.folgore95.pixel</package>
         <pricing>Free</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/pixel.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/pixel.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/9REoZONctRhixbJn0B2x2vtT-nr0hYjF2Yih7p8J_q86FAZcLo_ZvytVyHcut-NUHC9E=w300-rw</image>
     </theme>
     <theme id="Risalto">
@@ -285,7 +285,7 @@
         <package>com.kohlewrrk.reverie.subs</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/reverie.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/reverie.jpg</backgroundimage>
         <image>http://lh3.googleusercontent.com/KJyKye-74akCdm81En0cuc6e4LnImJAKqms7BMz_R6C7ALQPXTMex4P3gkZtgHlZfxI=w300-rw</image>
     </theme>
     <theme id="Rounded UI">
@@ -312,7 +312,7 @@
         <package>com.cytech.substratumspectra</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|bootanimations|sounds</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/spectra.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/spectra.jpg</backgroundimage>
         <image>http://lh3.googleusercontent.com/iqzHOD0HruvDMKjaZxot_sAEl6nAXH8WxRi48EzLfFpPwKsRPTp5vVC5cBq_BUuoBCc=w300-rw</image>
     </theme>
     <theme id="Streamlined Light">
@@ -321,7 +321,7 @@
         <package>snn.streamlined.lite</package>
         <pricing>Free</pricing>
         <support>overlays|fonts|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/streamlinedlight.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/streamlinedlight.jpg</backgroundimage>
         <image>http://lh3.googleusercontent.com/b7R8LBhqdW-bgBSOV2dPsfnSM7CAtq5-brQCi3i15nw6Y4dSE5DKXE56SOAou5X3Rm8=w300-rw</image>
     </theme>
     <theme id="Uranium UI">
@@ -330,7 +330,7 @@
         <package>com.cytech.uraniumsubstratum</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|bootanimations|sounds</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/uraniumui.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/uraniumui.jpg</backgroundimage>
         <image>http://lh3.googleusercontent.com/mXDiV_n4a0rJJ45vzbsso9i8kg6WuMyOT4HhSxle4sZvrBBntlPGr5Si6gTFbxsx77IX=w300-rw</image>
     </theme>
 </substratum>

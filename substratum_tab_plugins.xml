@@ -15,7 +15,7 @@
         <package>com.amazed.navbars</package>
         <pricing>Paid</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/amazednavbars.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/amazednavbars.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/ZUgd2pWm8rfnArzc5R4BpHQ3a07NfX4NJGrDd-6Xz2OzdL4g2Rkr_qMiR6r5nFGaREw=w300-rw</image>
     </theme>
     <theme id="AIO // THEME EXPANDER">
@@ -96,7 +96,7 @@
         <package>com.orpheusdroid.s8navbarsubs</package>
         <pricing>Paid</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/s8navbar.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/s8navbar.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/tgCfhD0aKo2fWJ6KgEOPobg6U_VCLQW3xnWzMSY3cim5ivv5lKF1tteu87N0oVilbFw=w300-rw</image>
     </theme>
     <theme id="SubNa">
@@ -105,7 +105,7 @@
         <package>lfprodev.substratum.subna</package>
         <pricing>Free</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/subna.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/subna.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/tgCfhD0aKo2fWJ6KgEOPobg6U_VCLQW3xnWzMSY3cim5ivv5lKF1tteu87N0oVilbFw=w300-rw</image>
     </theme>
     <theme id="Trip Nav Bar">
@@ -114,7 +114,7 @@
         <package>com.spada.tripnavbar</package>
         <pricing>Free</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/tripnavbar.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/tripnavbar.jpg</backgroundimage>
         <image>http://lh3.googleusercontent.com/hVi3lsMSl29sysQbIRsVQjjsCFAxy_JEEphml197mlrFZPVL-KA78qgQsQSEaBMLIPU=w300-rw</image>
     </theme>
     <theme id="Vivid Navbars QS Icons">
@@ -123,7 +123,7 @@
         <package>com.ami.vividiconset</package>
         <pricing>Paid</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vividnavbarsqsicons.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vividnavbarsqsicons.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/Zwz3CCT7pbbRpYAngFTy7wui3IZs8WCjYQWlDltZajIz4JW9kv54N97KIucz6rUicg=w300-rw</image>
     </theme>
     <theme id="Vivid QuickSettings">
@@ -132,7 +132,7 @@
         <package>com.ami.vivid</package>
         <pricing>Free</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vividquicksettings.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vividquicksettings.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/FVapFfJAEeVQZ-iouz_XVSkA2qn4TtwK_ONidvqjQuqYfiABig_uEGwRv9W1ddCxeAid=w300-rw</image>
     </theme>
 </substratum>

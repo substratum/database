@@ -42,7 +42,7 @@
         <package>baka.sai.theme</package>
         <pricing>Free</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/saifresh.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/saifresh.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/LcMi51U0EImcG0rrLq5OBh49PE1KYecm5j1Q3rBMMiqycld_Qd4ze7mFcolBvrEqKmY=w300-rw</image>
     </theme>
     <theme id="ion">
@@ -51,7 +51,7 @@
         <package>com.pierx.ion</package>
         <pricing>Free</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ion.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ion.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/7XRETp9wuXNTMs6rMdkhBcUrBkhD3ukC9Jo9lQITAbeeiooBs8G_gKZTTwbmRNVTaIE=w300-rw</image>
     </theme>
     <theme id="nano">
