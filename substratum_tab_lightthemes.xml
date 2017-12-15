@@ -315,4 +315,13 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/uraniumui.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/mXDiV_n4a0rJJ45vzbsso9i8kg6WuMyOT4HhSxle4sZvrBBntlPGr5Si6gTFbxsx77IX=w300-rw</image>
     </theme>
+	<theme id="ion">
+        <author>Piere R</author>
+        <link>https://play.google.com/store/apps/details?id=com.pierx.ion</link>
+        <package>com.pierx.ion</package>
+        <pricing>Free</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ion.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/7XRETp9wuXNTMs6rMdkhBcUrBkhD3ukC9Jo9lQITAbeeiooBs8G_gKZTTwbmRNVTaIE=w300-rw</image>
+    </theme>
 </substratum>

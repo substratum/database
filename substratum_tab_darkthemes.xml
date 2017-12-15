@@ -46,7 +46,7 @@
         <image>https://lh3.googleusercontent.com/Fbru3lX4fTqeU47wVoY78oeOaICoE04_dsNwfTA3K2240kywiXdrCVMir2mBWz2Atw=w300-rw</image>
     </theme>
     <theme id="Biohazard">
-        <author>pierx</author>
+        <author>Piere R</author>
         <link>https://play.google.com/store/apps/details?id=com.pierx.biohazard.theme</link>
         <package>com.pierx.biohazard.theme</package>
         <pricing>Paid</pricing>
@@ -190,7 +190,7 @@
         <image>https://lh3.googleusercontent.com/ffZsyRJRKzko-NWsuzWpO-s2zuWeAhYqNqb6g4Hu75xxJsNo80IAXW9AjL5mz-Bn6hUj=w300-rw</image>
     </theme>
     <theme id="Gravija">
-        <author>pierx</author>
+        <author>Piere R</author>
         <link>https://play.google.com/store/apps/details?id=com.pierx.gravija</link>
         <package>com.pierx.gravija</package>
         <pricing>Paid</pricing>
@@ -198,14 +198,23 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/gravija_dark.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/idmqcyf2IddT5XCvs2oq45BeLK4OB90_gDcb6XWA57B5MzzV4ixP44b-zWC2GG9oSw=w300-rw</image>
     </theme>
-    <theme id="Kuro">
-        <author>pierx</author>
+    <theme id="Prime">
+        <author>Piere R</author>
+        <link>https://play.google.com/store/apps/details?id=com.pierx.prime.novus</link>
+        <package>com.pierx.prime.novus</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/prime.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/VEo2205f9rJXB-YsHWOP1meP18FtlqjX2ohTAnsG_9mDyo2jKc0HDlGnBr63B6DKDsEO=w300-rw</image>
+    </theme>
+	<theme id="nano">
+        <author>Piere R</author>
         <link>https://play.google.com/store/apps/details?id=com.pierx.kuro</link>
         <package>com.pierx.kuro</package>
         <pricing>Paid</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/kuro.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/7vW6UMnv7F7n-2gtXgYTY5LVExasfW43PXveoYySwsBq5Cv1GSH2eRZa98uNzpigECM=w300-rw</image>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/nano.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/hHJaC5hIh6eFvAYbJC1yil3yKiNVE2TyRnj0mZvBTCk24uNrLj2TmNBlTix9vXGgSg=w300-rw</image>
     </theme>
     <theme id="LoNe 4SuBs">
         <author>Kikkos</author>

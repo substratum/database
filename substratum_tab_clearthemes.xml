@@ -81,4 +81,13 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/pixel.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/9REoZONctRhixbJn0B2x2vtT-nr0hYjF2Yih7p8J_q86FAZcLo_ZvytVyHcut-NUHC9E=w300-rw</image>
     </theme>
+	<theme id="Prime">
+        <author>Piere R</author>
+        <link>https://play.google.com/store/apps/details?id=com.pierx.prime.novus</link>
+        <package>com.pierx.prime.novus</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/prime.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/VEo2205f9rJXB-YsHWOP1meP18FtlqjX2ohTAnsG_9mDyo2jKc0HDlGnBr63B6DKDsEO=w300-rw</image>
+    </theme>
 </substratum>
