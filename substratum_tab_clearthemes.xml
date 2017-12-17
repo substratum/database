@@ -81,7 +81,7 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/valerie.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/p55w6mETRRzD7zT_tzYOMzoDb0rGSzPOAaYkh9DTCyHjm1Jqhy4SiaXfuGuExQ3nq6s=w300-rw</image>
     </theme>
-	<theme id="Prime">
+    <theme id="Prime">
         <author>Piere R</author>
         <link>https://play.google.com/store/apps/details?id=com.pierx.prime.novus</link>
         <package>com.pierx.prime.novus</package>

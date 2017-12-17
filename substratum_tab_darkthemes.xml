@@ -324,21 +324,23 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/quetzal.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/vZ3H_TVxyuZLKnPHEuGX3HTOwFHtZkbEaCFRW1q5vcvzG-WyE8UTjpFwjkADfE7Hja4=w300-rw</image>
     </theme>
-	<theme id="ResoluteUI">
+<!--
+    <theme id="ResoluteUI">
         <author>AutoSkive</author>
         <link>https://play.google.com/store/apps/details?id=com.autoskive.resoluteui</link>
         <package>com.autoskive.resoluteui</package>
         <pricing>Paid</pricing>
         <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
-		<backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/resoluteui.png</backgroundimage>
-		<image>https://lh3.googleusercontent.com/0puWzEu1o0fGJzgoJp1Asrdaz39ByGPN2jfwVpEXmNBuZDl2FIXtlxl27lWlbG5OrjM=w300-rw</image>
-	</theme>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/resoluteui.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/0puWzEu1o0fGJzgoJp1Asrdaz39ByGPN2jfwVpEXmNBuZDl2FIXtlxl27lWlbG5OrjM=w300-rw</image>
+    </theme>
+-->
     <theme id="Shade UI">
         <author>Gianluca Spadazzi</author>
         <link>https://play.google.com/store/apps/details?id=com.spada.tealholerro</link>
         <package>com.spada.tealholerro</package>
-		<pricing>Paid</pricing>
-		<support>overlays|fonts|wallpapers</support>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/shadeui.jpg</backgroundimage>
         <image>http://lh3.googleusercontent.com/MZ-i4vpB9eegLc35mjp6PsaWRpOCM8vazwzVErlWx4DbNJ4o4Y81DoQ8-Qu1Et5biDU=w300-rw</image>
     </theme>
