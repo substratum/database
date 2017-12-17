@@ -27,6 +27,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/nineteen.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/OtMEkPQWvSd9r-ircElH92nawhLAlXjAIbABkEodj5Du6KX536zc05qo-Ii-hcKkSA=w300-rw</image>
     </theme>
+    <theme id="Prime">
+        <author>Piere R</author>
+        <link>https://play.google.com/store/apps/details?id=com.pierx.prime.novus</link>
+        <package>com.pierx.prime.novus</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/prime.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/VEo2205f9rJXB-YsHWOP1meP18FtlqjX2ohTAnsG_9mDyo2jKc0HDlGnBr63B6DKDsEO=w300-rw</image>
+    </theme>
     <theme id="Sprite">
         <author>DJDarkknight96</author>
         <link>https://play.google.com/store/apps/details?id=com.djdarkknight.subs.sprite</link>
@@ -71,15 +80,6 @@
         <support>overlays|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/valerie.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/p55w6mETRRzD7zT_tzYOMzoDb0rGSzPOAaYkh9DTCyHjm1Jqhy4SiaXfuGuExQ3nq6s=w300-rw</image>
-    </theme>
-    <theme id="Pixel Theme">
-        <author>Giorgio Cantoni (folgore95)</author>
-        <link>https://play.google.com/store/apps/details?id=it.folgore95.pixel</link>
-        <package>it.folgore95.pixel</package>
-        <pricing>Free</pricing>
-        <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/pixel.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/9REoZONctRhixbJn0B2x2vtT-nr0hYjF2Yih7p8J_q86FAZcLo_ZvytVyHcut-NUHC9E=w300-rw</image>
     </theme>
 	<theme id="Prime">
         <author>Piere R</author>

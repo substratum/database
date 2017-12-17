@@ -9,6 +9,33 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/aospuiblack.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/TfqAYcKeFfyK1AQ1ptbfulHd5PSVC8LLb1Uz2whYi2A7soEe4lTKpFXVfgbxqYo26ok=w300-rw</image>
     </theme>
+    <theme id="Biohazard Samsung Edition">
+        <author>Piere R</author>
+        <link>https://play.google.com/store/apps/details?id=com.pierx.biohazard.samsung</link>
+        <package>com.pierx.biohazard.samsung</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/biohazardsamsung.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/qH4JkD5QRh8lzrKL9VT_ZWreY9XPyMvaT-E6EoTSWQb4Lc1zdSoYnEraiEq6HfYpGA=w300-rw</image>
+    </theme>
+    <theme id="Christmas">
+        <author>Piere R</author>
+        <link>https://play.google.com/store/apps/details?id=me.piere.christmas</link>
+        <package>me.piere.christmas</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/christmas.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/uQLIWBMJBsrcf-8UjjhLDmooTIbjrl44jUggOh2uWkaTGhx26hUgCqiixHetfPtwnw=w300-rw</image>
+    </theme>
+    <theme id="Cygnus">
+        <author>Piere R</author>
+        <link>https://play.google.com/store/apps/details?id=me.piere.cygnus</link>
+        <package>me.piere.cygnus</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/cygnus.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/EfE1AxZzfThA0gzkEGI-sPs7bl3qB_HSEYLedW5-XzWO-HJ1KIjXuaK2NXkvattpP1A=w300-rw</image>
+    </theme>
     <theme id="Fresh Theme">
         <author>Sai</author>
         <link>https://play.google.com/store/apps/details?id=baka.sai.theme</link>
@@ -17,24 +44,6 @@
         <support>overlays</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/saifresh.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/LcMi51U0EImcG0rrLq5OBh49PE1KYecm5j1Q3rBMMiqycld_Qd4ze7mFcolBvrEqKmY=w300-rw</image>
-    </theme>
-    <theme id="StatusBar Icons (+extras) for Samsung">
-        <author>ohayoubaka</author>
-        <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.statusbarsamsung</link>
-        <package>com.ohayoubaka.statusbarsamsung</package>
-        <pricing>Free</pricing>
-        <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ohayoubakastatusbar.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/itT6mL-vhf2t2OjoUXb3bNR9U0X55YsGJqPd1SRWMvaV89wT_Mr5mBBPNrviQgYJECc=w300-rw</image>
-    </theme>
-    <theme id="Swift Dark">
-        <author>Per Lycke</author>
-        <link>https://play.google.com/store/apps/details?id=com.brit.swiftdark.substratum</link>
-        <package>com.brit.swiftdark.substratum</package>
-        <pricing>Paid</pricing>
-        <support>overlays|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftdark.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/-A1cYdG_ItEH7hNW1vAKc-SF6siE3scxK8D4DKDs3kF_J_Uq9NfYoSkDt5ktNdTbdw=w300-rw</image>
     </theme>
     <theme id="ion">
         <author>Piere R</author>
@@ -45,24 +54,6 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ion.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/7XRETp9wuXNTMs6rMdkhBcUrBkhD3ukC9Jo9lQITAbeeiooBs8G_gKZTTwbmRNVTaIE=w300-rw</image>
     </theme>
-    <theme id="Cygnus">
-        <author>Piere R</author>
-        <link>https://play.google.com/store/apps/details?id=me.piere.cygnus</link>
-        <package>me.piere.cygnus</package>
-        <pricing>Paid</pricing>
-        <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/cygnus.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/EfE1AxZzfThA0gzkEGI-sPs7bl3qB_HSEYLedW5-XzWO-HJ1KIjXuaK2NXkvattpP1A=w300-rw</image>
-    </theme>
-    <theme id="Biohazard Samsung Edition">
-        <author>Piere R</author>
-        <link>https://play.google.com/store/apps/details?id=com.pierx.biohazard.samsung</link>
-        <package>com.pierx.biohazard.samsung</package>
-        <pricing>Paid</pricing>
-        <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/biohazardsamsung.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/qH4JkD5QRh8lzrKL9VT_ZWreY9XPyMvaT-E6EoTSWQb4Lc1zdSoYnEraiEq6HfYpGA=w300-rw</image>
-    </theme>
     <theme id="nano">
         <author>Piere R</author>
         <link>https://play.google.com/store/apps/details?id=com.pierx.kuro</link>
@@ -72,13 +63,22 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/nano.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/hHJaC5hIh6eFvAYbJC1yil3yKiNVE2TyRnj0mZvBTCk24uNrLj2TmNBlTix9vXGgSg=w300-rw</image>
     </theme>
-    <theme id="Christmas">
-        <author>Piere R</author>
-        <link>https://play.google.com/store/apps/details?id=me.piere.christmas</link>
-        <package>me.piere.christmas</package>
-        <pricing>Paid</pricing>
+    <theme id="StatusBar Icons (+extras) for Samsung">
+        <author>ohayoubaka</author>
+        <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.statusbarsamsung</link>
+        <package>com.ohayoubaka.statusbarsamsung</package>
+        <pricing>Free</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/christmas.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/uQLIWBMJBsrcf-8UjjhLDmooTIbjrl44jUggOh2uWkaTGhx26hUgCqiixHetfPtwnw=w300-rw</image>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ohayoubakastatusbar.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/itT6mL-vhf2t2OjoUXb3bNR9U0X55YsGJqPd1SRWMvaV89wT_Mr5mBBPNrviQgYJECc=w300-rw</image>
+    </theme>
+    <theme id="Swift Dark">
+        <author>Per Lycke</author>
+        <link>https://play.google.com/store/apps/details?id=com.brit.swiftdark.substratum</link>
+        <package>com.brit.swiftdark.substratum</package>
+        <pricing>Paid</pricing>
+        <support>overlays|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftdark.jpg</backgroundimage>
+        <image>http://lh3.googleusercontent.com/-A1cYdG_ItEH7hNW1vAKc-SF6siE3scxK8D4DKDs3kF_J_Uq9NfYoSkDt5ktNdTbdw=w300-rw</image>
     </theme>
 </substratum>

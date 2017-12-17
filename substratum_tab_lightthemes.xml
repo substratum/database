@@ -180,6 +180,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ice_banner.png</backgroundimage>
         <image>https://raw.githubusercontent.com/substratum/database/master/images/ice_icon.png</image>
     </theme>
+    <theme id="ion">
+        <author>Piere R</author>
+        <link>https://play.google.com/store/apps/details?id=com.pierx.ion</link>
+        <package>com.pierx.ion</package>
+        <pricing>Free</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ion.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/7XRETp9wuXNTMs6rMdkhBcUrBkhD3ukC9Jo9lQITAbeeiooBs8G_gKZTTwbmRNVTaIE=w300-rw</image>
+    </theme>
     <theme id="LoNe 4SuBs">
         <author>Kikkos</author>
         <link>https://play.google.com/store/apps/details?id=com.kikkos.lone4subs</link>
@@ -252,6 +261,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/outline_banner.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/ubdVSj39HmGFLaxucXiXxpdaVutev0SLObUvXhnO22yWPGlgYIZd_BAFu6ZLS2Tu1q2e=w512-rw</image>
     </theme>
+    <theme id="Pixel Theme">
+        <author>Giorgio Cantoni (folgore95)</author>
+        <link>https://play.google.com/store/apps/details?id=it.folgore95.pixel</link>
+        <package>it.folgore95.pixel</package>
+        <pricing>Free</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/pixel.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/9REoZONctRhixbJn0B2x2vtT-nr0hYjF2Yih7p8J_q86FAZcLo_ZvytVyHcut-NUHC9E=w300-rw</image>
+    </theme>
     <theme id="Risalto">
         <author>Leonardo Fraccaroli</author>
         <link>https://play.google.com/store/apps/details?id=com.leofracca.risaltosubs</link>
@@ -314,14 +332,5 @@
         <support>overlays|fonts|bootanimations|sounds</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/uraniumui.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/mXDiV_n4a0rJJ45vzbsso9i8kg6WuMyOT4HhSxle4sZvrBBntlPGr5Si6gTFbxsx77IX=w300-rw</image>
-    </theme>
-	<theme id="ion">
-        <author>Piere R</author>
-        <link>https://play.google.com/store/apps/details?id=com.pierx.ion</link>
-        <package>com.pierx.ion</package>
-        <pricing>Free</pricing>
-        <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ion.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/7XRETp9wuXNTMs6rMdkhBcUrBkhD3ukC9Jo9lQITAbeeiooBs8G_gKZTTwbmRNVTaIE=w300-rw</image>
     </theme>
 </substratum>

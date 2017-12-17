@@ -135,6 +135,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/destinydark.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/zD4OSa-yogogrKJbncnWZ8OlOkdWvgIq0KYBWRaDcoxn81e522Oegd7asIllk2mXjPs=w300-rw</image>
     </theme>
+    <theme id="Dirty Dark">
+        <author>DeadManxXD</author>
+        <link>https://play.google.com/store/apps/details?id=com.samsoft.dirtysubs</link>
+        <package>com.samsoft.dirtysubs</package>
+        <pricing>Free</pricing>
+        <support>overlays|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/derty_dark.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/tWDEwHkAmRENAIHSGMJDC5glI4xFC5yyOr6t2gKMYrZbPUaY4-bExE9cl9ug-oP4qDg=w300-rw</image>
+    </theme>
     <theme id="DNA Dark Project">
         <author>Mike xdnax</author>
         <link>https://play.google.com/store/apps/details?id=com.xdnax.apps.dnadarkproject</link>
@@ -198,24 +207,6 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/gravija_dark.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/idmqcyf2IddT5XCvs2oq45BeLK4OB90_gDcb6XWA57B5MzzV4ixP44b-zWC2GG9oSw=w300-rw</image>
     </theme>
-    <theme id="Prime">
-        <author>Piere R</author>
-        <link>https://play.google.com/store/apps/details?id=com.pierx.prime.novus</link>
-        <package>com.pierx.prime.novus</package>
-        <pricing>Paid</pricing>
-        <support>overlays|fonts</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/prime.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/VEo2205f9rJXB-YsHWOP1meP18FtlqjX2ohTAnsG_9mDyo2jKc0HDlGnBr63B6DKDsEO=w300-rw</image>
-    </theme>
-	<theme id="nano">
-        <author>Piere R</author>
-        <link>https://play.google.com/store/apps/details?id=com.pierx.kuro</link>
-        <package>com.pierx.kuro</package>
-        <pricing>Paid</pricing>
-        <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/nano.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/hHJaC5hIh6eFvAYbJC1yil3yKiNVE2TyRnj0mZvBTCk24uNrLj2TmNBlTix9vXGgSg=w300-rw</image>
-    </theme>
     <theme id="LoNe 4SuBs">
         <author>Kikkos</author>
         <link>https://play.google.com/store/apps/details?id=com.kikkos.lone4subs</link>
@@ -270,6 +261,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/mono.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/1f6vvtBBkMSAKJsmvYFeFleLqf5DJioEHzTzZc3oghygJRKK6vwweqP0Z1glFY-FEmQy=w300-rw</image>
     </theme>
+        <theme id="nano">
+        <author>Piere R</author>
+        <link>https://play.google.com/store/apps/details?id=com.pierx.kuro</link>
+        <package>com.pierx.kuro</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/nano.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/hHJaC5hIh6eFvAYbJC1yil3yKiNVE2TyRnj0mZvBTCk24uNrLj2TmNBlTix9vXGgSg=w300-rw</image>
+    </theme>
     <theme id="nineteen">
         <author>De Jan (llevo3)</author>
         <link>https://play.google.com/store/apps/details?id=dejan.llevo3.nineteen</link>
@@ -289,11 +289,11 @@
         <image>https://lh3.googleusercontent.com/QVHwiJpXI2KCPEokiiJLJWoGwKOZ1ylJJcOsIvBdWyN6dggKZZrQDiZ2opG4ZQxbRg=w300-rw</image>
     </theme>
     <theme id="OrangeKitten PRO">
-		<author>Ivan Iskandar</author>
+        <author>Ivan Iskandar</author>
         <link>https://play.google.com/store/apps/details?id=com.iskandarivan.orangekittenpro</link>
         <package>com.iskandarivan.orangekittenpro</package>
-		<pricing>Paid</pricing>
-		<support>overlays|fonts|sounds|bootanimations|wallpapers</support>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/orangekittenpro.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/WxBQUAhgX7CE6dgg8FJ809DsYBPRYBWuCVi2bXhi-3IKaWb_PW_T9fAG3CABjDO1rPDQ=w300-rw</image>
     </theme>
@@ -305,6 +305,15 @@
         <support>overlays|fonts|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/pitchblack.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/oIrZnIfUzA3NWmugrAmcSm4MHcF2rIDsv6sC1X1c9tSROzyO_2oygannCNiTBmyik_w=w300-rw</image>
+    </theme>
+    <theme id="Prime">
+        <author>Piere R</author>
+        <link>https://play.google.com/store/apps/details?id=com.pierx.prime.novus</link>
+        <package>com.pierx.prime.novus</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/prime.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/VEo2205f9rJXB-YsHWOP1meP18FtlqjX2ohTAnsG_9mDyo2jKc0HDlGnBr63B6DKDsEO=w300-rw</image>
     </theme>
     <theme id="Quetzal | Dark">
         <author>Alejandro Ponce</author>
@@ -359,15 +368,6 @@
         <support>overlays|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftdark.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/-A1cYdG_ItEH7hNW1vAKc-SF6siE3scxK8D4DKDs3kF_J_Uq9NfYoSkDt5ktNdTbdw=w300-rw</image>
-    </theme>
-	<theme id="Dirty Dark">
-        <author>DeadManxXD</author>
-        <link>https://play.google.com/store/apps/details?id=com.samsoft.dirtysubs</link>
-        <package>com.samsoft.dirtysubs</package>
-        <pricing>Free</pricing>
-        <support>overlays|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/derty_dark.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/tWDEwHkAmRENAIHSGMJDC5glI4xFC5yyOr6t2gKMYrZbPUaY4-bExE9cl9ug-oP4qDg=w300-rw</image>
     </theme>
     <theme id="ThaJoker SupernovaRemix">
         <author>Train88</author>
