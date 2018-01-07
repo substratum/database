@@ -81,4 +81,13 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftdark.jpg</backgroundimage>
         <image>http://lh3.googleusercontent.com/-A1cYdG_ItEH7hNW1vAKc-SF6siE3scxK8D4DKDs3kF_J_Uq9NfYoSkDt5ktNdTbdw=w300-rw</image>
     </theme>
+    <theme id="Viktoria">
+        <author>Giorgio Cantoni (folgore95)</author>
+        <link>https://play.google.com/store/apps/details?id=it.folgore95.viktoria</link>
+        <package>it.folgore95.viktoria</package>
+        <pricing>Paid</pricing>
+        <support>overlays|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/viktoria.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/yElYa2yiOZpQ9K2cLXkcQKNyKqjCCR2RUSxXmQ5DsAY2gC4MNyDZ7_yjHHFiSbQYlbs=w300-rw</image>
+    </theme>
 </substratum>
