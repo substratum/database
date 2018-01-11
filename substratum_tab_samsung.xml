@@ -38,8 +38,8 @@
     </theme>
     <theme id="Fresh Theme">
         <author>Sai</author>
-        <link>https://play.google.com/store/apps/details?id=baka.sai.theme</link>
-        <package>baka.sai.theme</package>
+        <link>https://play.google.com/store/apps/details?id=baka.sai.thema</link>
+        <package>baka.sai.thema</package>
         <pricing>Free</pricing>
         <support>overlays</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/saifresh.jpg</backgroundimage>
