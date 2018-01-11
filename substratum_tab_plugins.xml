@@ -126,22 +126,22 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/tripnavbar.jpg</backgroundimage>
         <image>http://lh3.googleusercontent.com/hVi3lsMSl29sysQbIRsVQjjsCFAxy_JEEphml197mlrFZPVL-KA78qgQsQSEaBMLIPU=w300-rw</image>
     </theme>
-    <theme id="Vivid Navbars QS Icons">
-        <author>Michele Amendolagine</author>
-        <link>https://play.google.com/store/apps/details?id=com.ami.vividiconset</link>
-        <package>com.ami.vividiconset</package>
-        <pricing>Paid</pricing>
-        <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vividnavbarsqsicons.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/Zwz3CCT7pbbRpYAngFTy7wui3IZs8WCjYQWlDltZajIz4JW9kv54N97KIucz6rUicg=w300-rw</image>
-    </theme>
-    <theme id="Vivid QuickSettings">
+    <theme id="Vivid Navbars Quicksettings">
         <author>Michele Amendolagine</author>
         <link>https://play.google.com/store/apps/details?id=com.ami.vivid</link>
         <package>com.ami.vivid</package>
         <pricing>Free</pricing>
         <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vividquicksettings.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/FVapFfJAEeVQZ-iouz_XVSkA2qn4TtwK_ONidvqjQuqYfiABig_uEGwRv9W1ddCxeAid=w300-rw</image>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vividnavbarsqs.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/-d1pAUmILN1Dk9sL-KMiVUYMOliD3JBi-217FXmYXoo4fP-FCkyQSF4H_i9lePzpV8g=w300-rw</image>
+    </theme>
+    <theme id="Vivid Navbars Quicksettings Pro">
+        <author>Michele Amendolagine</author>
+        <link>https://play.google.com/store/apps/details?id=com.ami.vividiconset</link>
+        <package>com.ami.vividiconset</package>
+        <pricing>Paid</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vividnavbarsqspro.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/fgvu0YgNdaRpYzcgKzprSmvvQ5QGaeh0Aq2EJ9W9ZvjdH8-vTJcbwTB_MndGXPXOoQ=w300-rw</image>
     </theme>
 </substratum>
