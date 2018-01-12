@@ -216,15 +216,6 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/lone4subs.png</backgroundimage>
         <image>http://lh3.googleusercontent.com/ECJe7nzBjGvknIcvdSq-YOXlxwFnkMyfoYITe7MFpS-DQ3jsjXN-4YH4-4WgG2lQI-WJ=w300-rw</image>
     </theme>
-    <theme id="Lunar">
-        <author>Gurpreet Singh</author>
-        <link>https://play.google.com/store/apps/details?id=snn.lunar</link>
-        <package>snn.lunar</package>
-        <pricing>Paid</pricing>
-        <support>overlays|wallpapers</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/lunar.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/kcNNfuheaFrp1F8nVJ8IgnkqR6aLU8H_rCNAI-lrToBkD6ky81sA_By6Z7P5rghCC7_J=w300-rw</image>
-    </theme>
     <theme id="Magpie">
         <author>Jimmy Setiawan</author>
         <link>https://play.google.com/store/apps/details?id=com.setiawanjimmy.TheMagpie</link>
