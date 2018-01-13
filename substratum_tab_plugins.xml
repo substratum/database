@@ -99,6 +99,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/navswag.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/R2aaFGSISP24Xb5RRoXXInFliUfz3rjweaDSXn1m48sFRNOJ6w86K20ZmyhmxcUVug=w300-rw</image>
     </theme>
+    <theme id="Ozone">
+        <author>ungeeked</author>
+        <link>https://play.google.com/store/apps/details?id=com.ungeeked.ozone</link>
+        <package>com.ungeeked.ozone</package>
+        <pricing>Free</pricing>
+        <support>overlays</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ozone.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/pG0-SpAT0uloqNDCSa5a2aIxXcd5QoJfsTfeZuu1SKtSG-vCYekebFjWyB6-If6_RI4=w300-rw</image>
+    </theme>
     <theme id="S8 Navbar">
         <author>Orpheusdroid</author>
         <link>https://play.google.com/store/apps/details?id=com.orpheusdroid.s8navbarsubs</link>
