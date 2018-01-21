@@ -326,6 +326,15 @@
         <image>https://lh3.googleusercontent.com/0puWzEu1o0fGJzgoJp1Asrdaz39ByGPN2jfwVpEXmNBuZDl2FIXtlxl27lWlbG5OrjM=w300-rw</image>
     </theme>
 -->
+    <theme id="Risalto Dark">
+        <author>Leonardo Fraccaroli</author>
+        <link>https://play.google.com/store/apps/details?id=com.leofracca.risaltodarksubs</link>
+        <package>com.leofracca.risaltodarksubs</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/risaltodark.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/_p_igFU9kKS2btWAcv6A11ysU3J6RJqN0S_WJWgC_NH_NlUKKfCVN3_3Ef0VN6kx4g=w300-rw</image>
+    </theme>
     <theme id="Shade UI">
         <author>Gianluca Spadazzi</author>
         <link>https://play.google.com/store/apps/details?id=com.spada.tealholerro</link>
