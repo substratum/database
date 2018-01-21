@@ -31,13 +31,9 @@ Keep the themes in alphabetical order. Any themes NOT following these guidelines
 
 Please add your ROM name (as you want it to appear) and identification prop (it MUST be unique, ro.cm.version, ro.mod.version, ro.rom.version are not acceptable) into the [Supported ROMs XML file](supported_roms.xml). If you have no unique prop (I'd recommend making one), please include a keyword (again, unique to you) that we can pull from your /system/build.prop. Keep the list alphabetical and format the commit message as "ROMs: Add <your_rom_name>". Any issues with this and your pull request will be rejected.
 
-## 2. Showcase submission forms
+## 2. Manual application
 
-For ROM devs, use [this form](https://docs.google.com/forms/d/1hMTzKPLCfcPiyXu-vjd6v5cY3bIf9cOOFEHGk4H6nWs/viewform).
-
-For themers, use [this form](https://docs.google.com/forms/d/1nN84W00jLUuJpTN5BWsEWZjCjLdyy2I3zaLSCVqu_C4/viewform).
-
-If the questions are not answered properly and correctly, your application will be disregarded.
+If you cannot create a pull request, please send an email to both Nathan Chancellor (nathan@prjkt.io) and Harsh Shandilya (harsh@prjkt.io) with the above information. Your request will be denied if ANY information is missing.
 
 # Questions?
 
