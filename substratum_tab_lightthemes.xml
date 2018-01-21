@@ -171,6 +171,15 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/hybridui.jpg</backgroundimage>
         <image>https://lh3.googleusercontent.com/XF79VJDkewa1e5OQ9DUd9MiCXBBuYbeSxVkg88-CPwJc-yfKxnjTGFwyZtwEPmPZKePu=w300-rw</image>
     </theme>
+    <theme id="HyperLoop">
+        <author>KRISHNA AR</author>
+        <link>https://play.google.com/store/apps/details?id=com.v23labs.HyperLoop</link>
+        <package>com.v23labs.HyperLoop</package>
+        <pricing>Paid</pricing>
+        <support>overlayss</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/hyperloop.jpg</backgroundimage>
+        <image>https://lh3.googleusercontent.com/Zd3n8rvB7lQbruiiHNhEjdzX5AhMuPhvD8zDlDObapumpjmtM1F07bSuQMH-5bNK_jo=w300-rw</image>
+    </theme>
     <theme id="Ice">
         <author>Chetan Lodha</author>
         <link>https://play.google.com/store/apps/details?id=substratum.theme.ice</link>
