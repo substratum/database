@@ -16,14 +16,10 @@ Add your theme to the appropriate XML file. Please use the following template:
     <link>DIRECT LINK TO YOUR THEME</link>
     <package>YOUR THEME'S PACKAGE IDENTIFIER</package>
     <pricing>Paid|free</pricing>
-    <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
     <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/IMAGE_NAME.ext</backgroundimage>
-    <image>DIRECT LINK TO PLAY STORE IMAGE</image>
 </theme>
 ```
-+ For the support tag, delete the ones that you do not support (do not reorder them).
 + For the backgroundimage tag, add your hero image from the Play Store into the Images folder and update the ending to be what your image is named.
-+ For the image tag, open your theme in the Play Store on a computer, right click on the app icon, and open it in a new tab. Use that link.
 
 Keep the themes in alphabetical order. Any themes NOT following these guidelines will be rejected.
 

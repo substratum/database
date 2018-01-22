@@ -5,404 +5,314 @@
         <link>https://play.google.com/store/apps/details?id=substratum.piereligio.bst</link>
         <package>substratum.piereligio.bst</package>
         <pricing>Paid</pricing>
-        <support>overlays|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/aospuiblack.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/TfqAYcKeFfyK1AQ1ptbfulHd5PSVC8LLb1Uz2whYi2A7soEe4lTKpFXVfgbxqYo26ok=w300-rw</image>
     </theme>
     <theme id="aospUI Dark [BlueGray]">
         <author>Piereligio Di Sante</author>
         <link>https://play.google.com/store/apps/details?id=bitsykolayers.piereligio.dst</link>
         <package>bitsykolayers.piereligio.dst</package>
         <pricing>Paid</pricing>
-        <support>overlays|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/aospuidarkbluegray.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/Rvj4E5oarmc0fF0AfrsEU20R3gDgOY-Qo9-D3jINJgRr3Kbp1I8KERxfesYAM7SEJA=w300-rw</image>
     </theme>
     <theme id="aospUI Dark [Gray]">
         <author>Piereligio Di Sante</author>
         <link>https://play.google.com/store/apps/details?id=bitsykolayers.piereligio.mdm</link>
         <package>bitsykolayers.piereligio.mdm</package>
         <pricing>Paid</pricing>
-        <support>overlays|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/aospuidarkgray.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/2uxMlCAjXNWQUYMauY9ZXCzSJH2XuaYOcCH1ioy9aLm44uLvHqbZ3x3gEieIEEH8XeA=w300-rw</image>
     </theme>
     <theme id="Beltz Theme">
         <author>Jimmy Setiawan</author>
         <link>https://play.google.com/store/apps/details?id=bitsykolayers.Midnight</link>
         <package>bitsykolayers.Midnight</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/beltz.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/jMWFY93hzT-Wrwo06Y0uCOXwGCy8D0cd2uDBR4MkGswOj0BGatEDBRmJIOnN3TjfTjg=w300-rw</image>
     </theme>
     <theme id="BigBlu">
         <author>cerj</author>
         <link>https://play.google.com/store/apps/details?id=com.cerj.bigblu</link>
         <package>com.cerj.bigblu</package>
         <pricing>Paid</pricing>
-        <support>overlays|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/bigblu.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/Fbru3lX4fTqeU47wVoY78oeOaICoE04_dsNwfTA3K2240kywiXdrCVMir2mBWz2Atw=w300-rw</image>
     </theme>
     <theme id="Biohazard">
         <author>Piere R</author>
         <link>https://play.google.com/store/apps/details?id=com.pierx.biohazard.theme</link>
         <package>com.pierx.biohazard.theme</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/biohazard.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/pauxOFbxyJ8AW10vcbsNq-t-CMJDS1td2L9QT3XsfWSSsc5bSAkv-YeOmUfw9L8l4Fg=w300-rw</image>
     </theme>
     <theme id="Black Mech">
         <author>BreakCore_Rush</author>
         <link>https://play.google.com/store/apps/details?id=ssblackmech.breakcore_rush.theme</link>
         <package>ssblackmech.breakcore_rush.theme</package>
         <pricing>Paid</pricing>
-        <support>overlays</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/blackmech.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/B6UZgfAVYpqb5FcIoDX3hfCgedTNJ9ZBOh_2bYq5OzzBsXEVKpyzG__1W58d2REzBHY=w300-rw</image>
     </theme>
     <theme id="BlueDragoon">
         <author>Ananda Basak</author>
         <link>https://play.google.com/store/apps/details?id=com.anandabasak.extendedUI</link>
         <package>com.anandabasak.extendedUI</package>
         <pricing>Free</pricing>
-        <support>overlays</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/bluedragoon.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/2DJb_Au9vS1pGCAvONTFVOmzqu4B3NcxY1SAIz7irHN5iusHhe3RAnSFq7tXZsXrtQ=w300-rw</image>
     </theme>
     <theme id="Compound">
         <author>Daniel Schott</author>
         <link>https://play.google.com/store/apps/details?id=com.subs.compound</link>
         <package>com.subs.compound</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|bootanimations</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/compound.jpg</backgroundimage>
-        <image>http://lh3.googleusercontent.com/lZB41r9-ehULK4ahjCUrDKOtJi2pfRmAAdOJwIGI7qtd1S82a_toBXIOH389s4FNt2g=w300-rw</image>
     </theme>
     <theme id="Cosmos">
         <author>CisGenderCats</author>
         <link>https://play.google.com/store/apps/details?id=com.CisGenderCats.themes.cosmos</link>
         <package>com.CisGenderCats.themes.cosmos</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/cosmos.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/KNSRP7hZMRgzuqTuy2zx3d77Ai-i-r8PFWEGu4Yw1jTJePbiXyUH8rpEdgn2pZ1Ti0k=w300-rw</image>
     </theme>
     <theme id="Dark Infusion">
         <author>Jake Engdahl (TheRealBigJake)</author>
         <link>https://play.google.com/store/apps/details?id=com.therealbigjake.darkorange</link>
         <package>com.therealbigjake.darkorange</package>
         <pricing>Paid</pricing>
-        <support>overlays|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/darkinfusion.jpg</backgroundimage>
-        <image>http://lh3.googleusercontent.com/px-__Q78KLadOs7gRVsxkbawoTLLrro1tSBe6mGvVN5H9j_SkSgeYvk0cpsSQW2Xkz4=w300-rw</image>
     </theme>
     <theme id="Default Dark Theme">
         <author>SpiritCroc</author>
         <link>https://play.google.com/store/apps/details?id=de.spiritcroc.defaultdarktheme_oms</link>
         <package>de.spiritcroc.defaultdarktheme_oms</package>
         <pricing>Free</pricing>
-        <support>overlays|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/defaultdarktheme.jpg</backgroundimage>
-        <image>http://lh3.googleusercontent.com/eIx4k1enwJC7U3Ktc1qFETjDos6XSUd4vU2uW_xe3oyXfuD5vk8vLcXM-SqhVaxkuvU=w300-rw</image>
     </theme>
     <theme id="Desire">
         <author>DeadmanxXD</author>
         <link>https://play.google.com/store/apps/details?id=com.samsoft.desire</link>
         <package>com.samsoft.desire</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|bootanimations|sounds|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/desire.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/J9Y4O_MzfTyHu0kTU53Tt7CiQJb69TutHuLFeSd8X6ZoNdkiFWuMLDa7G5Y_Hx8ixyeW=w300-rw</image>
     </theme>
     <theme id="DestinyBlack">
         <author>Paolo Giubilato</author>
         <link>https://play.google.com/store/apps/details?id=substratum.dude.destinyblack</link>
         <package>substratum.dude.destinyblack</package>
         <pricing>Paid</pricing>
-        <support>overlays|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/destinyblack.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/iPQq-ljHATdBYyoG6Pk06m5K0jPfftkb0nblOajvh6EZj6Xfq0d-NOWhey2HIoeLfQ=w300-rw</image>
     </theme>
     <theme id="DestinyDark">
         <author>Paolo Giubilato</author>
         <link>https://play.google.com/store/apps/details?id=bitsykolayers.ddarktheme</link>
         <package>bitsykolayers.ddarktheme</package>
         <pricing>Paid</pricing>
-        <support>overlays|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/destinydark.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/zD4OSa-yogogrKJbncnWZ8OlOkdWvgIq0KYBWRaDcoxn81e522Oegd7asIllk2mXjPs=w300-rw</image>
     </theme>
     <theme id="Dirty Dark">
         <author>DeadManxXD</author>
         <link>https://play.google.com/store/apps/details?id=com.samsoft.dirtysubs</link>
         <package>com.samsoft.dirtysubs</package>
         <pricing>Free</pricing>
-        <support>overlays|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/derty_dark.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/tWDEwHkAmRENAIHSGMJDC5glI4xFC5yyOr6t2gKMYrZbPUaY4-bExE9cl9ug-oP4qDg=w300-rw</image>
     </theme>
     <theme id="DNA Dark Project">
         <author>Mike xdnax</author>
         <link>https://play.google.com/store/apps/details?id=com.xdnax.apps.dnadarkproject</link>
         <package>com.xdnax.apps.dnadarkproject</package>
         <pricing>Free</pricing>
-        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/dnadark.jpg</backgroundimage>
-        <image>http://lh3.googleusercontent.com/sR5CEXHXbLRP3bHtsIlgvfSy5Q1Sq705HciQlwcHJUNf_0WaM-e7gAz9wxKc2D2kRA8k=w300-rw</image>
     </theme>
     <theme id="Domination">
         <author>David Wilson</author>
         <link>https://play.google.com/store/apps/details?id=com.annihilation.dominationdonate</link>
         <package>com.annihilation.dominationdonate</package>
         <pricing>Paid</pricing>
-        <support>overlays|bootanimations</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/domination.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/-k6QLSnpLJtUuzdkMmAgqWLmYdXlf5AN03fL21UF4NBRWdh7D0Qph1Cv39byxPSb5w=w300-rw</image>
     </theme>
     <theme id="Fantasy">
         <author>DeadmanxXD</author>
         <link>https://play.google.com/store/apps/details?id=com.samsoft.fantasy</link>
         <package>com.samsoft.fantasy</package>
         <pricing>Paid</pricing>
-        <support>overlays</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fantasy.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/ca1xNnuPugGPVhKZufIx1YY_KNJ41NdkW7PzHfo2LYT5F7HcnYhWFUtoa5Fbs2Qs1ZY=w300-rw</image>
     </theme>
     <theme id="Flux">
         <author>John Xionidis (giannisgx89)</author>
         <link>https://play.google.com/store/apps/details?id=flux.substratum.theme</link>
         <package>flux.substratum.theme</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/flux.jpg</backgroundimage>
-        <image>http://lh3.googleusercontent.com/eOjbUhX42MCRehW5_L9iDRliBFKTH5bXgdHaStA6Qu9yLRCrTGi5RM0FgplstPy6VMY=w300-rw</image>
     </theme>
     <theme id="Game Over!">
         <author>Samuel Garcia</author>
         <link>https://www.androidfilehost.com/?w=files&amp;flid=123917</link>
         <package>com.samsonincorporated.gameover</package>
         <pricing>Free</pricing>
-        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/gameover.jpg</backgroundimage>
-        <image>http://i.imgur.com/51wUfmn.png</image>
     </theme>
     <theme id="Glow">
         <author>Wasim Khan</author>
         <link>https://play.google.com/store/apps/details?id=substratum.blinq.glow</link>
         <package>substratum.blinq.glow</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|sounds|bootanimations</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/glow.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/ffZsyRJRKzko-NWsuzWpO-s2zuWeAhYqNqb6g4Hu75xxJsNo80IAXW9AjL5mz-Bn6hUj=w300-rw</image>
     </theme>
     <theme id="Gravija">
         <author>Piere R</author>
         <link>https://play.google.com/store/apps/details?id=com.pierx.gravija</link>
         <package>com.pierx.gravija</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/gravija_dark.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/idmqcyf2IddT5XCvs2oq45BeLK4OB90_gDcb6XWA57B5MzzV4ixP44b-zWC2GG9oSw=w300-rw</image>
     </theme>
     <theme id="LoNe 4SuBs">
         <author>Kikkos</author>
         <link>https://play.google.com/store/apps/details?id=com.kikkos.lone4subs</link>
         <package>com.kikkos.lone4subs</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/lone4subs.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/ECJe7nzBjGvknIcvdSq-YOXlxwFnkMyfoYITe7MFpS-DQ3jsjXN-4YH4-4WgG2lQI-WJ=w300-rw</image>
     </theme>
     <theme id="Magpie">
         <author>Jimmy Setiawan</author>
         <link>https://play.google.com/store/apps/details?id=com.setiawanjimmy.TheMagpie</link>
         <package>com.setiawanjimmy.TheMagpie</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/magpie.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/bf2frTe_FSzynjAZaWUdoLFZucqSqjtT6VdMvz_HFd_blCOJ8xhNAarKJLTXJIshgA=w300-rw</image>
     </theme>
     <theme id="ModernUI Free">
         <author>Laszlo Szecsenyi</author>
         <link>https://play.google.com/store/apps/details?id=sub.kickoff.modernui</link>
         <package>sub.kickoff.modernui</package>
         <pricing>Free</pricing>
-        <support>overlays|fonts|sounds|bootanimations</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/modernuifree.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/7cDDfNeqKlmUlMrX16buDo5AcXETP19Ilc-hVK_6FTO0JxgCOa7SbA2l9yZeZu9Xyxk=w300-rw</image>
     </theme>
     <theme id="ModernUI Pro">
         <author>Laszlo Szecsenyi</author>
         <link>https://play.google.com/store/apps/details?id=sub.kickoff.modernuipro</link>
         <package>sub.kickoff.modernuipro</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|sounds|bootanimations</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/modernuipro.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/gGgfDi9sbAPWplgQ9xnzFSIGgfs4OZLdNoTWUzWoyedN3PseNTj5Jke9CyjHhs-H6u6R=w300-rw</image>
     </theme>
     <theme id="Mono/Art">
         <author>De Jan (llevo3)</author>
         <link>https://play.google.com/store/apps/details?id=connoisseurship.project.mono</link>
         <package>connoisseurship.project.mono</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|sounds|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/mono.jpg</backgroundimage>
-        <image>http://lh3.googleusercontent.com/1f6vvtBBkMSAKJsmvYFeFleLqf5DJioEHzTzZc3oghygJRKK6vwweqP0Z1glFY-FEmQy=w300-rw</image>
     </theme>
         <theme id="nano">
         <author>Piere R</author>
         <link>https://play.google.com/store/apps/details?id=com.pierx.kuro</link>
         <package>com.pierx.kuro</package>
         <pricing>Paid</pricing>
-        <support>overlays</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/nano.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/hHJaC5hIh6eFvAYbJC1yil3yKiNVE2TyRnj0mZvBTCk24uNrLj2TmNBlTix9vXGgSg=w300-rw</image>
     </theme>
     <theme id="nineteen">
         <author>De Jan (llevo3)</author>
         <link>https://play.google.com/store/apps/details?id=dejan.llevo3.nineteen</link>
         <package>dejan.llevo3.nineteen</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|sounds|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/nineteen.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/OtMEkPQWvSd9r-ircElH92nawhLAlXjAIbABkEodj5Du6KX536zc05qo-Ii-hcKkSA=w300-rw</image>
     </theme>
     <theme id="Onyx">
         <author>Steven Sawyer (Archangel)</author>
         <link>https://play.google.com/store/apps/details?id=com.archangel.onyx.dark.substratum</link>
         <package>com.archangel.onyx.dark.substratum</package>
         <pricing>Paid</pricing>
-        <support>overlays</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/onyx.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/QVHwiJpXI2KCPEokiiJLJWoGwKOZ1ylJJcOsIvBdWyN6dggKZZrQDiZ2opG4ZQxbRg=w300-rw</image>
     </theme>
     <theme id="OrangeKitten PRO">
         <author>Ivan Iskandar</author>
         <link>https://play.google.com/store/apps/details?id=com.iskandarivan.orangekittenpro</link>
         <package>com.iskandarivan.orangekittenpro</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/orangekittenpro.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/WxBQUAhgX7CE6dgg8FJ809DsYBPRYBWuCVi2bXhi-3IKaWb_PW_T9fAG3CABjDO1rPDQ=w300-rw</image>
     </theme>
     <theme id="PitchBlack">
         <author>Altan KRK (westcrip)</author>
         <link>https://play.google.com/store/apps/details?id=pitchblack.origins.westcrip</link>
         <package>pitchblack.origins.westcrip</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/pitchblack.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/oIrZnIfUzA3NWmugrAmcSm4MHcF2rIDsv6sC1X1c9tSROzyO_2oygannCNiTBmyik_w=w300-rw</image>
     </theme>
     <theme id="Prime">
         <author>Piere R</author>
         <link>https://play.google.com/store/apps/details?id=com.pierx.prime.novus</link>
         <package>com.pierx.prime.novus</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/prime.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/VEo2205f9rJXB-YsHWOP1meP18FtlqjX2ohTAnsG_9mDyo2jKc0HDlGnBr63B6DKDsEO=w300-rw</image>
     </theme>
     <theme id="Quetzal | Dark">
         <author>Alejandro Ponce</author>
         <link>https://play.google.com/store/apps/details?id=com.itssaalex.quetzal</link>
         <package>com.itssaalex.quetzal</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/quetzal.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/vZ3H_TVxyuZLKnPHEuGX3HTOwFHtZkbEaCFRW1q5vcvzG-WyE8UTjpFwjkADfE7Hja4=w300-rw</image>
     </theme>
     <theme id="Risalto Dark">
         <author>Leonardo Fraccaroli</author>
         <link>https://play.google.com/store/apps/details?id=com.leofracca.risaltodarksubs</link>
         <package>com.leofracca.risaltodarksubs</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/risaltodark.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/_p_igFU9kKS2btWAcv6A11ysU3J6RJqN0S_WJWgC_NH_NlUKKfCVN3_3Ef0VN6kx4g=w300-rw</image>
     </theme>
     <theme id="Shade UI">
         <author>Gianluca Spadazzi</author>
         <link>https://play.google.com/store/apps/details?id=com.spada.tealholerro</link>
         <package>com.spada.tealholerro</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/shadeui.jpg</backgroundimage>
-        <image>http://lh3.googleusercontent.com/MZ-i4vpB9eegLc35mjp6PsaWRpOCM8vazwzVErlWx4DbNJ4o4Y81DoQ8-Qu1Et5biDU=w300-rw</image>
     </theme>
     <theme id="Spectrum">
         <author>Jeremy Beck</author>
         <link>https://play.google.com/store/apps/details?id=com.jerbeck24.Spectrum</link>
         <package>com.jerbeck24.Spectrum</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/spectrum.jpg</backgroundimage>
-        <image>http://lh3.googleusercontent.com/MvPhHFem-Vqndr24gePuWRnKSNQcxMAGVHvwE1nsg5fFiLyHfRPuH7m2B6MLebF2Dnax=w300-rw</image>
     </theme>
     <theme id="Streamlined Night">
         <author>Gurpreet Singh</author>
         <link>https://play.google.com/store/apps/details?id=snn.streamlined.night</link>
         <package>snn.streamlined.night</package>
         <pricing>Paid</pricing>
-        <support>overlays|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/streamlinednight.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/5k-euW12qjDF-C57SgxvsU0v1h5eBporzPw5u4aW7K8aIrEuUdYXluQR2FigU5XHAw=w300-rw</image>
     </theme>
     <theme id="Swift Dark">
         <author>Per Lycke</author>
         <link>https://play.google.com/store/apps/details?id=com.brit.swiftdark.substratum</link>
         <package>com.brit.swiftdark.substratum</package>
         <pricing>Paid</pricing>
-        <support>overlays|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftdark.jpg</backgroundimage>
-        <image>http://lh3.googleusercontent.com/-A1cYdG_ItEH7hNW1vAKc-SF6siE3scxK8D4DKDs3kF_J_Uq9NfYoSkDt5ktNdTbdw=w300-rw</image>
     </theme>
     <theme id="ThaJoker SupernovaRemix">
         <author>Train88</author>
         <link>https://play.google.com/store/apps/details?id=com.train88.thajoker</link>
         <package>com.train88.thajoker</package>
         <pricing>Paid</pricing>
-        <support>overlays|sounds|bootanimations|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/thajoker.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/yXdGHek26zJZ2Td34tojmkSApCnkMJVdo7Az82k8GqCWULGh9smBidnsXg02MolKqQ=w300-rw</image>
     </theme>
     <theme id="Valerie">
         <author>DeadmanxXD</author>
         <link>https://play.google.com/store/apps/details?id=com.samsoft.valerie</link>
         <package>com.samsoft.valerie</package>
         <pricing>Paid</pricing>
-        <support>overlays|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/valerie.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/p55w6mETRRzD7zT_tzYOMzoDb0rGSzPOAaYkh9DTCyHjm1Jqhy4SiaXfuGuExQ3nq6s=w300-rw</image>
     </theme>
     <theme id="Vibrance">
         <author>Wasim Khan</author>
         <link>https://play.google.com/store/apps/details?id=substratum.blinq.vibrance</link>
         <package>substratum.blinq.vibrance</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|sounds|bootanimations</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vibrance.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/UTks00ySwIdZUr3XyuP7QOcDA0-Hhp7BtNMs_LEkZUwV0jBJt_E-WAOgOKCZK3PhDk4=w300-rw</image>
     </theme>
     <theme id="View">
         <author>Gianluca Spadazzi</author>
         <link>https://play.google.com/store/apps/details?id=com.spada.view</link>
         <package>com.spada.view</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/view.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/rj0jd1Xza54EPpmS00GHRIzqPc591wgFeCs3-nJ4_XOZ36zO8TljYqQRpo-l_QwE5cE=w300-rw</image>
     </theme>
     <theme id="Wavvy">
         <author>Not Just Another Designer</author>
         <link>https://play.google.com/store/apps/details?id=njad.wavvysubs.theme</link>
         <package>njad.wavvysubs.theme</package>
         <pricing>Paid</pricing>
-        <support>overlays|fonts|sounds|wallpapers</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/wavvy.jpg</backgroundimage>
-        <image>http://lh3.googleusercontent.com/zFOqybPcGnaP2ltZfbsgAjV2oa-MsUdQQYpBQMLKp3PlYIqFflUSwmL48sMJDdrCrJY=w300-rw</image>
     </theme>
 </substratum>
