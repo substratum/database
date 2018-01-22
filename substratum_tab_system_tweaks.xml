@@ -9,15 +9,6 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/substweaks.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/MKqm5lHSOwNfxf_KhBc8dqmLNs04gLGtsTnAa</image>
     </theme>
-    <theme id="Amazed Navbars">
-        <author>Steven Sawyer (Archangel)</author>
-        <link>https://play.google.com/store/apps/details?id=com.amazed.navbars</link>
-        <package>com.amazed.navbars</package>
-        <pricing>Paid</pricing>
-        <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/amazednavbars.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/ZUgd2pWm8rfnArzc5R4BpHQ3a07NfX4NJGrDd-6Xz2OzdL4g2Rkr_qMiR6r5nFGaREw=w300-rw</image>
-    </theme>
     <theme id="AIO // THEME EXPANDER">
         <author>moelle</author>
         <link>https://play.google.com/store/apps/details?id=com.moelle.ddboot</link>
@@ -81,33 +72,6 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/gaia.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/UpNkgD4t5ALm54C-4mlamLxgJ_nZLy2EjPlgOcNGyqg4VAPzQ6EBe9WCsMIeWlASgg=w300-rw</image>
     </theme>
-    <theme id="Lock Clean">
-        <author>Andre Zimmermann (Kohlewrrk)</author>
-        <link>https://play.google.com/store/apps/details?id=com.kohlewrrk.lockclean</link>
-        <package>com.kohlewrrk.lockclean</package>
-        <pricing>Free</pricing>
-        <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/lockclean.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/sdH75qL7AqCR7TAdPn1vImUnr30VRy7u2zW_6SZ04CJCK4KtFZrHuHCZXEqPjFetEw=w300-rw</image>
-    </theme>
-    <theme id="NavBars Theme">
-        <author>Faiyaz Sheth</author>
-        <link>https://play.google.com/store/apps/details?id=n.n.Navbars</link>
-        <package>n.n.Navbars</package>
-        <pricing>Free</pricing>
-        <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/navbars.png</backgroundimage>
-        <image>http://lh3.googleusercontent.com/yKZr3hj1Zx8d62ANPmPgiO-OQgMacWz23ghESeYa5a_TCXc4RroLLlV7SV7H39cFtjiB=w300-rw</image>
-    </theme>
-    <theme id="NavSwag">
-        <author>Rahul K Dinesh</author>
-        <link>https://play.google.com/store/apps/details?id=com.b16h22.navswag</link>
-        <package>com.b16h22.navswag</package>
-        <pricing>Paid</pricing>
-        <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/navswag.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/R2aaFGSISP24Xb5RRoXXInFliUfz3rjweaDSXn1m48sFRNOJ6w86K20ZmyhmxcUVug=w300-rw</image>
-    </theme>
     <theme id="Ozone">
         <author>ungeeked</author>
         <link>https://play.google.com/store/apps/details?id=com.ungeeked.ozone</link>
@@ -116,50 +80,5 @@
         <support>overlays</support>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ozone.png</backgroundimage>
         <image>https://lh3.googleusercontent.com/pG0-SpAT0uloqNDCSa5a2aIxXcd5QoJfsTfeZuu1SKtSG-vCYekebFjWyB6-If6_RI4=w300-rw</image>
-    </theme>
-    <theme id="S8 Navbar">
-        <author>Orpheusdroid</author>
-        <link>https://play.google.com/store/apps/details?id=com.orpheusdroid.s8navbarsubs</link>
-        <package>com.orpheusdroid.s8navbarsubs</package>
-        <pricing>Paid</pricing>
-        <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/s8navbar.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/tgCfhD0aKo2fWJ6KgEOPobg6U_VCLQW3xnWzMSY3cim5ivv5lKF1tteu87N0oVilbFw=w300-rw</image>
-    </theme>
-    <theme id="SubNa">
-        <author>LF.PRODEV</author>
-        <link>https://play.google.com/store/apps/details?id=lfprodev.substratum.subna</link>
-        <package>lfprodev.substratum.subna</package>
-        <pricing>Free</pricing>
-        <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/subna.jpg</backgroundimage>
-        <image>https://lh3.googleusercontent.com/tgCfhD0aKo2fWJ6KgEOPobg6U_VCLQW3xnWzMSY3cim5ivv5lKF1tteu87N0oVilbFw=w300-rw</image>
-    </theme>
-    <theme id="Trip Nav Bar">
-        <author>Gianluca Spadazzi</author>
-        <link>https://play.google.com/store/apps/details?id=com.spada.tripnavbar</link>
-        <package>com.spada.tripnavbar</package>
-        <pricing>Free</pricing>
-        <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/tripnavbar.jpg</backgroundimage>
-        <image>http://lh3.googleusercontent.com/hVi3lsMSl29sysQbIRsVQjjsCFAxy_JEEphml197mlrFZPVL-KA78qgQsQSEaBMLIPU=w300-rw</image>
-    </theme>
-    <theme id="Vivid Navbars Quicksettings">
-        <author>Michele Amendolagine</author>
-        <link>https://play.google.com/store/apps/details?id=com.ami.vivid</link>
-        <package>com.ami.vivid</package>
-        <pricing>Free</pricing>
-        <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vividnavbarsqs.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/-d1pAUmILN1Dk9sL-KMiVUYMOliD3JBi-217FXmYXoo4fP-FCkyQSF4H_i9lePzpV8g=w300-rw</image>
-    </theme>
-    <theme id="Vivid Navbars Quicksettings Pro">
-        <author>Michele Amendolagine</author>
-        <link>https://play.google.com/store/apps/details?id=com.ami.vividiconset</link>
-        <package>com.ami.vividiconset</package>
-        <pricing>Paid</pricing>
-        <support>overlays</support>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vividnavbarsqspro.png</backgroundimage>
-        <image>https://lh3.googleusercontent.com/fgvu0YgNdaRpYzcgKzprSmvvQ5QGaeh0Aq2EJ9W9ZvjdH8-vTJcbwTB_MndGXPXOoQ=w300-rw</image>
     </theme>
 </substratum>
