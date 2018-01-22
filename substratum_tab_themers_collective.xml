@@ -47,6 +47,6 @@
         <link>https://play.google.com/store/apps/details?id=substratum.xperia.lockscreens</link>
         <package>substratum.xperia.lockscreens</package>
         <pricing>Free</pricing>
-        <backgroundimage></backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/xperialockscreen.jpg</backgroundimage>
     </theme>
 </substratum>
