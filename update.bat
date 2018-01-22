@@ -1,1 +1,0 @@
-start java -jar showcase-updater.jar
