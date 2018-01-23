@@ -266,4 +266,11 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/uraniumui.jpg</backgroundimage>
     </theme>
+    <theme id="Vacuum">
+        <author>Alice Project</author>
+        <link>https://play.google.com/store/apps/details?id=alice.project.vacuum</link>
+        <package>alice.project.vacuum</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vacuum.png</backgroundimage>
+    </theme>
 </substratum>
