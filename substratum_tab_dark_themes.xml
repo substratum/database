@@ -71,7 +71,7 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/cosmos.jpg</backgroundimage>
     </theme>
     <theme id="Dark Infusion">
-        <author>Jake Engdahl (TheRealBigJake)</author>
+        <author>TheRealBigJake</author>
         <link>https://play.google.com/store/apps/details?id=com.therealbigjake.darkorange</link>
         <package>com.therealbigjake.darkorange</package>
         <pricing>Paid</pricing>
