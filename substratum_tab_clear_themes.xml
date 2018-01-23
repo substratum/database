@@ -28,6 +28,13 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/prime.jpg</backgroundimage>
     </theme>
+    <theme id="Sai's Oreo Theme">
+        <author>Sai</author>
+        <link>https://play.google.com/store/apps/details?id=baka.sai.oreo</link>
+        <package>baka.sai.oreo</package>
+        <pricing>Free</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/saioreo.png</backgroundimage>
+    </theme>
     <theme id="Sprite">
         <author>DJDarkknight96</author>
         <link>https://play.google.com/store/apps/details?id=com.djdarkknight.subs.sprite</link>

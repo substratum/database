@@ -252,6 +252,13 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/risaltodark.png</backgroundimage>
     </theme>
+    <theme id="Sai's Oreo Theme">
+        <author>Sai</author>
+        <link>https://play.google.com/store/apps/details?id=baka.sai.oreo</link>
+        <package>baka.sai.oreo</package>
+        <pricing>Free</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/saioreo.png</backgroundimage>
+    </theme>
     <theme id="Shade UI">
         <author>Gianluca Spadazzi</author>
         <link>https://play.google.com/store/apps/details?id=com.spada.tealholerro</link>
