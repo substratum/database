@@ -50,7 +50,7 @@
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/tripnavbar.jpg</backgroundimage>
     </theme>
-    <theme id="Vivid Navbars Quicksettings">
+    <theme id="Vivid Navbars Quicksettings Free">
         <author>Michele Amendolagine</author>
         <link>https://play.google.com/store/apps/details?id=com.ami.vivid</link>
         <package>com.ami.vivid</package>
