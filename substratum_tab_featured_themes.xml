@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
+    <theme id="yoru. for Samsung Oreo (FREE)">
+        <author>ohayoubaka</author>
+        <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.yoru</link>
+        <package>com.ohayoubaka.yoru</package>
+        <pricing>Free</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/yoru.png</backgroundimage>
+    </theme>
+    <theme id="yoru. for Samsung Oreo (DONATE)">
+        <author>ohayoubaka</author>
+        <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.yoru.donate</link>
+        <package>com.ohayoubaka.yoru.donate</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/yoru.png</backgroundimage>
+    </theme>
 </substratum>
