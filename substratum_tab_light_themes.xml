@@ -259,6 +259,13 @@
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/streamlinedlight.jpg</backgroundimage>
     </theme>
+    <theme id="Swift Light">
+        <author>Per Lycke &amp; Davide Lilli</author>
+        <link>https://play.google.com/store/apps/details?id=com.brit.swiftlight.substratum</link>
+        <package>com.brit.swiftlight.substratum</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftlight.png</backgroundimage>
+    </theme>
     <theme id="Uranium UI">
         <author>CyTech</author>
         <link>https://play.google.com/store/apps/details?id=com.cytech.uraniumsubstratum</link>
