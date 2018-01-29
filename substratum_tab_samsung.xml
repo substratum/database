@@ -77,6 +77,13 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftdark.jpg</backgroundimage>
     </theme>
+    <theme id="Swift Minimal">
+        <author>Per Lycke &amp; Davide Lilli</author>
+        <link>https://play.google.com/store/apps/details?id=com.brit.swift.minimal</link>
+        <package>com.brit.swift.minimal</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftminimal.png</backgroundimage>
+    </theme>
     <theme id="Transparent Lockscreen Free">
         <author>ohayoubaka</author>
         <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.transparentlockscreensamsung</link>
