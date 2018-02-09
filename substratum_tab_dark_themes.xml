@@ -301,6 +301,13 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/thajoker.jpg</backgroundimage>
     </theme>
+    <theme id="Twilight Night">
+        <author>Alice Project</author>
+        <link>https://play.google.com/store/apps/details?id=aliceteam.theme.twilight.night</link>
+        <package>aliceteam.theme.twilight.night</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/twilightnight.png</backgroundimage>
+    </theme>
     <theme id="Valerie">
         <author>DeadmanxXD</author>
         <link>https://play.google.com/store/apps/details?id=com.samsoft.valerie</link>
