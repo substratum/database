@@ -245,6 +245,15 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/quetzal.jpg</backgroundimage>
     </theme>
+    <theme id="ResoluteUI">
+        <author>AutoSkive</author>
+        <link>https://play.google.com/store/apps/details?id=com.autoskive.resoluteui</link>
+        <package>com.autoskive.resoluteui</package>
+        <pricing>Paid</pricing>
+        <support>overlays|fonts|sounds|bootanimations|wallpapers</support>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/resoluteui.png</backgroundimage>
+        <image>https://lh3.googleusercontent.com/0puWzEu1o0fGJzgoJp1Asrdaz39ByGPN2jfwVpEXmNBuZDl2FIXtlxl27lWlbG5OrjM=w300-rw</image>
+    </theme>
     <theme id="Risalto Dark">
         <author>Leonardo Fraccaroli</author>
         <link>https://play.google.com/store/apps/details?id=com.leofracca.risaltodarksubs</link>
