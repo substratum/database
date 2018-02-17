@@ -7,6 +7,13 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/lone4subs.png</backgroundimage>
     </theme>
+    <theme id="M5 Theme">
+        <author>by ElTifo</author>
+        <link>https://play.google.com/store/apps/details?id=m5.eltifo.theme</link>
+        <package>m5.eltifo.theme</package>
+        <pricing>Free</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/m5theme.png</backgroundimage>
+    </theme>
     <theme id="Magpie Clear">
         <author>Jimmy Setiawan</author>
         <link>https://play.google.com/store/apps/details?id=com.setiawanjimmy.MagpieClear</link>
