@@ -26,7 +26,7 @@
     <rom name="EuclideanOS" id="ro.eucos.version" />
     <rom name="Evervolv" id="ro.evervolv.version" />
     <rom name="Exodus" id="ro.exodus.version" />
-    <rom name="Firehound" id="ro.fh.version" />
+    <rom name="FireHound" id="ro.fh.version" />
     <rom name="GZOSP" id="ro.gzosp.version" />
     <rom name="halogenOS" id="ro.xos.version" />
     <rom name="ibrokemylineage" id="ro.ibrokemy.version" />
