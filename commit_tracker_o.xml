@@ -1,26 +1,17 @@
 <?xml version="1.0"?>
 <substratum>
     <repo name="android">
-    </repo>
-
-    <repo name="com.android.calculator2">
-    </repo>
-
-    <repo name="com.android.contacts">
-    </repo>
-
-    <repo name="com.android.contacts.common">
-    </repo>
-
-    <repo name="com.android.dialer">
-    </repo>
-
-    <repo name="com.android.phone.common">
+        <bools>https://raw.githubusercontent.com/SubstratumResources/platform_frameworks_base/o/core/res/res/values/projekt_config.xml</bools>
+        <colors>https://raw.githubusercontent.com/SubstratumResources/platform_frameworks_base/o/core/res/res/values/projekt_colors.xml</colors>
     </repo>
 
     <repo name="com.android.settings">
+        <colors>https://raw.githubusercontent.com/SubstratumResources/platform_packages_apps_settings/o/res/values/projekt_colors.xml</colors>
     </repo>
 
     <repo name="com.android.systemui">
+        <colors>https://raw.githubusercontent.com/SubstratumResources/platform_frameworks_base/o/packages/SystemUI/res/values/projekt_colors.xml</colors>
+        <bools>https://raw.githubusercontent.com/SubstratumResources/platform_frameworks_base/o/packages/SystemUI/res/values/projekt_config.xml</bools>
+        <styles>https://raw.githubusercontent.com/SubstratumResources/platform_frameworks_base/o/packages/SystemUI/res/values/projekt_styles.xml</styles>
     </repo>
 </substratum>
