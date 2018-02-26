@@ -84,7 +84,7 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftlight.png</backgroundimage>
     </theme>
-    <theme id="Swift Minimal">
+    <theme id="Swift for Samsung">
         <author>Per Lycke &amp; Davide Lilli</author>
         <link>https://play.google.com/store/apps/details?id=com.brit.swift.minimal</link>
         <package>com.brit.swift.minimal</package>
