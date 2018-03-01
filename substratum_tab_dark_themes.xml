@@ -303,6 +303,14 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftdark.jpg</backgroundimage>
     </theme>
+    </theme>
+    <theme id="Sprite">
+        <author>DJDarkknight96</author>
+        <link>https://play.google.com/store/apps/details?id=com.djdarkknight.subs.sprite</link>
+        <package>com.djdarkknight.subs.sprite</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/Sprite.jpg</backgroundimage>
+    </theme>
     <theme id="ThaJoker SupernovaRemix">
         <author>Train88</author>
         <link>https://play.google.com/store/apps/details?id=com.train88.thajoker</link>
