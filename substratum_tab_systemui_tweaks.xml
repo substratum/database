@@ -7,6 +7,13 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/amazednavbars.jpg</backgroundimage>
     </theme>
+    <theme id="K-Klock">
+        <author>KpChuck</author>
+        <link>https://play.google.com/store/apps/details?id=kpchuck.k_klock</link>
+        <package>kpchuck.k_klock</package>
+        <pricing>free</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/k-klock.png</backgroundimage>
+    </theme>
     <theme id="Lock Clean">
         <author>Andre Zimmermann (Kohlewrrk)</author>
         <link>https://play.google.com/store/apps/details?id=com.kohlewrrk.lockclean</link>
