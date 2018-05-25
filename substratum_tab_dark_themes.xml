@@ -324,17 +324,17 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/thajoker.jpg</backgroundimage>
     </theme>
-    <theme id="Twilight Night Lite">
+	<theme id="Twilight Night Black">
         <author>Alice Project</author>
-        <link>https://play.google.com/store/apps/details?id=aliceteam.theme.twilight.night</link>
-        <package>aliceteam.theme.twilight.night</package>
-        <pricing>Free</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/twilightnight.png</backgroundimage>
+        <link>https://play.google.com/store/apps/details?id=aliceteam.theme.twilight.night.black</link>
+        <package>aliceteam.theme.twilight.night.black</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/twilightnightblack.png</backgroundimage>
     </theme>
-    <theme id="Twilight Night Pro">
+    <theme id="Twilight Night Dark">
         <author>Alice Project</author>
         <link>https://play.google.com/store/apps/details?id=aliceteam.theme.twilight.night.pro</link>
-        <package>aliceteam.theme.twilight.night</package>
+        <package>aliceteam.theme.twilight.night.pro</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/twilightnight.png</backgroundimage>
     </theme>
