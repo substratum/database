@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
+    <theme id="PitchBlack S">
+        <author>Altan KRK (westcrip)</author>
+        <link>https://play.google.com/store/apps/details?id=pitchblack.samsung.substratum</link>
+        <package>pitchblack.samsung.substratum</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/pitchblack.jpg</backgroundimage>
+    </theme>
+    <theme id="Outline">
+        <author>Niklas Schnettler - (Sh4dowSoul)</author>
+        <link>https://play.google.com/store/apps/details?id=com.schnettler.outline</link>
+        <package>com.schnettler.outline</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/outline_banner.png</backgroundimage>
+    </theme>
 </substratum>
