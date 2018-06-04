@@ -42,6 +42,13 @@
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ion.jpg</backgroundimage>
     </theme>
+    <theme id="Linear">
+        <author>DeadmanxXD</author>
+        <link>https://play.google.com/store/apps/details?id=com.samsoft.linear</link>
+        <package>com.samsoft.linear</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/deadmanxxd/database/master/images/linear.png</backgroundimage>
+    </theme>
     <theme id="nano">
         <author>Piere R</author>
         <link>https://play.google.com/store/apps/details?id=com.pierx.kuro</link>
