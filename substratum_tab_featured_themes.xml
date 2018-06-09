@@ -8,7 +8,7 @@
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/pitchblack.jpg</backgroundimage>
     </theme>
     <theme id="Outline">
-        <author>Niklas Schnettler - (Sh4dowSoul)</author>
+        <author>Niklas Schnettler</author>
         <link>https://play.google.com/store/apps/details?id=com.schnettler.outline</link>
         <package>com.schnettler.outline</package>
         <pricing>Paid</pricing>
