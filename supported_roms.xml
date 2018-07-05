@@ -39,6 +39,7 @@
     <rom name="Liquid Remix" id="ro.liquid.version" />
     <rom name="LiquidNougat" id="ro.nougat.version" />
     <rom name="LiquidDeathOS" id="ro.ld.version" />
+    <rom name="LLuviaOS" id="ro.lluvia.version" />
     <rom name="madOS" id="ro.mados.version" />
     <rom name="Mokee" id="ro.mk.version" />
     <rom name="Nitrogen-OS" id="ro.nitrogen.version" />
