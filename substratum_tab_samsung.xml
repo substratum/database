@@ -2,147 +2,126 @@
 <substratum>
     <theme id="aospUI Black">
         <author>Piereligio Di Sante</author>
-        <link>https://play.google.com/store/apps/details?id=substratum.piereligio.bst</link>
         <package>substratum.piereligio.bst</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/aospuiblack.png</backgroundimage>
     </theme>
     <theme id="Biohazard Samsung Edition">
         <author>Piere R</author>
-        <link>https://play.google.com/store/apps/details?id=com.pierx.biohazard.samsung</link>
         <package>com.pierx.biohazard.samsung</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/biohazardsamsung.jpg</backgroundimage>
     </theme>
     <theme id="Christmas">
         <author>Piere R</author>
-        <link>https://play.google.com/store/apps/details?id=me.piere.christmas</link>
         <package>me.piere.christmas</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/christmas.jpg</backgroundimage>
     </theme>
     <theme id="Cygnus">
         <author>Piere R</author>
-        <link>https://play.google.com/store/apps/details?id=me.piere.cygnus</link>
         <package>me.piere.cygnus</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/cygnus.jpg</backgroundimage>
     </theme>
     <theme id="Fresh Theme">
         <author>Sai</author>
-        <link>https://play.google.com/store/apps/details?id=baka.sai.thema</link>
         <package>baka.sai.thema</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/saifresh.jpg</backgroundimage>
     </theme>
     <theme id="ion">
         <author>Piere R</author>
-        <link>https://play.google.com/store/apps/details?id=com.pierx.ion</link>
         <package>com.pierx.ion</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ion.jpg</backgroundimage>
     </theme>
     <theme id="Linear">
         <author>DeadmanxXD</author>
-        <link>https://play.google.com/store/apps/details?id=com.samsoft.linear</link>
         <package>com.samsoft.linear</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/deadmanxxd/database/master/images/linear.png</backgroundimage>
     </theme>
     <theme id="nano">
         <author>Piere R</author>
-        <link>https://play.google.com/store/apps/details?id=com.pierx.kuro</link>
         <package>com.pierx.kuro</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/nano.png</backgroundimage>
     </theme>
     <theme id="Sprite">
         <author>DJDarkknight96</author>
-        <link>https://play.google.com/store/apps/details?id=com.djdarkknight.subs.sprite</link>
         <package>com.djdarkknight.subs.sprite</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/Sprite.jpg</backgroundimage>
     </theme>
     <theme id="StatusBar Icons (+extras) Free">
         <author>ohayoubaka</author>
-        <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.statusbarsamsung</link>
         <package>com.ohayoubaka.statusbarsamsung</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ohayoubakastatusbar.png</backgroundimage>
     </theme>
     <theme id="StatusBar Icons (+extras) Donate">
         <author>ohayoubaka</author>
-        <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.statusbarsamsung.donate</link>
         <package>com.ohayoubaka.statusbarsamsung.donate</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ohayoubakastatusbar.png</backgroundimage>
     </theme>
     <theme id="Swift Black">
         <author>Per Lycke &amp; Davide Lilli</author>
-        <link>https://play.google.com/store/apps/details?id=com.brit.swiftblack.layers</link>
         <package>com.brit.swiftblack.layers</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftblack.png</backgroundimage>
     </theme>
     <theme id="Swift Dark">
         <author>Per Lycke</author>
-        <link>https://play.google.com/store/apps/details?id=com.brit.swiftdark.substratum</link>
         <package>com.brit.swiftdark.substratum</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftdark.jpg</backgroundimage>
     </theme>
     <theme id="Swift Light">
         <author>Per Lycke &amp; Davide Lilli</author>
-        <link>https://play.google.com/store/apps/details?id=com.brit.swiftlight.substratum</link>
         <package>com.brit.swiftlight.substratum</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftlight.png</backgroundimage>
     </theme>
     <theme id="Swift for Samsung">
         <author>Per Lycke &amp; Davide Lilli</author>
-        <link>https://play.google.com/store/apps/details?id=com.brit.swift.minimal</link>
         <package>com.brit.swift.minimal</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/swiftminimal.png</backgroundimage>
     </theme>
     <theme id="Transparent Lockscreen Free">
         <author>ohayoubaka</author>
-        <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.transparentlockscreensamsung</link>
         <package>com.ohayoubaka.transparentlockscreensamsung</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/transparentlock.png</backgroundimage>
     </theme>
     <theme id="Transparent Lockscreen Donate">
         <author>ohayoubaka</author>
-        <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.transparentlockscreensamsung.donate</link>
         <package>com.ohayoubaka.transparentlockscreensamsung.donate</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/transparentlock.png</backgroundimage>
     </theme>
     <theme id="Valerie">
         <author>DeadmanxXD</author>
-        <link>https://play.google.com/store/apps/details?id=com.samsoft.valerie</link>
         <package>com.samsoft.valerie</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/valerie.jpg</backgroundimage>
     </theme>
     <theme id="Victory">
         <author>Giorgio Cantoni (folgore95)</author>
-        <link>https://play.google.com/store/apps/details?id=it.folgore95.viktoria</link>
         <package>it.folgore95.viktoria</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/victory.png</backgroundimage>
     </theme>
     <theme id="yoru. Free">
         <author>ohayoubaka</author>
-        <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.yoru</link>
         <package>com.ohayoubaka.yoru</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/yoru.png</backgroundimage>
     </theme>
     <theme id="yoru. Donate">
         <author>ohayoubaka</author>
-        <link>https://play.google.com/store/apps/details?id=com.ohayoubaka.yoru.donate</link>
         <package>com.ohayoubaka.yoru.donate</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/yoru.png</backgroundimage>

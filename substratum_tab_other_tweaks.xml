@@ -2,63 +2,54 @@
 <substratum>
     <theme id="//substweaks//">
         <author>Harsh Shandilya</author>
-        <link>https://play.google.com/store/apps/details?id=me.msfjarvis.substweaks</link>
         <package>me.msfjarvis.substweaks</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/substweaks.png</backgroundimage>
     </theme>
     <theme id="AIO // THEME EXPANDER">
         <author>moelle</author>
-        <link>https://play.google.com/store/apps/details?id=com.moelle.ddboot</link>
         <package>com.moelle.ddboot</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/aio.png</backgroundimage>
     </theme>
     <theme id="Battery Icon Mod Substratum">
         <author>Piere R</author>
-        <link>https://play.google.com/store/apps/details?id=com.pierx.baterai</link>
         <package>com.pierx.baterai</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/batteryiconmodsubstratum.jpg</backgroundimage>
     </theme>
     <theme id="Boot for Subs">
         <author>Sreerag Ag</author>
-        <link>https://play.google.com/store/apps/details?id=com.sreerag.boot</link>
         <package>com.sreerag.boot</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/bootforsubs.jpg</backgroundimage>
     </theme>
     <theme id="Curve">
         <author>Gaurav Singh</author>
-        <link>https://play.google.com/store/apps/details?id=com.gaurav.curve</link>
         <package>com.gaurav.curve</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/curve.png</backgroundimage>
     </theme>
     <theme id="Ewhats Color">
         <author>Eduardo Saiz Perez</author>
-        <link>https://play.google.com/store/apps/details?id=com.dudu.EWhatsthemelite</link>
         <package>com.dudu.EWhatsthemelite</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ewhatscolor.png</backgroundimage>
     </theme>
     <theme id="Ewhats Theme">
         <author>Eduardo Saiz Perez</author>
-        <link>https://play.google.com/store/apps/details?id=com.dudu.EWhatstheme</link>
         <package>com.dudu.EWhatstheme</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ewhatstheme.png</backgroundimage>
     </theme>
     <theme id="gaia">
         <author>De Jan (llevo3)</author>
-        <link>https://play.google.com/store/apps/details?id=dejan.llevo3.gaia</link>
         <package>dejan.llevo3.gaia</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/gaia.png</backgroundimage>
     </theme>
     <theme id="Ozone">
         <author>ungeeked</author>
-        <link>https://play.google.com/store/apps/details?id=com.ungeeked.ozone</link>
         <package>com.ungeeked.ozone</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ozone.png</backgroundimage>

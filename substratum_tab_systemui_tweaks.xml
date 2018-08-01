@@ -2,35 +2,30 @@
 <substratum>
     <theme id="Amazed Navbars">
         <author>Steven Sawyer (Archangel)</author>
-        <link>https://play.google.com/store/apps/details?id=com.amazed.navbars</link>
         <package>com.amazed.navbars</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/amazednavbars.jpg</backgroundimage>
     </theme>
     <theme id="K-Klock">
         <author>KpChuck</author>
-        <link>https://play.google.com/store/apps/details?id=kpchuck.k_klock</link>
         <package>kpchuck.k_klock</package>
         <pricing>free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/k-klock.png</backgroundimage>
     </theme>
     <theme id="Lock Clean">
         <author>Andre Zimmermann (Kohlewrrk)</author>
-        <link>https://play.google.com/store/apps/details?id=com.kohlewrrk.lockclean</link>
         <package>com.kohlewrrk.lockclean</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/lockclean.png</backgroundimage>
     </theme>
     <theme id="NavBars Theme">
         <author>Faiyaz Sheth</author>
-        <link>https://play.google.com/store/apps/details?id=n.n.Navbars</link>
         <package>n.n.Navbars</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/navbars.png</backgroundimage>
     </theme>
     <theme id="NavSwag">
         <author>Rahul K Dinesh</author>
-        <link>https://play.google.com/store/apps/details?id=com.b16h22.navswag</link>
         <package>com.b16h22.navswag</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/navswag.jpg</backgroundimage>
@@ -38,35 +33,30 @@
 
     <theme id="S8 Navbar">
         <author>Orpheusdroid</author>
-        <link>https://play.google.com/store/apps/details?id=com.orpheusdroid.s8navbarsubs</link>
         <package>com.orpheusdroid.s8navbarsubs</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/s8navbar.jpg</backgroundimage>
     </theme>
     <theme id="SubNa">
         <author>LF.PRODEV</author>
-        <link>https://play.google.com/store/apps/details?id=lfprodev.substratum.subna</link>
         <package>lfprodev.substratum.subna</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/subna.jpg</backgroundimage>
     </theme>
     <theme id="Trip Nav Bar">
         <author>Gianluca Spadazzi</author>
-        <link>https://play.google.com/store/apps/details?id=com.spada.tripnavbar</link>
         <package>com.spada.tripnavbar</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/tripnavbar.jpg</backgroundimage>
     </theme>
     <theme id="Vivid Navbars Quicksettings Free">
         <author>Michele Amendolagine</author>
-        <link>https://play.google.com/store/apps/details?id=com.ami.vivid</link>
         <package>com.ami.vivid</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vividnavbarsqs.png</backgroundimage>
     </theme>
     <theme id="Vivid Navbars Quicksettings Pro">
         <author>Michele Amendolagine</author>
-        <link>https://play.google.com/store/apps/details?id=com.ami.vividiconset</link>
         <package>com.ami.vividiconset</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vividnavbarsqspro.png</backgroundimage>

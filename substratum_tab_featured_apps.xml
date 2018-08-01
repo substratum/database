@@ -2,14 +2,12 @@
 <substratum>
     <theme id="Lawnchair">
         <author>Team Lawnchair</author>
-        <link>https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah</link>
         <package>ch.deletescape.lawnchair.plah</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/lawnchair.png</backgroundimage>
     </theme>
     <theme id="Privset">
         <author>Oguzhan Yigit</author>
-        <link>https://play.google.com/store/apps/details?id=com.mordred.privset</link>
         <package>com.mordred.privset</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/privset.png</backgroundimage>

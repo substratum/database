@@ -2,14 +2,12 @@
 <substratum>
     <theme id="OrangeKitten PRO">
         <author>Ivan Iskandar</author>
-        <link>https://play.google.com/store/apps/details?id=com.iskandarivan.orangekittenpro</link>
         <package>com.iskandarivan.orangekittenpro</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/orangekittenpro.png</backgroundimage>
     </theme>
     <theme id="//substweaks//">
         <author>Harsh Shandilya</author>
-        <link>https://play.google.com/store/apps/details?id=me.msfjarvis.substweaks</link>
         <package>me.msfjarvis.substweaks</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/substweaks.png</backgroundimage>

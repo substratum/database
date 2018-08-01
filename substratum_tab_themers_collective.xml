@@ -2,49 +2,42 @@
 <substratum>
     <theme id="Curve">
         <author>Gaurav Singh</author>
-        <link>https://play.google.com/store/apps/details?id=com.gaurav.curve</link>
         <package>com.gaurav.curve</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/curve.png</backgroundimage>
     </theme>
     <theme id="Fetish">
         <author>Vitor Hugo</author>
-        <link>https://play.google.com/store/apps/details?id=fetish.pureoreo.vhdesign</link>
         <package>fetish.pureoreo.vhdesign</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fetishoreo.jpg</backgroundimage>
     </theme>
     <theme id="Ice">
         <author>Chetan Lodha</author>
-        <link>https://play.google.com/store/apps/details?id=substratum.theme.ice</link>
         <package>substratum.theme.ice</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ice_banner.jpg</backgroundimage>
     </theme>
     <theme id="Always On Enabler">
         <author>Sai</author>
-        <link>https://play.google.com/store/apps/details?id=baka.sai.pixelEnabler</link>
         <package>baka.sai.pixelEnabler</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/pixelenabler.png</backgroundimage>
     </theme>
     <theme id="Sai's Fresh Theme">
         <author>Sai</author>
-        <link>https://play.google.com/store/apps/details?id=baka.sai.thema</link>
         <package>baka.sai.thema</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fresh.png</backgroundimage>
     </theme>
     <theme id="Sai's Oreo Theme">
         <author>Sai</author>
-        <link>https://play.google.com/store/apps/details?id=baka.sai.oreo</link>
         <package>baka.sai.oreo</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/saioreo.png</backgroundimage>
     </theme>
     <theme id="Xperia Lockscreen Clock">
         <author>Chetan Lodha</author>
-        <link>https://play.google.com/store/apps/details?id=substratum.xperia.lockscreens</link>
         <package>substratum.xperia.lockscreens</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/xperialockscreen.jpg</backgroundimage>

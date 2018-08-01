@@ -2,98 +2,84 @@
 <substratum>
     <theme id="edge">
         <author>De Jan (llevo3)</author>
-        <link>https://play.google.com/store/apps/details?id=dejan.llevo3.edge</link>
         <package>dejan.llevo3.edge</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/edge.png</backgroundimage>
     </theme>
     <theme id="LoNe 4SuBs">
         <author>Kikkos</author>
-        <link>https://play.google.com/store/apps/details?id=com.kikkos.lone4subs</link>
         <package>com.kikkos.lone4subs</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/lone4subs.png</backgroundimage>
     </theme>
     <theme id="M5 Theme">
         <author>by ElTifo</author>
-        <link>https://play.google.com/store/apps/details?id=m5.eltifo.theme</link>
         <package>m5.eltifo.theme</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/m5theme.png</backgroundimage>
     </theme>
     <theme id="Magpie Clear">
         <author>Jimmy Setiawan</author>
-        <link>https://play.google.com/store/apps/details?id=com.setiawanjimmy.MagpieClear</link>
         <package>com.setiawanjimmy.MagpieClear</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/magpie.png</backgroundimage>
     </theme>
     <theme id="nineteen">
         <author>De Jan (llevo3)</author>
-        <link>https://play.google.com/store/apps/details?id=dejan.llevo3.nineteen</link>
         <package>dejan.llevo3.nineteen</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/nineteen.jpg</backgroundimage>
     </theme>
     <theme id="Prime">
         <author>Piere R</author>
-        <link>https://play.google.com/store/apps/details?id=com.pierx.prime.novus</link>
         <package>com.pierx.prime.novus</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/prime.jpg</backgroundimage>
     </theme>
     <theme id="Sai's Oreo Theme">
         <author>Sai</author>
-        <link>https://play.google.com/store/apps/details?id=baka.sai.oreo</link>
         <package>baka.sai.oreo</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/saioreo.png</backgroundimage>
     </theme>
     <theme id="Sprite">
         <author>DJDarkknight96</author>
-        <link>https://play.google.com/store/apps/details?id=com.djdarkknight.subs.sprite</link>
         <package>com.djdarkknight.subs.sprite</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/Sprite.jpg</backgroundimage>
     </theme>
     <theme id="ThaJoker SupernovaRemix">
         <author>Train88</author>
-        <link>https://play.google.com/store/apps/details?id=com.train88.thajoker</link>
         <package>com.train88.thajoker</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/thajoker.jpg</backgroundimage>
     </theme>
     <theme id="Translucent">
         <author>Steven Sawyer (Archangel)</author>
-        <link>https://play.google.com/store/apps/details?id=com.archangel.translucent.clear.substratum</link>
         <package>com.archangel.translucent.clear.substratum</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/translucent.jpg</backgroundimage>
     </theme>
     <theme id="Transparent">
         <author>Gianluca Spadazzi</author>
-        <link>https://play.google.com/store/apps/details?id=com.spada.transparent</link>
         <package>com.spada.transparent</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/transparent.jpg</backgroundimage>
     </theme>
     <theme id="Valerie">
         <author>DeadmanxXD</author>
-        <link>https://play.google.com/store/apps/details?id=com.samsoft.valerie</link>
         <package>com.samsoft.valerie</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/valerie.jpg</backgroundimage>
     </theme>
     <theme id="Prime">
         <author>Piere R</author>
-        <link>https://play.google.com/store/apps/details?id=com.pierx.prime.novus</link>
         <package>com.pierx.prime.novus</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/prime.jpg</backgroundimage>
     </theme>
     <theme id="BigBlu">
         <author>cerj</author>
-        <link>https://play.google.com/store/apps/details?id=com.cerj.bigblu</link>
         <package>com.cerj.bigblu</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/bigblu.png</backgroundimage>

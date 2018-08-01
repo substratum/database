@@ -2,14 +2,12 @@
 <substratum>
     <theme id="The Collection">
         <author>T.M. Wrath</author>
-        <link>https://play.google.com/store/apps/details?id=com.tmwrath.TheCollection.Substratum</link>
         <package>com.tmwrath.TheCollection.Substratum</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/thecollection.jpg</backgroundimage>
     </theme>
     <theme id="The Collection: Vol 2">
         <author>T.M. Wrath</author>
-        <link>https://play.google.com/store/apps/details?id=com.tmwrath.TheCollection.Substratum.v2</link>
         <package>com.tmwrath.TheCollection.Substratum.v2</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/thecollectionv2.png</backgroundimage>
