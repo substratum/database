@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
-    <theme id="PitchBlack S">
-        <author>Altan KRK (westcrip)</author>
-        <link>https://play.google.com/store/apps/details?id=pitchblack.samsung.substratum</link>
-        <package>pitchblack.samsung.substratum</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/pitchblack.jpg</backgroundimage>
+    <theme id="TGXEmojis">
+        <author>Skittles9823 x Friends</author>
+        <package>emojis.skittles.telegramx</package>
+        <pricing>Free</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/tgxemojis.png</backgroundimage>
     </theme>
-    <theme id="Outline">
-        <author>Niklas Schnettler</author>
-        <link>https://play.google.com/store/apps/details?id=com.schnettler.outline</link>
-        <package>com.schnettler.outline</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/outline_banner.png</backgroundimage>
-    </theme>
-    <theme id="Linear">
-        <author>DeadmanxXD</author>
-        <link>https://play.google.com/store/apps/details?id=com.samsoft.linear</link>
-        <package>com.samsoft.linear</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/deadmanxxd/database/master/images/linear.png</backgroundimage>
+    <theme id="TGXMods">
+        <author>Skittles9823 x Friends</author>
+        <package>mods.skittles.telegramx</package>
+        <pricing>Free</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/tgxmods.png</backgroundimage>
     </theme>
 </substratum>

@@ -63,16 +63,14 @@
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/ozone.png</backgroundimage>
     </theme>
-    <theme id="TelegramXEmojis">
+    <theme id="TGXEmojis">
         <author>Skittles9823 x Friends</author>
-        <link>https://t.me/TGXEmojis</link>
         <package>emojis.skittles.telegramx</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/tgxemojis.png</backgroundimage>
     </theme>
-    <theme id="TelegramXMods">
+    <theme id="TGXMods">
         <author>Skittles9823 x Friends</author>
-        <link>https://t.me/TGXMods</link>
         <package>mods.skittles.telegramx</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/tgxmods.png</backgroundimage>
