@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
-    <theme id="TGXEmojis">
-        <author>Skittles9823 x Friends</author>
-        <package>emojis.skittles.telegramx</package>
-        <pricing>Free</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/tgxemojis.png</backgroundimage>
-    </theme>
-    <theme id="TGXMods">
-        <author>Skittles9823 x Friends</author>
-        <package>mods.skittles.telegramx</package>
-        <pricing>Free</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/tgxmods.png</backgroundimage>
+    <theme id="BigBlu">
+        <author>cerj</author>
+        <package>com.cerj.bigblu</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/bigblu.png</backgroundimage>
     </theme>
 </substratum>
