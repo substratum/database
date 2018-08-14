@@ -144,6 +144,12 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/gravija_dark.jpg</backgroundimage>
     </theme>
+    <theme id="Greyscale">
+        <author>Sreeraj AG</author>
+        <package>substratum.sreerag.greyscale</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/greyscale.png</backgroundimage>
+    </theme>
     <theme id="LoNe 4SuBs">
         <author>Kikkos</author>
         <package>com.kikkos.lone4subs</package>
