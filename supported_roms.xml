@@ -54,6 +54,7 @@
     <rom name="Pure Nexus" id="ro.pure.version" />
     <rom name="Resurrection Remix" id="ro.rr.device" />
     <rom name="SimpleAOSP" id="ro.saosp.version" />
+    <rom name="StatiXOS" id="ro.statix.version" />
     <rom name="Screw'd" id="ro.screwd.version" />
     <rom name="Tesla" id="ro.tesla.version" />
     <rom name="Tipsy" id="ro.tipsy.version" />
