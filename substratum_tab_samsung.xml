@@ -48,6 +48,12 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/nano.png</backgroundimage>
     </theme>
+    <theme id="PitchBlack Samsung">
+        <author>Altan KRK (westcrip)</author>
+        <package>pitchblack.samsung.substratum</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/pitchblacksamsung.png</backgroundimage>
+    </theme>
     <theme id="Sprite">
         <author>DJDarkknight96</author>
         <package>com.djdarkknight.subs.sprite</package>
