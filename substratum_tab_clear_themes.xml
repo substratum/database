@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
+    <theme id="Calypso">
+        <author>Alejandro Ponce</author>
+        <package>com.itssaalex.calypso</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/calypso.png</backgroundimage>
+    </theme>
     <theme id="edge">
         <author>De Jan (llevo3)</author>
         <package>dejan.llevo3.edge</package>
