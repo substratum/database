@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <substratum>
-    <theme id="Lawnchair">
-        <author>Team Lawnchair</author>
-        <package>ch.deletescape.lawnchair.plah</package>
+    <theme id="Tapete">
+        <author>llevo3 ★ design</author>
+        <package>dejan.llevo3.wallpapers</package>
         <pricing>Free</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/lawnchair.png</backgroundimage>
-    </theme>
-    <theme id="Privset">
-        <author>Oguzhan Yigit</author>
-        <package>com.mordred.privset</package>
-        <pricing>Free</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/privset.png</backgroundimage>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/tapete.png</backgroundimage>
     </theme>
 </substratum>
