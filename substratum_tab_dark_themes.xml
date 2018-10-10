@@ -60,6 +60,12 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/cosmos.jpg</backgroundimage>
     </theme>
+    <theme id="DarkCroc Theme">
+        <author>SpiritCroc</author>
+        <package>de.spiritcroc.darkcroc.substratum</package>
+        <pricing>Free</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/darkcroctheme.jpg</backgroundimage>
+    </theme>
     <theme id="Dark Infusion">
         <author>TheRealBigJake</author>
         <package>com.therealbigjake.darkorange</package>
