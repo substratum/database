@@ -246,4 +246,11 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/vacuum.png</backgroundimage>
     </theme>
+	<theme id="dope">
+        <author>Alice Project Studio</author>
+        <link>https://play.google.com/store/apps/details?id=alice.project.dope</link>
+        <package>alice.project.dope</package>
+        <pricing>Paid</pricing>
+        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/dope.png</backgroundimage>
+    </theme> 
 </substratum>
