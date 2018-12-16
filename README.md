@@ -1,4 +1,4 @@
-# Substratum Database
+# Substratum Database [![Build Status](https://travis-ci.com/substratum/database.svg?branch=master)](https://travis-ci.com/substratum/database)
 
 This is a collection of XML files and tools used by the Substratum team to keep supported ROMs and themes documented. There are two ways to get into this repo as a ROM developer and themer.
 
