@@ -1,0 +1,11 @@
+language: python
+python: "3.6"
+
+install:
+    - pip install -r requirements.txt
+
+script:
+    - python verify_tabs_db.py
+
+notifications:
+  email: false
