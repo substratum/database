@@ -63,7 +63,7 @@
     <theme id="Fetish: Oreo">
          <author>VH Design</author>
          <package>fetish.pureoreo.vhdesign</package>
-         <pricing>free</pricing>
+         <pricing>Free</pricing>
          <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fetishoreo.jpg</backgroundimage>
     </theme>    
     <theme id="Flare UI">
@@ -159,7 +159,7 @@
     <theme id="minimaterial">
         <author>Dimitris Psallidas (eurochild)</author>
         <package>com.dps.minimaterialsub</package>
-        <pricing>paid</pricing>
+        <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/minimaterial.png</backgroundimage>
     </theme>
     <theme id="Harmony FREE">

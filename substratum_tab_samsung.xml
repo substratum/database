@@ -15,7 +15,7 @@
     <theme id="Christmas">
         <author>Piere R</author>
         <package>me.piere.christmas</package>
-        <pricing>Paid</pricing>
+        <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/christmas.jpg</backgroundimage>
     </theme>
     <theme id="Cygnus">

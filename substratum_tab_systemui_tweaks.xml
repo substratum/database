@@ -9,7 +9,7 @@
     <theme id="K-Klock">
         <author>KpChuck</author>
         <package>kpchuck.k_klock</package>
-        <pricing>free</pricing>
+        <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/k-klock.png</backgroundimage>
     </theme>
     <theme id="Lock Clean">
