@@ -30,12 +30,6 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/blacklight.png</backgroundimage>
     </theme>
-    <theme id="Breeze UI">
-        <author>CyTech</author>
-        <package>com.cytech.breeze</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/breeze.jpg</backgroundimage>
-    </theme>
     <theme id="Coalfield">
         <author>Andre Zimmermann (Kohlewrrk)</author>
         <package>com.kohlewrrk.coalfield.subs</package>
@@ -72,12 +66,6 @@
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/flare.jpg</backgroundimage>
     </theme>
-    <theme id="Flatty Light">
-        <author>AliceTeam</author>
-        <package>aliceteam.theme.flatty</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/flattylight.png</backgroundimage>
-    </theme>
     <theme id="Flux White">
         <author>John Xionidis (giannisgx89)</author>
         <package>flux.white.substratum</package>
@@ -89,12 +77,6 @@
         <package>com.cytech.fusionsubstratum</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/fusionui.jpg</backgroundimage>
-    </theme>
-    <theme id="Galaxy Evolution">
-        <author>trzpro</author>
-        <package>com.emirbardakci.substratum.touchwiznougat</package>
-        <pricing>Free</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/galaxyevolution.jpg</backgroundimage>
     </theme>
     <theme id="Greyce">
         <author>Prithvi Chavhan</author>
@@ -149,12 +131,6 @@
         <package>m5.eltifo.theme</package>
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/m5theme.png</backgroundimage>
-    </theme>
-    <theme id="Magpie">
-        <author>Jimmy Setiawan</author>
-        <package>com.setiawanjimmy.TheMagpie</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/magpie.png</backgroundimage>
     </theme>
     <theme id="minimaterial">
         <author>Dimitris Psallidas (eurochild)</author>
@@ -221,12 +197,6 @@
         <package>com.cytech.substratumspectra</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/spectra.jpg</backgroundimage>
-    </theme>
-    <theme id="Streamlined Light">
-        <author>Gurpreet Singh</author>
-        <package>snn.streamlined.lite</package>
-        <pricing>Free</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/streamlinedlight.jpg</backgroundimage>
     </theme>
     <theme id="Swift Light">
         <author>Per Lycke &amp; Davide Lilli</author>

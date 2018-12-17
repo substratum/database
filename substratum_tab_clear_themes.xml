@@ -24,12 +24,6 @@
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/m5theme.png</backgroundimage>
     </theme>
-    <theme id="Magpie Clear">
-        <author>Jimmy Setiawan</author>
-        <package>com.setiawanjimmy.MagpieClear</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/magpie.png</backgroundimage>
-    </theme>
     <theme id="nineteen">
         <author>De Jan (llevo3)</author>
         <package>dejan.llevo3.nineteen</package>
@@ -53,12 +47,6 @@
         <package>com.djdarkknight.subs.sprite</package>
         <pricing>Paid</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/Sprite.jpg</backgroundimage>
-    </theme>
-    <theme id="ThaJoker SupernovaRemix">
-        <author>Train88</author>
-        <package>com.train88.thajoker</package>
-        <pricing>Paid</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/thajoker.jpg</backgroundimage>
     </theme>
     <theme id="Translucent">
         <author>Steven Sawyer (Archangel)</author>
