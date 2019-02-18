@@ -84,12 +84,6 @@
         <pricing>Free</pricing>
         <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/derty_dark.jpg</backgroundimage>
     </theme>
-    <theme id="DNA Dark Project">
-        <author>Mike xdnax</author>
-        <package>com.xdnax.apps.dnadarkproject</package>
-        <pricing>Free</pricing>
-        <backgroundimage>https://raw.githubusercontent.com/substratum/database/master/images/dnadark.jpg</backgroundimage>
-    </theme>
     <theme id="Domination">
         <author>David Wilson</author>
         <package>com.annihilation.dominationdonate</package>
